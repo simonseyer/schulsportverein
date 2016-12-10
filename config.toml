@@ -1,0 +1,5 @@
+languageCode = "de-de"
+baseurl = "https://eldorado234.github.io/schulsportverein"
+title = "1. Wiesbadener Schulsportverein 1994 e.V."
+theme = "schulsportverein"
+publishdir = "docs"

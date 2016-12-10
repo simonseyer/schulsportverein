@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+<script src="{{ .Site.BaseURL }}js/modernizr-2.6.1.min.js"></script>
+
+<!-- Icon -->
+<link rel="shortcut icon"
+{{ if .Site.Params.faviconfile }}
+    href="/{{ .Site.Params.faviconfile }}"
+{{ else }}
+    href="/img/favicon.ico"
+{{ end }}
+>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+    {{ partial "head.html" . }}
+
+    <body lang="{{ .Site.Params.lang }}">
+
+        <header id="header" class="clearfix">
+            {{ if .Params.header }}
+                <img src="{{ $.Site.BaseURL }}{{ .Params.header }}" id="cover">
+                <a href="{{ $.Site.BaseURL }}" ><img src="{{ $.Site.BaseURL }}img/logo.png" id="logo"></a>
+            {{end}}
+            <div class="inner">
+                <h1>{{ .Site.Title }}</h1>
+                <nav class="collapsed">
+                    <ul>
+                        {{ $currentNode := . }}
+                        {{ range .Site.Menus.main }}
+                            {{ $isActive := $currentNode.IsMenuCurrent "main" . }}
+                            <li{{ if $isActive }} class="active"{{ end }}>
+                                {{ if $isActive }}
+                                    <div class="a">
+                                        <span>{{ .Name }}</span>
+                                        <span class="toggle">Ⅲ</span>
+                                    </div>
+                                {{ else }}
+                                    <a href="{{ .URL }}">{{ .Name }}</a>
+                                {{ end }}
+                                
+                            </li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            </div>
+        </header>

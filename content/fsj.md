@@ -1,0 +1,45 @@
+---
+title: FSJ
+header: header/two.jpg
+date: "2016-12-10"
+menu: 
+    main:
+        weight: 70
+---
+
+## Freiwilliges Soziales Jahr
+
+Du bist nicht sicher, was du mit deiner Zeit nach der Schule anfangen sollst? Suchst noch deinem Weg in das Berufsleben oder wartest auf den Studienbeginn? Dann bietet dir das Freiwillige soziale Jahr beim Wiesbadener Schulsportverein interessante und abwechslungsreiche Möglichkeiten, dich sozial zu engagieren.
+
+[![Sportjugend Hessen Banner](fsj/banner.jpg)](http://www.sportjugend-hessen.de)
+
+**Wir haben verschiedene Möglichkeiten, wie du dich einbringen kannst:**
+
+*   **Unterstützung bei den Fahrradtagen an Wiesbadener Grundschulen**  
+    Du vermittelst Grundschulkindern die Grundlagen des Fahrrad-Fahrens. Dabei stehen die Theorie und das sichere Fahren im Vordergrund. Du wirst dich an den schnellen Fortschritten der Kinder begeistern und lebendige Stunden mit ihnen verbringen können. [Weitere Informationen zum Fahrradtag](fahrradtag).
+
+*   **Leitung und Betreuung von AGs und anderen Sportangeboten**  
+    Bei diesem Angebot stehen deine eigenen Fähigkeiten und Interessen im Vordergrund. Der Schulsportverein bietet dir den Rahmen, um an verschiedenen Schulen in ganz Wiesbaden AG's für Schüler anzubieten. Du wirst Freude daran haben wie die Kinder von deinem Können lernen und kannst dich hier voll ausleben.  
+
+*   **Projektarbeit**  
+    Es gibt vielfältige Arbeiten, die in einem Verein erledigt werden müssen. Zum Beispiel untersucht der Schulsportverein die Wiesbadener Straßen auf Fahrrad-Tauglichkeit und will so Schulkindern bzw. deren Eltern die Möglichkeit an die Hand geben, sich einge geeignete Route zusammen zu stellen ([Schleichwege-Projekt](schleichwege)). Bei dieser Arbeit wird immer Unterstützung benötigt.
+
+**Doch was bringt dir das FSJ beim Schulsportverein**
+
+*   Die Arbeit mit Kindern und Jugendlichen bringt dich persönlich weiter.
+*   Die Zeit, in der du noch nach Orientierung suchst, setzt du sinnvoll und gewinnbringend ein - für dich und für andere.
+*   Du begibst dich in einen jungen und engagierten Verein mit Zukunftsperspektiven
+
+### Die Rahmenbedingungen:
+
+*   Du bist zwischen 16 und 27 Jahr alt.
+*   DAS FSJ dauert 12 Monate (1\. September - 31\. August).
+*   Die Arbeitszeit ist mit <span>38,5 Stunden pro Woche angesetzt.</span>
+*   Du bekommst 300 € im Monat.
+*   <span>Sozialversicherungsbeiträge sowie Haftpflichtversicherung und Unfallversicherung werden übernommen.</span>
+*   <span>Du hast 26 Tage Urlaub und 25 Tage Bildungsurlaub.</span>
+*   <span><span>Das Kindergeld (und evtl. eine Waisenrente) werden weiter bezahlt.</span></span>
+
+### Weitere Informationen
+
+Detailiertere Informationen bekommst du im Flyer und auf der Seite der Sportjugend Hessen:

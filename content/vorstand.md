@@ -1,0 +1,99 @@
+---
+title: Vorstand
+header: header/two.jpg
+date: "2016-12-10"
+menu: 
+    main:
+        weight: 80
+---
+
+# Kontaktdaten des erweiterten Vorstandes
+
+## 1 Vorsitzender
+
+**Matthias Richter (Fachwart Radsport)**  
+Platter Straße 77  
+65193 Wiesbaden  
+Telefon: 0611/ 2405621 oder 0175/ 3730753  
+E-Mail: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)
+
+## 2 Vorsitzender
+
+**Oliver Gorgels (Fachwart Breitensport)**  
+Platter Straße 73  
+65193 Wiesbaden  
+Telefon:  0171/ 5407677  
+E-Mail: [phantasialand_fan@hotmail.com](mailto:phantasialand_fan@hotmail.com)
+
+## Kassenwart
+
+**Simone Niederprüm**  
+Grundweg 5  
+65187 Wiesbaden  
+Telefon: 0611/ 808131 oder 0174 / 2463234  
+E-Mail: [meliana2002@hotmail.com](mailto:meliana2002@hotmail.com)
+
+## Schriftführer
+
+**Kathrin Porbadnigk**  
+Platter Straße 73  
+65193 Wiesbaden  
+Telefon: 0179 / 4563259  
+E-Mail: [geforce_fan@hotmail.de](mailto:geforce_fan@hotmail.de)
+
+## Pressewart
+
+**Andreas Herberger**  
+Von-Leyden-Straße 46  
+65191 Wiesbaden  
+E-Mail: [aherberger@makrolog.de](mailto:aherberger@makrolog.de)
+
+## Jugendwart
+
+**Simon Seyer**  
+Platter Straße 57  
+65193 Wiesbaden  
+Telefon: 0176 / 45690774  
+E-Mail: [simon.seyer@gmail.com](mailto:simon.seyer@gmail.com)
+
+## Jugendsprecher
+
+**Celine Knapp**  
+Wilhelminenstraße 14a  
+65193 Wiesbaden  
+Telefon: 0176 / 85962131  
+E-Mail: [celineknapp1@gmail.com](mailto:celineknapp1@gmail.com)
+
+## Abteilungsleiter Tanzen
+
+**Henry Meinhard**  
+Pfitznerstraße 10  
+65193 Wiesbaden  
+Telefon: 0611 / 1370268  
+E-Mail: [henry@tanzlaune.de](mailto:henry@tanzlaune.de)
+
+## Beisitzer
+
+**Klaus Seibold**  
+Niedernhausener Straße 49a  
+65207 Wiesbaden  
+Telefon: 0611/ 54608 oder 0179/ 4772575  
+E-Mail: [klaus.seibold@web.de](mailto:klaus.seibold@web.de)
+
+**Manuel Dreizehnter**  
+Wittenberger Straße 1  
+65191 Wiesbaden  
+Telefon: 0157 / 32795683  
+E-Mail: [ManuelDreizehnter@web.de](mailto:ManuelDreizehnter@web.de)
+
+**Denis Narkulov**  
+Von-Leyden-Straße 46  
+65191 Wiesbaden    
+Telefon: 0172 / 6983793  
+E-Mail: [denis.narkulov@hotmail.de](mailto:denis.narkulov@hotmail.de)
+
+**Willy Knapp**  
+Wilhelminenstraße 14a  
+65193 Wiesbaden    
+Telefon: 0176 / 24645820  
+E-Mail: [H_W_Knapp@t-online.de](mailto:H_W_Knapp@t-online.de)
