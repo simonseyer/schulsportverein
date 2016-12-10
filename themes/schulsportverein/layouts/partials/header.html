@@ -30,6 +30,23 @@
                             </li>
                         {{ end }}
                     </ul>
+                    <ul class="secondary">
+                        {{ $currentNode := . }}
+                        {{ range .Site.Menus.secondary }}
+                            {{ $isActive := $currentNode.IsMenuCurrent "secondary" . }}
+                            <li{{ if $isActive }} class="active"{{ end }}>
+                                {{ if $isActive }}
+                                    <div class="a">
+                                        <span>{{ .Name }}</span>
+                                        <span class="toggle">Ⅲ</span>
+                                    </div>
+                                {{ else }}
+                                    <a href="{{ .URL }}">{{ .Name }}</a>
+                                {{ end }}
+                                
+                            </li>
+                        {{ end }}
+                    </ul>
                 </nav>
             </div>
         </header>
