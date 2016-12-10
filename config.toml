@@ -5,9 +5,14 @@ theme = "schulsportverein"
 publishdir = "docs"
 
 [params]
-	facebook = true
 	cdn = true
 	description = "Der 1. Wiesbadener Schulsportverein 1994 e.V. (WSV) ist ein schulbezogener Breitensportverein mit dem Schwerpunkt Radsport. Ein Verein für alle, egal was jemand kann oder wo er her kommt."
+
+[[menu.secondary]]
+    name = "Facebook"
+    weight = -10
+    identifier = "facebook"
+    url = "https://www.facebook.com/schulsportverein/"
 
 [[menu.secondary]]
     name = "Mitgliedsantrag (PDF)"
