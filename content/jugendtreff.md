@@ -35,4 +35,4 @@ Wir möchten noch darauf hinweisen, dass unsere Aufsicht sich auf den Schulhof d
 
 ## So findest du zu uns
 
-![Wegbeschreibung](jugendtreff/wegbeschreibung.png)
+![Wegbeschreibung](wegbeschreibung.png)

@@ -12,7 +12,7 @@ menu:
 ## Informationen für Schulen
 
 Nutzen Sie unseren Kalender, um einen Termin für Ihre Schulen zu finden: 
-**[Kalender öffnen](http://schulsportverein.de/termine-fahrradtag)**.
+**[Kalender öffnen](termine-fahrradtag)**.
 
 Erfahren Sie alle Rahmenbedingungen des Fahrradtages im 
 **[Informationsschreiben](fahrradtag/Infoschreiben.pdf)** 

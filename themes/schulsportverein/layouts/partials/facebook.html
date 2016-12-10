@@ -1,3 +1,5 @@
+{{ if .Site.Params.facebook }}
+
 <h1>Auf Facebook</h1>
 
 <div class="fb-follow" data-href="https://facebook.com/schulsportverein/" data-layout="standard" data-size="large" data-show-faces="true"></div>
@@ -10,3 +12,5 @@
   js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.8";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+{{ end }}

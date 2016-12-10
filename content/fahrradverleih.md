@@ -8,3 +8,8 @@ menu:
 ---
 
 # Fahrradverleih
+
+Vereinsmitglieder können sich Fahrräder vom Verein ausleihen. 
+
+Vor der ersten Ausleihe muss einmalig der folgende Vertrag unterschrieben werden:  
+**[Vertrag öffnen](fahrradverleih/fahrradverleih.pdf)**.
