@@ -6,10 +6,12 @@
     <body lang="{{ .Site.Params.lang }}">
 
         <header id="header" class="clearfix">
-            {{ if .Params.header }}
-                <img src="{{ $.Site.BaseURL }}{{ .Params.header }}" id="cover">
-                <a href="{{ $.Site.BaseURL }}" ><img src="{{ $.Site.BaseURL }}img/logo.png" id="logo"></a>
-            {{end}}
+            <img src="{{ $.Site.BaseURL }}{{ if .Params.header }}{{ .Params.header }}{{ else }}{{ .Site.Params.defaultHeader }}{{end}}" id="cover">
+            <a href="{{ $.Site.BaseURL }}" ><img src="{{ $.Site.BaseURL }}img/logo.png" id="logo"></a>
+
+            
+                
+            
             <div class="inner">
                 <h1>{{ .Site.Title }}</h1>
                 <nav class="collapsed">
