@@ -68,7 +68,6 @@ Die Organe des Vereins sind:
 
 1. Die Mitgliederversammlung wird durch den Vorstand einberufen.
 2. Die ordentliche Mitgliederversammlung soll im ersten Halbjahr eines jeden Kalenderjahres stattfinden.  
-    
 3. Die Einladung zu einer Mitgliederversammlung hat spätestens zwei Wochen vorher schriftlich oder per E-Mail zu erfolgen.
 4. Die Mitgliederversammlung ist zuständig für folgende Angelegenheiten:
     * Entgegennahme des Jahresberichts des Vorstandes;
