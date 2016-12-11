@@ -24,7 +24,7 @@ IBAN: DE77510900000012270003
 ## Kontakt
 Matthias Richter  
 Telefon: +49 611 240 56 21  
-Handy: +49 175 37 30 753
+Handy: +49 175 37 30 753  
 E-Mail: schulsportverein@hotmail.com  
 Internet: www.Schulsportverein.de  
 
