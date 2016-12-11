@@ -186,6 +186,10 @@ hr {
     margin: 40px 0;
 }
 
+p {
+    margin: 15px 0;
+}
+
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
