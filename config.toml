@@ -10,6 +10,12 @@ publishdir = "docs"
 	description = "Ein schulbezogener Breitensportverein mit dem Schwerpunkt Radsport. Ein Verein für alle, egal was jemand kann oder wo er her kommt."
     defaultHeader = "header/two.jpg"
 
+[[menu.main]]
+    name = "Tanzlaune"
+    weight = 90
+    identifier = "Tanzlaune"
+    url = "https://tanzlaune.de/"
+
 [[menu.secondary]]
     name = "Facebook"
     weight = -10
