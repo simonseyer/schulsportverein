@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:Eldorado234/schulsportverein-hugo-theme.git
+	branch = master
+	commit = af42911afea37f0e3adc08bc6f816547839774a0
+	parent = 1c5dca74e0e4fdb547c2f14183804d74a22dd824
+	cmdver = 0.3.0

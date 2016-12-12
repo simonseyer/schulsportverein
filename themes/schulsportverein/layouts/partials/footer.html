@@ -1,0 +1,16 @@
+        {{ if .Site.Params.partner }}
+
+	        <footer id="footer">
+	            <div class="inner">
+	                
+	                {{ partial "partner.html" . }}
+	                
+	            </div>
+	        </footer>
+
+        {{ end }}
+
+        {{ partial "footer_scripts" . }}
+
+    </body>
+</html>

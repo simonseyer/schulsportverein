@@ -1,0 +1,13 @@
+<script type="text/javascript">
+    var nav = document.querySelector('#header nav');
+
+    var activeNav = document.querySelector('#header nav .active');
+    activeNav.addEventListener('click', function() {
+        if (nav.className != 'clearfix') {
+            nav.className = 'clearfix';
+        } else {
+            nav.className = 'collapsed clearfix';
+        }
+        return false;
+    }, false);
+</script>

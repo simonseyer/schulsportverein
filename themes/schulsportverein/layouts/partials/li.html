@@ -1,0 +1,10 @@
+<li{{ if .isActive }} class="active"{{ end }}>
+    {{ if .isActive }}
+        <div class="a">
+            <span>{{ .content.Name }}</span>
+            <span class="toggle">☰</span>
+        </div>
+    {{ else }}
+        <a href="{{ .content.URL }}">{{ .content.Name }}</a>
+    {{ end }}    
+</li>

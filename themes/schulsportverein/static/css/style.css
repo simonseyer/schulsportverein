@@ -1,0 +1,393 @@
+/*=================================*/
+/* Pico Default Theme
+/* By: Gilbert Pellegrom
+/* http: //dev7studios.com
+/*=================================*/
+
+/* Reset Styles
+/*---------------------------------------------*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    line-height: 1;
+    color: black;
+    background: white;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+caption, th, td {
+    text-align: left;
+    font-weight: normal;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: "";
+}
+
+blockquote, q {
+    quotes: "" "";
+}
+
+/* HTML5 tags */
+header, section, footer,
+aside, nav, article, figure {
+    display: block;
+}
+
+/* Sharper Thumbnails */
+img {
+    -ms-interpolation-mode: bicubic;
+}
+
+/* Main Styles
+/*---------------------------------------------*/
+html { height: 100%; }
+
+body {
+    font: 14px/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;
+    color: #444;
+    background: #fff;
+    -webkit-font-smoothing: antialiased;
+    height: 100%;
+}
+
+a, a:visited {
+    color: #57b563;
+    text-decoration: none;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+a:hover, a:active {
+    color: #000;
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    line-height: 1.2em;
+    margin-bottom: 0.6em;
+    margin-top: 1.2em;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+ol, ul {
+    padding-left: 20px;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+i, em {
+    font-style: italic;
+}
+
+u {
+    text-decoration: underline;
+}
+
+abbr, acronym {
+    cursor: help;
+    border-bottom: 0.1em dotted;
+}
+
+td, td img {
+    vertical-align: top;
+}
+
+td, th {
+    border: solid 1px #999;
+    padding: 0.25em 0.5em;
+}
+
+th {
+    font-weight: bold;
+    text-align: center;
+    background: #eee;
+}
+
+sub {
+    vertical-align: sub;
+    font-size: smaller;
+}
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+code {
+    font-family: Courier, "Courier New", Monaco, Tahoma;
+    background: #eee;
+    color: #333;
+    padding: 0px 2px;
+}
+
+pre {
+    background: #eee;
+    padding: 20px;
+    overflow: auto;
+}
+
+blockquote {
+    font-style: italic;
+    margin-left: 15px;
+    padding-left: 10px;
+    border-left: 5px solid #dddddd;
+}
+
+dd {
+    margin-left: 2em;
+}
+
+hr {
+    background-color: #e0e0e0;
+    height: 2px;
+    border: 0;
+    margin: 40px 0;
+}
+
+p {
+    margin: 15px 0;
+}
+
+/* Structure Styles
+/*---------------------------------------------*/
+.inner {
+    width: 100%;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+#header a {
+    color: #444;
+}
+#header a:hover,
+#header .active a, #header .active div.a {
+    color: #57b563;
+}
+#header h1 {
+    margin: 0;
+    margin-bottom: 30px;
+}
+#header ul {
+    list-style: none;
+    padding: 0;
+}
+#header li {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.44);
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+#header li:last-child {
+    margin: 0
+}
+#header nav a, #header nav li div.a {
+    font-weight: 700;
+    display: block;
+    padding: 5px 10px;
+    position: relative;
+}
+#header nav .toggle {
+    display: none;
+    position: absolute;
+    top: 5px;
+    right: 20px;
+}
+
+#header ul.secondary {
+    padding-top: 10px;
+}
+#header nav .secondary a, #header nav .secondary li div.a  {
+    font-size: 0.86em;
+    padding: 2px 10px;
+}
+#header .secondary li {
+    box-shadow: 1px 1px 2px 0px rgba(173, 173, 173, 0.44);
+    margin-right: 8px;
+}
+
+#header li:last-child {
+    margin: 0
+}
+
+#cover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 40px;
+    box-shadow: 0px 6px 12px 0px rgba(173,173,173,0.61);
+}
+#logo {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    height: 200px;
+}
+
+#content img {
+    max-width: 100%;
+}
+#content li {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#footer {
+    background: #f5f5f5;
+    padding: 20px 0;
+    margin-top: 60px;
+    color: #C0C0C0;
+    box-shadow: inset 0px 6px 12px 0px rgba(173,173,173,0.21);
+}
+#footer .social {
+    float: right;
+    margin: 0 0 0.5em 1em;
+    font-size: 200%;
+}
+#footer a { color: #ddd; }
+#footer a:hover { color: #fff; }
+#partner img {
+    max-height: 70px;
+    
+}
+.fb-follow {
+    margin-bottom: 20px;
+}
+.slogan {
+    font-size: 1.4em;
+    line-height: 2.2em;
+}
+
+/* Misc Styles
+/*---------------------------------------------*/
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
+}
+
+/* Media Queries
+/*---------------------------------------------*/
+
+/* Small Devices, Tablets */
+
+@media only screen and (min-width : 1200px) {
+    #header ul {
+        float: left;
+    }
+    #header ul.secondary {
+        position: absolute;
+        margin-left: 700px;
+        background-color: #f5f5f5;
+        border: 1px solid #e5e5e5;
+        border-radius: 1px;
+        padding: 15px 5px;
+    }
+    #header .secondary li {
+        float: none;
+        display: block;
+        box-shadow: none;
+        margin: 0;
+    }
+    #header nav .secondary a, #header nav .secondary li div.a {
+        padding: 0px 20px;
+        font-size: 0.85em;
+    }
+    #content {
+        min-height: 200px;
+    }
+}
+
+@media only screen and (max-width : 768px) {
+    .inner {
+        width: 85%;
+    }
+    .inner img {
+        width: 100%;
+    }
+    #header nav li, #header nav li:last-child {
+        display: block;
+        float: none;
+        width: 100%;
+        text-align: center;
+        margin: 10px auto;
+    }
+    #header nav.collapsed li {
+        height: 0;
+        opacity: 0;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+        margin: 0;
+    }
+    #header nav li.active {
+        opacity: 1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+        height: inherit;
+    }
+    #header li.active .toggle {
+        display: block;
+    }
+    #logo {
+        left: 0;
+        margin: 0 auto;
+        right: 0;
+    }
+    .slogan {
+        font-size: 1.2em;
+        line-height: 2em;
+    }
+    #footer {
+        margin-top: 40px;
+        padding: 30px 0;
+    }
+    #partner img {
+        width: auto;
+        max-width: 100%;
+    }
+}
