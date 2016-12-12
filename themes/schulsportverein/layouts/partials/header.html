@@ -6,7 +6,7 @@
     <body lang="{{ .Site.Params.lang }}">
 
         <header id="header" class="clearfix">
-            <img src="{{ $.Site.BaseURL }}{{ if .Params.header }}{{ .Params.header }}{{ else }}{{ .Site.Params.defaultHeader }}{{end}}" id="cover" alt="Photo">
+            <div id="cover" style="background-image: url({{ $.Site.BaseURL }}{{ if .Params.header }}{{ .Params.header }}{{ else }}{{ .Site.Params.defaultHeader }}{{end}});"></div>
             <a href="{{ $.Site.BaseURL }}" title="Startseite"><img src="{{ $.Site.BaseURL }}img/logo.png" id="logo" alt="Logo"></a>
 
             <div class="inner">
@@ -16,34 +16,14 @@
                         {{ $currentNode := . }}
                         {{ range .Site.Menus.main }}
                             {{ $isActive := $currentNode.IsMenuCurrent "main" . }}
-                            <li{{ if $isActive }} class="active"{{ end }}>
-                                {{ if $isActive }}
-                                    <div class="a">
-                                        <span>{{ .Name }}</span>
-                                        <span class="toggle">Ⅲ</span>
-                                    </div>
-                                {{ else }}
-                                    <a href="{{ .URL }}">{{ .Name }}</a>
-                                {{ end }}
-                                
-                            </li>
+                            {{ partial "li.html" (dict "content" . "isActive" $isActive) }}
                         {{ end }}
                     </ul>
                     <ul class="secondary clearfix">
                         {{ $currentNode := . }}
                         {{ range .Site.Menus.secondary }}
                             {{ $isActive := $currentNode.IsMenuCurrent "secondary" . }}
-                            <li{{ if $isActive }} class="active"{{ end }}>
-                                {{ if $isActive }}
-                                    <div class="a">
-                                        <span>{{ .Name }}</span>
-                                        <span class="toggle">Ⅲ</span>
-                                    </div>
-                                {{ else }}
-                                    <a href="{{ .URL }}">{{ .Name }}</a>
-                                {{ end }}
-                                
-                            </li>
+                            {{ partial "li.html" (dict "content" . "isActive" $isActive) }}
                         {{ end }}
                     </ul>
                 </nav>
