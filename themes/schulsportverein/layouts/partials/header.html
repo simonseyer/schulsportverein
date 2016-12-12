@@ -11,8 +11,8 @@
 
             <div class="inner">
                 <h1>{{ .Site.Title }}</h1>
-                <nav class="collapsed">
-                    <ul>
+                <nav class="collapsed clearfix">
+                    <ul class="clearfix">
                         {{ $currentNode := . }}
                         {{ range .Site.Menus.main }}
                             {{ $isActive := $currentNode.IsMenuCurrent "main" . }}
@@ -29,7 +29,7 @@
                             </li>
                         {{ end }}
                     </ul>
-                    <ul class="secondary">
+                    <ul class="secondary clearfix">
                         {{ $currentNode := . }}
                         {{ range .Site.Menus.secondary }}
                             {{ $isActive := $currentNode.IsMenuCurrent "secondary" . }}

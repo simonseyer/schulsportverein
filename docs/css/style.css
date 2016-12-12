@@ -260,7 +260,11 @@ p {
     margin: 0
 }
 
-@media only screen and (min-width : 1150px) {
+
+@media only screen and (min-width : 1200px) {
+    #header ul {
+        float: left;
+    }
     #header ul.secondary {
         position: absolute;
         margin-left: 700px;

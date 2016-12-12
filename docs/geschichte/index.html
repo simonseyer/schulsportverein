@@ -56,8 +56,8 @@
 
             <div class="inner">
                 <h1>1. Wiesbadener Schulsportverein 1994 e.V.</h1>
-                <nav class="collapsed">
-                    <ul>
+                <nav class="collapsed clearfix">
+                    <ul class="clearfix">
                         
                         
                             
@@ -133,7 +133,7 @@
                             </li>
                         
                     </ul>
-                    <ul class="secondary">
+                    <ul class="secondary clearfix">
                         
                         
                             
@@ -407,10 +407,10 @@ Der Sinn war einmal, alle sportlichen Aktivitäten der IGS-Kastellstraße im Sch
 
     var activeNav = document.querySelector('#header nav .active');
     activeNav.addEventListener('click', function() {
-        if (nav.className != '') {
-            nav.className = '';
+        if (nav.className != 'clearfix') {
+            nav.className = 'clearfix';
         } else {
-            nav.className = 'collapsed';
+            nav.className = 'collapsed clearfix';
         }
         return false;
     }, false);
