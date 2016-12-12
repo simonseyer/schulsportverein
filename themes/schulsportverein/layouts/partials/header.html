@@ -6,8 +6,8 @@
     <body lang="{{ .Site.Params.lang }}">
 
         <header id="header" class="clearfix">
-            <div id="cover" style="background-image: url({{ $.Site.BaseURL }}{{ if .Params.header }}{{ .Params.header }}{{ else }}{{ .Site.Params.defaultHeader }}{{end}});"></div>
-            <a href="{{ $.Site.BaseURL }}" title="Startseite"><img src="{{ $.Site.BaseURL }}img/logo.png" id="logo" alt="Logo"></a>
+            <div id="cover" style="background-image: url({{ if .Params.header }}{{ .Params.header }}{{ else }}{{ .Site.Params.defaultHeader }}{{end}});"></div>
+            <a href="#" title="Startseite"><img src="img/logo.png" id="logo" alt="Logo"></a>
 
             <div class="inner">
                 <h1>{{ .Site.Title }}</h1>
