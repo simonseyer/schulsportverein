@@ -1,0 +1,35 @@
+language: go
+
+go:
+  - "1.7.1"
+
+env:
+  global:
+    - SSH_KEY="travis_schulsportverein"
+    - GIT_NAME="Simon Seyer"
+    - GIT_EMAIL="simon.seyer@gmail.com"
+    - SOURCE_DIR="docs"
+    - DEPLOY_BRANCH="master"
+
+cache: 
+  bundler: true
+  directories:
+    - tmp/image_cache
+
+before_install:
+- openssl aes-256-cbc -K $encrypted_d747c8c76f80_key -iv $encrypted_d747c8c76f80_iv
+  -in travis_schulsportverein.enc -out ~\/.ssh/travis_schulsportverein -d
+- brew update
+- brew outdated imagemagick || brew upgrade imagemagick
+
+before_script:
+  - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
+  - go get -u -v github.com/spf13/hugo
+
+script:
+  - hugo
+  - ./scripts/resize_images.sh
+  - image_optim -r --cache-dir tmp/image_cache $SOURCE_DIR
+
+after_success:
+  - ./scripts/deploy.sh

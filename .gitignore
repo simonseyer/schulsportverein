@@ -7,3 +7,6 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+# Cache
+tmp
