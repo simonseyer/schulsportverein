@@ -17,8 +17,6 @@ Options:
                            with those in set in the file at 'PATH'. Must be the
                            first option specified.
 Variables:
-  GIT_DEPLOY_DIR      Folder path containing the files to deploy.
-  GIT_DEPLOY_BRANCH   Commit deployable files to this branch.
   GIT_DEPLOY_REPO     Push the deploy branch to this repository.
 These variables have default values defined in the script. The defaults can be
 overridden by environment variables. Any environment variables are overridden
@@ -64,10 +62,6 @@ parse_args() {
   # Set internal option vars from the environment and arg flags. All internal
   # vars should be declared here, with sane defaults if applicable.
 
-  # Source directory & target branch.
-  deploy_directory=${GIT_DEPLOY_DIR:-dist}
-  deploy_branch=${GIT_DEPLOY_BRANCH:-gh-pages}
-
   #if no user identity is already set in the current git environment, use this:
   default_username=${GIT_DEPLOY_USERNAME:-deploy.sh}
   default_email=${GIT_DEPLOY_EMAIL:-}
@@ -102,69 +96,16 @@ main() {
     commit_message="$commit_message"$'\n\n'"generated from commit $commit_hash"
   fi
     
-  previous_branch=`git rev-parse --abbrev-ref HEAD`
-
-  if [ ! -d "$deploy_directory" ]; then
-    echo "Deploy directory '$deploy_directory' does not exist. Aborting." >&2
-    return 1
-  fi
-  
-  # must use short form of flag in ls for compatibility with OS X and BSD
-  if [[ -z `ls -A "$deploy_directory" 2> /dev/null` && -z $allow_empty ]]; then
-    echo "Deploy directory '$deploy_directory' is empty. Aborting. If you're sure you want to deploy an empty tree, use the --allow-empty / -e flag." >&2
-    return 1
-  fi
-
-  if git ls-remote --exit-code $repo "refs/heads/$deploy_branch" ; then
-    # deploy_branch exists in $repo; make sure we have the latest version
-    
-    disable_expanded_output
-    git fetch --force $repo $deploy_branch:$deploy_branch
-    enable_expanded_output
-  fi
-
-  # check if deploy_branch exists locally
-  if git show-ref --verify --quiet "refs/heads/$deploy_branch"
-  then incremental_deploy
-  else initial_deploy
-  fi
-
-  restore_head
-}
-
-initial_deploy() {
-  git --work-tree "$deploy_directory" checkout --orphan $deploy_branch
-  git --work-tree "$deploy_directory" add --all
   commit+push
-}
-
-incremental_deploy() {
-  #make deploy_branch the current branch
-  git symbolic-ref HEAD refs/heads/$deploy_branch
-  #put the previously committed contents of deploy_branch into the index
-  git --work-tree "$deploy_directory" reset --mixed --quiet
-  git --work-tree "$deploy_directory" add --all
-
-  set +o errexit
-  diff=$(git --work-tree "$deploy_directory" diff --exit-code --quiet HEAD --)$?
-  set -o errexit
-  case $diff in
-    0) echo No changes to files in $deploy_directory. Skipping commit.;;
-    1) commit+push;;
-    *)
-      echo git diff exited with code $diff. Aborting. Staying on branch $deploy_branch so you can debug. To switch back to master, use: git symbolic-ref HEAD refs/heads/master && git reset --mixed >&2
-      return $diff
-      ;;
-  esac
 }
 
 commit+push() {
   set_user_id
-  git --work-tree "$deploy_directory" commit -m "$commit_message"
+  git commit -m "$commit_message"
 
   disable_expanded_output
   #--quiet is important here to avoid outputting the repo URL, which may contain a secret token
-  git push --quiet $repo $deploy_branch
+  git push --quiet $repo
   enable_expanded_output
 }
 
@@ -191,25 +132,6 @@ set_user_id() {
   if [[ -z `git config user.email` ]]; then
     git config user.email "$default_email"
   fi
-}
-
-restore_head() {
-  if [[ $previous_branch = "HEAD" ]]; then
-    #we weren't on any branch before, so just set HEAD back to the commit it was on
-    git update-ref --no-deref HEAD $commit_hash $deploy_branch
-  else
-    git symbolic-ref HEAD refs/heads/$previous_branch
-  fi
-  
-  git reset --mixed
-}
-
-filter() {
-  sed -e "s|$repo|\$repo|g"
-}
-
-sanitize() {
-  "$@" 2> >(filter 1>&2) | filter
 }
 
 [[ $1 = --source-only ]] || main "$@"

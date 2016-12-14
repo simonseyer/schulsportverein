@@ -8,13 +8,11 @@ env:
     - secure: "EwoOCpj1WX8pAObkrL0sO7p6MHE+EFX7YAPvRpoc0lBNtbp2V31qvfYa2FCoaBYx0mkHrj9w+E3RS59C4MV8Zc7OpANyB9ZqyMtitBdIUAWEUubMba+iLE5agEMqV/QaqgPf5xeUY26VK8fTqI9dULXozjBNNDf9jHzuCqWk08iUZSAWEFLCWHY+grhKLzzxQFLj5T/kHiMq3kSwUP5rqt3sYSJ2xGZ8hp77BaF7Ag5f+ztQIgs4dDvbuLRZunAYTKfwQhE808Fl4V9Y9miO/VcbS9bwRelPtLCixnzcxI6dCfKz9Cz5VEZtBeVNnI89QAvbdFglMLVV/WHtbsEsoJdQ8nQe9j4AK51FFWLheEvl69Rg3/ql4y/d31DJxnrCG7lIY8b1uadTnRihcvIpReKAplfDezfdC4GfdORMr+1W4MvMjOuImP+ZchoBmNY4ZbGJu45LRQ9t09e+cTDfUNoFA/ICU9VpIkJ+aznDepq2rouQjmlnRYnY6NaSlVNTGgwVahy0q5+EUcEiDwNH4RSznfhXJpEQ8ud1B33C9y3xUP62j7iyitaWXrzx/L64l5syHAODf694krOlW7TUACOTXPlc3Un0CQzVg2y/HIq+iRoyRUkiO0oZLXafcfSS4rSZWCVEyw2q63PkFqtc2FZFV+r7NNtuyrecYzTy1Yw="
     - GIT_DEPLOY_USERNAME="Simon Seyer"
     - GIT_DEPLOY_EMAIL="simon.seyer@gmail.com"
-    - GIT_DEPLOY_DIR=docs
-    - GIT_DEPLOY_BRANCH=master
 
 cache: 
-  bundler: true
   directories:
     - tmp/image_cache
+    - vendor/bundle
 
 install:
   - bundle install --deployment
@@ -26,7 +24,7 @@ before_script:
 script:
   - hugo
   - ./scripts/resize_images.sh
-  - bundle exec image_optim -r --cache-dir tmp/image_cache $GIT_DEPLOY_DIR
+  - bundle exec image_optim -r --cache-dir tmp/image_cache docs
 
 after_success:
   - ./scripts/deploy.sh
