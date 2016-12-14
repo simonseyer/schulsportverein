@@ -33,3 +33,4 @@ script:
 
 after_success:
   - ./scripts/deploy.sh
+  
