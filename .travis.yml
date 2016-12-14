@@ -16,10 +16,6 @@ cache:
   directories:
     - tmp/image_cache
 
-before_install:
-  - openssl aes-256-cbc -K $encrypted_d747c8c76f80_key -iv $encrypted_d747c8c76f80_iv
-    -in travis_schulsportverein.enc -out travis_schulsportverein -d
-
 install:
   - bundle install --deployment
 
