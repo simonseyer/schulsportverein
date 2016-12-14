@@ -62,6 +62,9 @@ parse_args() {
   # Set internal option vars from the environment and arg flags. All internal
   # vars should be declared here, with sane defaults if applicable.
 
+  # Source directory.
+  deploy_directory=${GIT_DEPLOY_DIR:docs}
+
   #if no user identity is already set in the current git environment, use this:
   default_username=${GIT_DEPLOY_USERNAME:-deploy.sh}
   default_email=${GIT_DEPLOY_EMAIL:-}
@@ -101,6 +104,8 @@ main() {
 
 commit+push() {
   set_user_id
+
+  git add $deploy_directory
   git commit -m "$commit_message"
 
   disable_expanded_output
