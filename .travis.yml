@@ -9,6 +9,7 @@ env:
     - GIT_DEPLOY_USERNAME="Simon Seyer"
     - GIT_DEPLOY_EMAIL="simon.seyer@gmail.com"
     - GIT_DEPLOY_DIR=docs
+    - GIT_DEPLOY_BRANCH=master
 
 cache: 
   directories:

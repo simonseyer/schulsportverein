@@ -64,6 +64,7 @@ parse_args() {
 
   # Source directory.
   deploy_directory=${GIT_DEPLOY_DIR:docs}
+  deploy_branch=${GIT_DEPLOY_BRANCH:master}
 
   #if no user identity is already set in the current git environment, use this:
   default_username=${GIT_DEPLOY_USERNAME:-deploy.sh}
@@ -110,7 +111,7 @@ commit+push() {
 
   disable_expanded_output
   #--quiet is important here to avoid outputting the repo URL, which may contain a secret token
-  git push --quiet $repo
+  git push --quiet $repo $deploy_branch
   enable_expanded_output
 }
 
