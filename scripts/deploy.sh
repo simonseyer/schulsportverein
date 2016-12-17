@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -o errexit #abort if any command fails
 
+echo "Deploying..."
+
 git config user.name "$GIT_DEPLOY_USERNAME"
 git config user.email "$GIT_DEPLOY_EMAIL"
 
