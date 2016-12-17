@@ -62,6 +62,8 @@ parse_args() {
   # Set internal option vars from the environment and arg flags. All internal
   # vars should be declared here, with sane defaults if applicable.
 
+  verbose=true
+
   # Source directory.
   deploy_directory=${GIT_DEPLOY_DIR:docs}
   deploy_branch=${GIT_DEPLOY_BRANCH:master}
