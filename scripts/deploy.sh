@@ -108,6 +108,8 @@ main() {
 commit+push() {
   set_user_id
 
+  git status
+
   git checkout -b build
   git add $deploy_directory
   git commit -m "$commit_message"
