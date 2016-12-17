@@ -1,150 +1,19 @@
 #!/usr/bin/env bash
 set -o errexit #abort if any command fails
-me=$(basename "$0")
 
-help_message="\
-Usage: $me [-c FILE] [<options>]
-Deploy generated files to a git branch.
-Options:
-  -h, --help               Show this help information.
-  -v, --verbose            Increase verbosity. Useful for debugging.
-  -e, --allow-empty        Allow deployment of an empty directory.
-  -m, --message MESSAGE    Specify the message used when committing on the
-                           deploy branch.
-  -n, --no-hash            Don't append the source commit's hash to the deploy
-                           commit's message.
-  -c, --config-file PATH   Override default & environment variables' values
-                           with those in set in the file at 'PATH'. Must be the
-                           first option specified.
-Variables:
-  GIT_DEPLOY_REPO     Push the deploy branch to this repository.
-These variables have default values defined in the script. The defaults can be
-overridden by environment variables. Any environment variables are overridden
-by values set in a '.env' file (if it exists), and in turn by those set in a
-file specified by the '--config-file' option."
+git config user.name "$GIT_DEPLOY_USERNAME"
+git config user.email "$GIT_DEPLOY_EMAIL"
 
-parse_args() {
-  # Set args from a local environment file.
-  if [ -e ".env" ]; then
-    source .env
-  fi
+commit_title=`git log -n 1 --format="%s" HEAD`
+commit_hash=` git log -n 1 --format="%H" HEAD`
+commit_message="publish: $commit_title [ci skip]"
+commit_message="$commit_message"$'\n\n'"generated from commit $commit_hash"
 
-  # Set args from file specified on the command-line.
-  if [[ $1 = "-c" || $1 = "--config-file" ]]; then
-    source "$2"
-    shift 2
-  fi
+git checkout -b build
+git add $GIT_DEPLOY_DIR
+git commit -m "$commit_message"
+git checkout $GIT_DEPLOY_BRANCH
+git merge build
 
-  # Parse arg flags
-  # If something is exposed as an environment variable, set/overwrite it
-  # here. Otherwise, set/overwrite the internal variable instead.
-  while : ; do
-    if [[ $1 = "-h" || $1 = "--help" ]]; then
-      echo "$help_message"
-      return 0
-    elif [[ $1 = "-v" || $1 = "--verbose" ]]; then
-      verbose=true
-      shift
-    elif [[ $1 = "-e" || $1 = "--allow-empty" ]]; then
-      allow_empty=true
-      shift
-    elif [[ ( $1 = "-m" || $1 = "--message" ) && -n $2 ]]; then
-      commit_message=$2
-      shift 2
-    elif [[ $1 = "-n" || $1 = "--no-hash" ]]; then
-      GIT_DEPLOY_APPEND_HASH=false
-      shift
-    else
-      break
-    fi
-  done
-
-  # Set internal option vars from the environment and arg flags. All internal
-  # vars should be declared here, with sane defaults if applicable.
-
-  verbose=true
-
-  # Source directory.
-  deploy_directory=${GIT_DEPLOY_DIR:docs}
-  deploy_branch=${GIT_DEPLOY_BRANCH:master}
-
-  #if no user identity is already set in the current git environment, use this:
-  default_username=${GIT_DEPLOY_USERNAME:-deploy.sh}
-  default_email=${GIT_DEPLOY_EMAIL:-}
-
-  #repository to deploy to. must be readable and writable.
-  repo=${GIT_DEPLOY_REPO:-origin}
-
-  #append commit hash to the end of message by default
-  append_hash=${GIT_DEPLOY_APPEND_HASH:-true}
-}
-
-main() {
-  parse_args "$@"
-
-  enable_expanded_output
-
-  if ! git diff --exit-code --quiet --cached; then
-    echo Aborting due to uncommitted changes in the index >&2
-    return 1
-  fi
-
-  commit_title=`git log -n 1 --format="%s" HEAD`
-  commit_hash=` git log -n 1 --format="%H" HEAD`
-  
-  #default commit message uses last title if a custom one is not supplied
-  if [[ -z $commit_message ]]; then
-    commit_message="publish: $commit_title [ci skip]"
-  fi
-  
-  #append hash to commit message unless no hash flag was found
-  if [ $append_hash = true ]; then
-    commit_message="$commit_message"$'\n\n'"generated from commit $commit_hash"
-  fi
-    
-  commit+push
-}
-
-commit+push() {
-  set_user_id
-
-  git status
-
-  git checkout -b build
-  git add $deploy_directory
-  git commit -m "$commit_message"
-  git checkout $deploy_branch
-  git merge build
-
-  disable_expanded_output
-  #--quiet is important here to avoid outputting the repo URL, which may contain a secret token
-  git push --quiet $repo $deploy_branch
-  enable_expanded_output
-}
-
-#echo expanded commands as they are executed (for debugging)
-enable_expanded_output() {
-  if [ $verbose ]; then
-    set -o xtrace
-    set +o verbose
-  fi
-}
-
-#this is used to avoid outputting the repo URL, which may contain a secret token
-disable_expanded_output() {
-  if [ $verbose ]; then
-    set +o xtrace
-    set -o verbose
-  fi
-}
-
-set_user_id() {
-  if [[ -z `git config user.name` ]]; then
-    git config user.name "$default_username"
-  fi
-  if [[ -z `git config user.email` ]]; then
-    git config user.email "$default_email"
-  fi
-}
-
-[[ $1 = --source-only ]] || main "$@"
+#--quiet is important here to avoid outputting the repo URL, which may contain a secret token
+git push --quiet $GIT_DEPLOY_REPO $GIT_DEPLOY_BRANCH
