@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>https://eldorado234.github.io/schulsportverein/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eldorado234.github.io/schulsportverein/fsj/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -79,23 +84,6 @@
   <url>
     <loc>https://eldorado234.github.io/schulsportverein/vorstand/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldorado234.github.io/schulsportverein/</loc>
-    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eldorado234.github.io/schulsportverein/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eldorado234.github.io/schulsportverein/tags/_home/</loc>
-    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

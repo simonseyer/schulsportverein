@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>_home on 1. Wiesbadener Schulsportverein 1994 e.V.</title>
+    <title>1. Wiesbadener Schulsportverein 1994 e.V.</title>
     <link>https://eldorado234.github.io/schulsportverein/tags/_home/index.xml</link>
-    <description>Recent content in _home on 1. Wiesbadener Schulsportverein 1994 e.V.</description>
+    <description>Recent content on 1. Wiesbadener Schulsportverein 1994 e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <atom:link href="https://eldorado234.github.io/schulsportverein/tags/_home/index.xml" rel="self" type="application/rss+xml" />
@@ -14,13 +14,27 @@
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://eldorado234.github.io/schulsportverein/</guid>
-      <description>&lt;hr /&gt;
+      <description>&lt;div id=&#34;fb-root&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = &#34;//connect.facebook.net/de_DE/sdk.js#xfbml=1&amp;version=v2.8&#34;;
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));
+&lt;/script&gt;
 
-&lt;p&gt;&lt;span class=&#34;slogan&#34;&gt;Der 1. Wiesbadener Schulsportverein 1994 e.V. (WSV) ist ein schulbezogener Breitensportverein mit dem Schwerpunkt Radsport.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&#34;slogan&#34;&gt;&lt;strong&gt;Ein Verein für alle, egal was jemand kann oder wo er her kommt.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
 
-&lt;hr /&gt;
+&lt;span class=&#34;slogan&#34;&gt;Der 1. Wiesbadener Schulsportverein 1994 e.V. (WSV) ist ein schulbezogener Breitensportverein mit dem Schwerpunkt Radsport.&lt;/span&gt;
+
+&lt;span class=&#34;slogan&#34;&gt;&lt;strong&gt;Ein Verein für alle, egal was jemand kann oder wo er her kommt.&lt;/strong&gt;&lt;/span&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;fb-page&#34; data-href=&#34;https://www.facebook.com/schulsportverein&#34; data-tabs=&#34;timeline&#34; data-width=&#34;500&#34; data-small-header=&#34;true&#34; data-adapt-container-width=&#34;true&#34; data-hide-cover=&#34;true&#34; data-show-facepile=&#34;false&#34; style=&#34;margin-left: 75px;&#34;&gt;&lt;blockquote cite=&#34;https://www.facebook.com/schulsportverein&#34; class=&#34;fb-xfbml-parse-ignore&#34;&gt;&lt;a href=&#34;https://www.facebook.com/schulsportverein&#34;&gt;1. Wiesbadener Schulsportverein 1994 e.V.&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;
 </description>
     </item>
     
