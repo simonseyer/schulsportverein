@@ -106,9 +106,11 @@ main() {
 commit+push() {
   set_user_id
 
-  git checkout $deploy_branch
+  git checkout -b build
   git add $deploy_directory
   git commit -m "$commit_message"
+  git checkout $deploy_branch
+  git merge build
 
   disable_expanded_output
   #--quiet is important here to avoid outputting the repo URL, which may contain a secret token
