@@ -276,6 +276,9 @@ p {
     padding-top: 2px;
     padding-bottom: 2px;
 }
+#content fb-page {
+    margin-left: 75px;
+}
 #footer {
     background: #f5f5f5;
     padding: 20px 0;
@@ -287,7 +290,11 @@ p {
     margin: 0 0 0.5em 1em;
     font-size: 200%;
 }
-#footer a { color: #ddd; }
+#footer a { 
+    color: #ddd; 
+    margin: 5px;
+    line-height: 40px;
+}
 #footer a:hover { color: #fff; }
 #partner img {
     max-height: 70px;
@@ -327,6 +334,7 @@ p {
     #header ul.secondary {
         position: absolute;
         margin-left: 700px;
+        margin-left: calc(500px + 14%);
         background-color: #f5f5f5;
         border: 1px solid #e5e5e5;
         border-radius: 1px;
