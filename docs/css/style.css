@@ -263,7 +263,10 @@ p {
     position: absolute;
     top: 100px;
     left: 100px;
-    height: 200px;
+    height: 180px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 120px;
 }
 
 #content {
@@ -396,5 +399,8 @@ p {
     #partner img {
         width: auto;
         max-width: 100%;
+    }
+    .fb-page {
+        display: none!important;
     }
 }
