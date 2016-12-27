@@ -13,10 +13,10 @@ Wir möchten den Schülern der Wiesbadener Schulen einen Schulweg aufzeigen, wie
 
 Die Untersuchungen können betrachtet werden als
 
-*   **[Übersichtskarte](http://schulsportverein.de/sites/default/files/Schleichwege_2016_Plakat.pdf) (PDF)**
+*   **[Übersichtskarte](schleichwege/Schleichwege_2016_Plakat.pdf) (PDF)**
 *   **[Interaktive Karte](http://maps.wiesbaden.de/cityguide/cgi-bin/cityguide.cgi?action=show&lang=de&size=1076&groupID=0&objectID=0&mapper=11)**
 *   **PDF pro Straße (siehe unten)**
-*   **[Broschüre](http://schulsportverein.de/sites/default/files/schleichwege-broschuere.pdf)**
+*   **[Broschüre](schleichwege/schleichwege-broschuere.pdf)**
 
 Weitere Informationen auch auf [wiesbaden.de](http://www.wiesbaden.de/leben-in-wiesbaden/verkehr/radwege/schleichwege.php).
 
