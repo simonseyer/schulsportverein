@@ -14,7 +14,7 @@ publishdir = "docs"
     name = "Tanzlaune"
     weight = 20
     identifier = "Tanzlaune"
-    url = "https://tanzlaune.de/"
+    url = "http://tanzlaune.de/"
 
 [[menu.secondary]]
     name = "Facebook"
