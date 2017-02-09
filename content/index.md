@@ -28,4 +28,25 @@ tags: _home
 
 <hr>
 
-<div class="fb-page" data-href="https://www.facebook.com/schulsportverein" data-tabs="timeline" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" style="margin-left: 75px;"><blockquote cite="https://www.facebook.com/schulsportverein" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/schulsportverein">1. Wiesbadener Schulsportverein 1994 e.V.</a></blockquote></div>
+<a href="auszeichnungen">
+	<img class="auszeichnung" src="auszeichnungen/SportFuerAlleKinder.png" alt="Auszeichnung Sport für alle Kinder">
+</a>
+
+<div class="fb-page" data-href="https://www.facebook.com/schulsportverein" data-tabs="timeline" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" style="margin-left: 75px;">
+	<blockquote cite="https://www.facebook.com/schulsportverein" class="fb-xfbml-parse-ignore">
+		<a href="https://www.facebook.com/schulsportverein">1. Wiesbadener Schulsportverein 1994 e.V.</a>
+	</blockquote>
+</div>
+
+<style type="text/css">
+
+	@media only screen and (min-width : 768px) {
+		.auszeichnung {
+			width: 460px; 
+			margin: 0 0 30px 75px; 
+			border: 1px solid #eee; 
+			padding: 20px;
+		}
+	}
+
+</style>
