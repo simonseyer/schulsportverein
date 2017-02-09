@@ -34,7 +34,28 @@
 
 &lt;hr&gt;
 
-&lt;div class=&#34;fb-page&#34; data-href=&#34;https://www.facebook.com/schulsportverein&#34; data-tabs=&#34;timeline&#34; data-width=&#34;500&#34; data-small-header=&#34;true&#34; data-adapt-container-width=&#34;true&#34; data-hide-cover=&#34;true&#34; data-show-facepile=&#34;false&#34; style=&#34;margin-left: 75px;&#34;&gt;&lt;blockquote cite=&#34;https://www.facebook.com/schulsportverein&#34; class=&#34;fb-xfbml-parse-ignore&#34;&gt;&lt;a href=&#34;https://www.facebook.com/schulsportverein&#34;&gt;1. Wiesbadener Schulsportverein 1994 e.V.&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;
+&lt;a href=&#34;auszeichnungen&#34;&gt;
+    &lt;img class=&#34;auszeichnung&#34; src=&#34;auszeichnungen/SportFuerAlleKinder.png&#34; alt=&#34;Auszeichnung Sport für alle Kinder&#34;&gt;
+&lt;/a&gt;
+
+&lt;div class=&#34;fb-page&#34; data-href=&#34;https://www.facebook.com/schulsportverein&#34; data-tabs=&#34;timeline&#34; data-width=&#34;500&#34; data-small-header=&#34;true&#34; data-adapt-container-width=&#34;true&#34; data-hide-cover=&#34;true&#34; data-show-facepile=&#34;false&#34; style=&#34;margin-left: 75px;&#34;&gt;
+    &lt;blockquote cite=&#34;https://www.facebook.com/schulsportverein&#34; class=&#34;fb-xfbml-parse-ignore&#34;&gt;
+        &lt;a href=&#34;https://www.facebook.com/schulsportverein&#34;&gt;1. Wiesbadener Schulsportverein 1994 e.V.&lt;/a&gt;
+    &lt;/blockquote&gt;
+&lt;/div&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+
+    @media only screen and (min-width : 768px) {
+        .auszeichnung {
+            width: 460px; 
+            margin: 0 0 30px 75px; 
+            border: 1px solid #eee; 
+            padding: 20px;
+        }
+    }
+
+&lt;/style&gt;
 </description>
     </item>
     
