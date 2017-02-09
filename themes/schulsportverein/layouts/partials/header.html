@@ -19,6 +19,24 @@
                             {{ partial "li.html" (dict "content" . "isActive" $isActive) }}
                         {{ end }}
                     </ul>
+                    {{ if .Site.Menus.main2 }}
+                        <ul class="clearfix">
+                            {{ $currentNode := . }}
+                            {{ range .Site.Menus.main2 }}
+                                {{ $isActive := $currentNode.IsMenuCurrent "main2" . }}
+                                {{ partial "li.html" (dict "content" . "isActive" $isActive) }}
+                            {{ end }}
+                        </ul>
+                    {{ end }}
+                    {{ if .Site.Menus.main3 }}
+                        <ul class="clearfix">
+                            {{ $currentNode := . }}
+                            {{ range .Site.Menus.main3 }}
+                                {{ $isActive := $currentNode.IsMenuCurrent "main3" . }}
+                                {{ partial "li.html" (dict "content" . "isActive" $isActive) }}
+                            {{ end }}
+                        </ul>
+                    {{ end }}
                     {{ if .Site.Menus.secondary }}
                         <ul class="secondary clearfix">
                             {{ $currentNode := . }}

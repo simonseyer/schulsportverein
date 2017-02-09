@@ -3,8 +3,8 @@ title: Fahrradtag
 header: header/two.jpg
 date: "2016-12-10"
 menu: 
-    main:
-        weight: 30
+    main2:
+        weight: 0
 ---
 
 # Der Fahrradtag

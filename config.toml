@@ -12,7 +12,7 @@ publishdir = "docs"
 
 [[menu.main]]
     name = "Tanzlaune"
-    weight = 90
+    weight = 20
     identifier = "Tanzlaune"
     url = "https://tanzlaune.de/"
 
@@ -23,7 +23,7 @@ publishdir = "docs"
     url = "https://www.facebook.com/schulsportverein/"
 
 [[menu.secondary]]
-    name = "Mitgliedsantrag (PDF)"
+    name = "Mitgliedsantrag"
     weight = 40
     identifier = "mitgliedsantrag"
     url = "/schulsportverein-mitgliedsantrag.pdf"

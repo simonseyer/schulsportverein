@@ -3,8 +3,8 @@ title: FSJ
 header: header/two.jpg
 date: "2016-12-10"
 menu: 
-    main:
-        weight: 70
+    main2:
+        weight: 10
 ---
 
 ## Freiwilliges Soziales Jahr

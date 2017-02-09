@@ -265,7 +265,7 @@ p {
     left: 100px;
     height: 180px;
     background-color: white;
-    padding: 25px;
+    padding: 20px;
     border-radius: 120px;
 }
 
@@ -330,6 +330,8 @@ p {
 @media only screen and (min-width : 1200px) {
     #header ul {
         float: left;
+        clear: both;
+        margin-bottom: 4px;
     }
     #header ul.secondary {
         position: absolute;

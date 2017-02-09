@@ -4,7 +4,7 @@ header: header/two.jpg
 date: "2016-12-10"
 menu: 
     main:
-        weight: 50
+        weight: 30
 ---
 
 # Trainingszeiten
