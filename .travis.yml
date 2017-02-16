@@ -24,10 +24,7 @@ before_script:
   - go get -v github.com/spf13/hugo
 
 script:
-  - hugo
-  - ./scripts/resize_images.sh
-  - bundle exec image_optim -r --cache-dir tmp/image_cache $GIT_DEPLOY_DIR
+  - make deploy
 
 after_success:
   - ./scripts/deploy.sh
-  
