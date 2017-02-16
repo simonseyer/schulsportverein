@@ -5,7 +5,7 @@ date: "2016-12-10"
 menu: 
     main:
         weight: 0
-tags: _home
+Kind: home
 ---
 
 <div id="fb-root"></div>
