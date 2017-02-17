@@ -3,5 +3,9 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.18"
-    - ./scripts/resize_images.sh
-    - bundle exec image_optim -r --cache-dir tmp/image_cache docs
+    - script:
+        name: resize images
+        code: ./scripts/resize_images.sh
+    - script:
+        name: optimize images
+        code: bundle exec image_optim -r --cache-dir tmp/image_cache docs
