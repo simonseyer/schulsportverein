@@ -28,7 +28,7 @@ Du bist nicht sicher, was du mit deiner Zeit nach der Schule anfangen sollst? Su
 
 *   Die Arbeit mit Kindern und Jugendlichen bringt dich persönlich weiter.
 *   Die Zeit, in der du noch nach Orientierung suchst, setzt du sinnvoll und gewinnbringend ein - für dich und für andere.
-*   Du begibst dich in einen jungen und engagierten Verein mit Zukunftsperspektiven
+*   Du begibst dich in einen jungen und engagierten Verein mit Zukunftsperspektiven.
 
 ### Die Rahmenbedingungen:
 
