@@ -11,3 +11,6 @@ $RECYCLE.BIN/
 # Cache
 tmp
 /vendor/bundle
+
+# Hugo
+/public
