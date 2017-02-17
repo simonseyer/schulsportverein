@@ -1,14 +1,14 @@
-box: debian
+box: ruby
 build:
   steps:
-    - wercker/bundle-install@2.0.1
+    - bundle-install
     - arjen/hugo-build:
         version: "0.18"
     - script:
-        name: resize images
+        name: resize-images
         code: ./scripts/resize_images.sh
     - script:
-        name: optimize images
+        name: optimize-images
         code: bundle exec image_optim -r --cache-dir tmp/image_cache docs
 deploy:
   steps:
