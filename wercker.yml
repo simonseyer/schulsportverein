@@ -1,6 +1,7 @@
 box: debian
 build:
   steps:
+    - wercker/bundle-install@2.0.1
     - arjen/hugo-build:
         version: "0.18"
     - script:
@@ -9,3 +10,8 @@ build:
     - script:
         name: optimize images
         code: bundle exec image_optim -r --cache-dir tmp/image_cache docs
+deploy:
+  steps:
+    - lukevivier/gh-pages:
+        token: $GIT_TOKEN
+        basedir: docs
