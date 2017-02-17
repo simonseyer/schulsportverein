@@ -9,9 +9,9 @@ build:
         code: ./scripts/resize_images.sh
     - script:
         name: optimize-images
-        code: bundle exec image_optim -r --cache-dir tmp/image_cache docs
+        code: bundle exec image_optim -r --cache-dir tmp/image_cache public
 deploy:
   steps:
     - lukevivier/gh-pages:
         token: $GIT_TOKEN
-        basedir: docs
+        basedir: public
