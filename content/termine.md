@@ -13,7 +13,7 @@ menu:
 --- | ---
 04.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 11.03. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-03.04. - 07.04. | Osterferien MTB-Projekt mit Jörg Pöse
+03.04. - 07.04. | Osterferien MTB-Projekt mit Jörg Pöse. **[📄 Ausschreibung (PDF)](termine/Osterferien-WSV-2017.pdf)**
 10.04. - 13.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 23.04. | Frühlingsradtour 2017 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 05.05. - 07.05. | Freizeit für Fahrrad-Anfänger nach Bad Kreuznach
