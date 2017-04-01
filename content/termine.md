@@ -9,7 +9,7 @@ menu:
 
 # Termine 2017
 
-  | 
+ Datum | Event
 --- | ---
 04.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 11.03. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
@@ -21,7 +21,7 @@ menu:
 21.05. | Familienradtour
 28.05. | WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal
 09.06. – 11.06. | MTB-Freizeit für Geübte nach Oberwesel (Ehrbachklamm)
-17.06. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
+23.06. | Beteiligung am Schulfest der Helene-Lange-Schule
 10.07.– 14.07. | Sommerferienprojekt Fahrrad: Tourenfahren
 18.08.– 20.08. | WSV-Freizeit NO-Bike (ohne Bike)
 19.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
@@ -31,7 +31,7 @@ Termin noch offen | Beteiligung am Schulfest der IGS-Kastellstraße
 17.09. | Tour de Taunus 2017 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 23.09. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 09.10.– 13.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-16.10.– 20.10. | MTB-Sommercamp für Fortgeschrittene
+16.10.– 20.10. | MTB-Herbstcamp für Fortgeschrittene mit Johann Kraffert
 25.11. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 
 
