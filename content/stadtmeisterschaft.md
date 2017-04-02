@@ -1,6 +1,6 @@
 ---
 title: Stadtmeisterschaft
-header: header/two.jpg
+header: header/stadtmeisterschaft.JPG
 date: "2016-12-10"
 menu: 
     main2:
@@ -9,4 +9,10 @@ menu:
 
 # Stadtmeisterschaft 2017
 
-*Noch in Planung*
+[![Plakat Stadtmeisterschaft](stadtmeisterschaft/poster_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
+
+## Flyer
+
+[![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
+
+*Vorschaubilder anklicken zum Herunterladen*
