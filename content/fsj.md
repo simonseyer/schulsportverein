@@ -34,12 +34,12 @@ Du bist nicht sicher, was du mit deiner Zeit nach der Schule anfangen sollst? Su
 
 *   Du bist zwischen 16 und 27 Jahr alt.
 *   DAS FSJ dauert 12 Monate (1\. September - 31\. August).
-*   Die Arbeitszeit ist mit <span>38,5 Stunden pro Woche angesetzt.</span>
+*   Die Arbeitszeit ist mit <span>38,5 Stunden pro Woche angesetzt.
 *   Du bekommst 300 € im Monat.
-*   <span>Sozialversicherungsbeiträge sowie Haftpflichtversicherung und Unfallversicherung werden übernommen.</span>
-*   <span>Du hast 26 Tage Urlaub und 25 Tage Bildungsurlaub.</span>
-*   <span><span>Das Kindergeld (und evtl. eine Waisenrente) werden weiter bezahlt.</span></span>
+*   Sozialversicherungsbeiträge sowie Haftpflichtversicherung und Unfallversicherung werden übernommen.
+*   Du hast 26 Tage Urlaub und 25 Tage Bildungsurlaub.</span>
+*   Das Kindergeld (und evtl. eine Waisenrente) werden weiter bezahlt.
 
 ### Weitere Informationen
 
-Detailiertere Informationen bekommst du im Flyer und auf der Seite der Sportjugend Hessen:
+Detailiertere Informationen findest du im [Flyer](fsj/FSJ-Flyer.pdf) und auf der Seite der [Sportjugend Hessen](http://www.sportjugend-hessen.de).
