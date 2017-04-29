@@ -7,16 +7,16 @@ menu:
         weight: 40
 ---
 
-# Termine 2017
+# Termine 2017 <span class="small-header">[herunterladen](termine/WSV-Termine2017.pdf)</span>
 
  Datum | Event
 --- | ---
 04.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 11.03. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-03.04. - 07.04. | Osterferien MTB-Projekt mit Jörg Pöse. **[📄 Ausschreibung (PDF)](termine/Osterferien-WSV-2017.pdf)**
+03.04. - 07.04. | Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2017.pdf)**
 10.04. - 13.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 23.04. | Frühlingsradtour 2017 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-05.05. - 07.05. | Freizeit für Fahrrad-Anfänger nach Bad Kreuznach.  **[📄 Ausschreibung (PDF)](termine/WSV-Freizeit-2017-Bad-Kreuznach.pdf)**
+05.05. - 07.05. | Freizeit für Fahrrad-Anfänger nach Bad Kreuznach.  **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2017-Bad-Kreuznach.pdf)**
 13.05. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 21.05. | Familienradtour
 28.05. | WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal
@@ -51,6 +51,10 @@ Termin noch offen | Beteiligung am Schulfest der IGS-Kastellstraße
 
 	.tanz {
 		color: #0093eb;
+	}
+
+	.small-header {
+		font-size: 0.65em;
 	}
 
 </style>
