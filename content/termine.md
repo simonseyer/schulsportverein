@@ -20,7 +20,7 @@ menu:
 13.05. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 21.05. | Familienradtour
 28.05. | WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal
-09.06. – 11.06. | MTB-Freizeit für Geübte nach Oberwesel (Ehrbachklamm)
+09.06. – 11.06. | MTB-Freizeit für Geübte nach Oberwesel (Ehrbachklamm) **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2017-Oberwesel.pdf)**
 23.06. | Beteiligung am Schulfest der Helene-Lange-Schule
 10.07.– 14.07. | Sommerferienprojekt Fahrrad: Tourenfahren
 18.08.– 20.08. | WSV-Freizeit NO-Bike (ohne Bike)
