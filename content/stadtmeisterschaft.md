@@ -16,3 +16,7 @@ menu:
 [![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
 
 *Vorschaubilder anklicken zum Herunterladen*
+
+## Einverständniserklärung
+
+**[Einverständniserklärung (📄 PDF) herunterladen](stadtmeisterschaft/SM-Einverständniserklärung.pdf)**
