@@ -19,4 +19,4 @@ menu:
 
 ## Einverständniserklärung
 
-**[Einverständniserklärung (📄 PDF) herunterladen](stadtmeisterschaft/SM-Einverständniserklärung.pdf)**
+**[Einverständniserklärung (📄 PDF) herunterladen](stadtmeisterschaft/SM-Einverstaendniserklaerung.pdf)**
