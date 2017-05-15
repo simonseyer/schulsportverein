@@ -17,7 +17,9 @@ deploy:
         gh_oauth: $GIT_TOKEN
         basedir: public
         branch: $BRANCH
+update-website:
+    steps:
     - script:
-        name: update-website
+        name: git-pull
         code: |
             curl $UPDATE_URL
