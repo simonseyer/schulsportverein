@@ -37,7 +37,7 @@ Es fahren:
 * **U11** 2 Runden. Start 14:50 Uhr
 * **U13** 3 Runden. Start 15:00 Uhr
 * **U15** 4 Runden. Start 15:15 Uhr
-* **U17** 5 Runden. Start 15:35 Uhr
+* **U17** 5 Runden. Start 15:35 Uhr (bei weniger als fünf Teilnehmern wird mit der U15 gestartet und 4 Runden gefahren)
 
 Die Rundenlänge beträgt ca. 1 km.
 
