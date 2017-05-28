@@ -1,6 +1,6 @@
 ---
 title: Training
-header: header/two.jpg
+header: header/DSC_0591.JPG
 date: "2016-12-10"
 menu: 
     main:
