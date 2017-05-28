@@ -19,9 +19,13 @@ menu:
 
 ## Einverständniserklärung
 
-**[Einverständniserklärung (📄 PDF) herunterladen](stadtmeisterschaft/SM-Einverstaendniserklaerung.pdf)**
+**[Einverständniserklärung (PDF) herunterladen](stadtmeisterschaft/SM-Einverstaendniserklaerung.pdf)**
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
+
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2017-1.Lauf.pdf">Ergebnisse (PDF)</a></b>
+</div>
 
 Veranstaltet vom **[Schulsportverein](https://schulsportverein.de)** findet am **28.05.2017** das erste Rennen der diesjährigen Stadtmeisterschaft
 auf dem Hofgut Adamstal statt (Adamstal 1, 65195 Wiesbaden). 
@@ -43,4 +47,3 @@ Die Rundenlänge beträgt ca. 1 km.
 Leichte Abweichungen vom Zeitplan sind möglich (auch Starts wenige Minuten früher).
 
 [![Streckenkarte Rennen Hofgut Adamstal](stadtmeisterschaft/Hofgut-Adamstal-Streckenplan.jpg)](stadtmeisterschaft/Hofgut-Adamstal-Streckenplan.jpg)
-
