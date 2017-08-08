@@ -9,6 +9,10 @@ menu:
 
 # Stadtmeisterschaft 2017
 
+<div style="color: #ff2d2d; font-size: 140%; margin-top: 40px; margin-bottom: 40px; text-align: center">
+	<b>⚠️ Das Rennen im Gewerbegebiet Kastel fällt leider aus ⚠️</b>
+</div>
+
 [![Plakat Stadtmeisterschaft](stadtmeisterschaft/poster_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
 
 ## Flyer
@@ -20,6 +24,12 @@ menu:
 ## Einverständniserklärung
 
 **[Einverständniserklärung (PDF) herunterladen](stadtmeisterschaft/SM-Einverstaendniserklaerung.pdf)**
+
+## 02 Asphaltrennen auf dem MTB im Gewerbegebiet Kastel
+
+<div style="color: #ff2d2d; font-size: 125%; margin-top: 40px; margin-bottom: 40px;">
+	<b>Das Rennen fällt leider aus und wird nicht nachgeholt.</b>
+</div>
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
