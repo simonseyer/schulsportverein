@@ -9,26 +9,17 @@ menu:
 
 # Stadtmeisterschaft 2017
 
-<div style="color: #ff2d2d; font-size: 140%; margin-top: 40px; margin-bottom: 40px; text-align: center">
-	<b>⚠️ Das Rennen im Gewerbegebiet Kastel fällt leider aus ⚠️</b>
+
+## 03 VIACTIV MTB-Rhein Main Cup
+
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2017-2.Lauf.pdf">Ergebnisse (PDF)</a></b>
 </div>
-
-[![Plakat Stadtmeisterschaft](stadtmeisterschaft/poster_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
-
-## Flyer
-
-[![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
-
-*Vorschaubilder anklicken zum Herunterladen*
-
-## Einverständniserklärung
-
-**[Einverständniserklärung (PDF) herunterladen](stadtmeisterschaft/SM-Einverstaendniserklaerung.pdf)**
 
 ## 02 Asphaltrennen auf dem MTB im Gewerbegebiet Kastel
 
-<div style="color: #ff2d2d; font-size: 125%; margin-top: 40px; margin-bottom: 40px;">
-	<b>Das Rennen fällt leider aus und wird nicht nachgeholt.</b>
+<div style="font-size: 125%; margin-top: 40px; margin-bottom: 40px;">
+	Dieses Rennen ist leider ausgefallen.
 </div>
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
@@ -57,3 +48,17 @@ Die Rundenlänge beträgt ca. 1 km.
 Leichte Abweichungen vom Zeitplan sind möglich (auch Starts wenige Minuten früher).
 
 [![Streckenkarte Rennen Hofgut Adamstal](stadtmeisterschaft/Hofgut-Adamstal-Streckenplan.jpg)](stadtmeisterschaft/Hofgut-Adamstal-Streckenplan.jpg)
+
+## Plakat
+
+[![Plakat Stadtmeisterschaft](stadtmeisterschaft/poster_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
+
+## Flyer
+
+[![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
+
+*Vorschaubilder anklicken zum Herunterladen*
+
+## Einverständniserklärung
+
+**[Einverständniserklärung (PDF) herunterladen](stadtmeisterschaft/SM-Einverstaendniserklaerung.pdf)**
