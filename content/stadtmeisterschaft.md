@@ -13,7 +13,7 @@ menu:
 ## 03 VIACTIV MTB-Rhein Main Cup
 
 <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2017-2.Lauf.pdf">Ergebnisse (PDF)</a></b>
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2017-2.Lauf.pdf">Ergebnisse und Endergebnis (PDF)</a></b>
 </div>
 
 ## 02 Asphaltrennen auf dem MTB im Gewerbegebiet Kastel
