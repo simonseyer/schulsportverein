@@ -13,19 +13,22 @@ menu:
 
 ### Breitensport-AGs
 
-**Leichtathletik** für alle Jahrgänge, dienstags, 14.15-15:15 Uhr.  
-**Fußball am Nachmittag** für alle Jahrgänge, dienstags, 15:15-16:15 Uhr.  
-**Trainer:** Simon Schmidt, Ort: Turnhalle der IGS-Kastellstraße.  
+**Breakdance** für alle Jahrgänge, dienstags, 14:15 - 15:15 Uhr.  
+**Fußball am Nachmittag** für alle Jahrgänge, dienstags, 15:15 - 16:15 Uhr.  
+
+**Ort:** Turnhalle der IGS-Kastellstraße.  
+**Trainer:** Nils Fass.  
 **Teilnahme:** Schüler der IGS Kastellstraße plus Schüler von anderen Schulen bei vorheriger Anmeldung bei uns.  
 
 **Nur für die Schüler der IGS-Kastellstraße:** 
 
-**Fußball** für die Jahrgänge 5-7, montags, 12:30-14:00 Uhr, Boris Stichel, Turnhalle.  
+**Fußball** für die Jahrgänge 5-7, montags, 12:30 - 14:00 Uhr, Felix Wimmer, Turnhalle.  
 **Spiel, Spaß und Entspannung mit Yoga und Aerobic** für alle Jahrgänge, 
-dienstags von 14:15-15:15 Uhr, Keiko Godawa, Raum am Bistro.  
-**Tanzen** für alle Jahrgänge, donnerstags von 13:00-14:00 Uhr, Keiko Godawa, Aula.  
+montags, 13:15 - 14:00 Uhr, Keiko Godawa, kleiner Raum am Bistro.  
+**Tanzen** für Mädchen Jahrgang 5, mittwochs, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
+**Tanzen** für Mädchen aller Jahrgänge, donnerstags, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
 
-### Tanzen mit Henry & Manu für Erwachsene
+### Tanzen mit Henry für Erwachsene
 
 **Donnerstag- und freitagabends** in der Mensa der IGS-Kastellstraße  
 Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
@@ -41,8 +44,8 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
 
 **Anmeldung notwendig:** per Mail oder Telefon
 
-**Montags** 16:00 Uhr bis 18:00 Uhr  
-**Wo:** Treffpunkt Blücherschule (Eingang Yorkstraße)  
+**Montags** 16:00 - 18:00 Uhr  
+**Wo:** Treffpunkt Blücherschule (Eingang Blücherstraße am Fahrradcontainer)  
 **Für wen:** Grundschüler  
 **Trainer:** Jörg Pöse
 
@@ -51,17 +54,15 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
 **Für wen:** Das Training für die Jüngeren (ab ca. 8 Jahre).  
 **Trainer:** Matthias Richter
 
-**Samstags**  
-**Treffpunkt:** 14:00 – 14:10 Uhr, Abfahrt um 14:10 Uhr.  
-**Wo:** auf dem Parkplatz der Schule IGS-Kastellstraße, Kastellstraße 11.  
+**Samstags** 14:00 – 14:10 Uhr, Abfahrt um 14:10 Uhr  
+**Wo:** Auf dem Parkplatz der Schule IGS-Kastellstraße, Kastellstraße 11.  
 **Für wen:** Das etwas sportlichere Training (für jung und alt, auch Erwachsene).  
 **Trainer:** Matthias Richter
 
 ### Weitere Fahrrad AGs, nur für die Schüler der jeweiligen Schule
 
-IGS-Kastellstraße (mit Oswald Kilian):  
-**Montags**, 13:00 - 14:00 Uhr, Fahrradwerkstatt.  
-**Dienstags**, 14:00 - 16:00 Uhr, Kurze Fahrradtouren.  
+IGS-Kastellstraße (mit Dirk Vielmeyer):  
+**Mittwochs**, 13:00 - 14:00 Uhr, Fahrradwerkstatt AG, hier wird geschraubt.  
 
-Wolfram-von-Eschenbach-Schule (mit Johann Kraffert):  
+Wolfram-von-Eschenbach-Schule (mit Boris Stichel):  
 **Mittwochs** um 14:00 Uhr.
