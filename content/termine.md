@@ -7,9 +7,17 @@ menu:
         weight: 40
 ---
 
+# Termine 2018
+
+Datum | Event
+--- | ---
+26.03. - 29.03. | Osterferienprojekt: Radfahren im Gelände. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2018.pdf)**
+04.08. | Rheingau-Inline- und Rad-Tour mit Partyschiff. **[Mehr Informationen](http://w-n-s.de/2018rheingau.html)**
+
+
 # Termine 2017 <span class="small-header">[herunterladen](termine/WSV-Termine2017.pdf)</span>
 
- Datum | Event
+Datum | Event
 --- | ---
 04.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 11.03. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
