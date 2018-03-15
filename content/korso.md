@@ -1,24 +1,24 @@
 ---
 title: Schulkorso
 header: header/two.jpg
-date: "2016-12-10"
+date: "2018-03-16"
 menu: 
     main2:
         weight: 80
 ---
 
 # Schulkorso – Aktionstag Wiesbadener Schüler bewegen was
-Am Dienstag 5. Juli 2016 ist es soweit. In unserer Landeshauptstadt wird sich der 1. Wiesbadener Schul-Korso vom Rathaus aus durch die Innenstadt schlängeln. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus dieser Premiere ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Oberbürgermeister Sven Gerich eröffnet die Veranstaltung und Schulderzenentin Rose-Lore Scholz gibt als Schirmherrin das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
+Am Dienstag 14. Mai 2018 ist es soweit. In unserer Landeshauptstadt wird sich der 2. Wiesbadener Schul-Korso vom Rathaus aus durch die Innenstadt schlängeln. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus dieser Premiere ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Oberbürgermeister Sven Gerich eröffnet die Veranstaltung und Schulderzenentin Rose-Lore Scholz gibt als Schirmherrin das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
 
 **Anfragen und Vorschläge bitte an [verkehrswende@web.de](mailto:verkehrswende@web.de) mailen!**
 
-**Wir freuen uns über Ihre Mithilfe beim 1. Wiesbadener Schul-Korso.**
+**Wir freuen uns über Ihre Mithilfe beim 2. Wiesbadener Schul-Korso.**
 
 Hier zwei Vorlagen für einen Elternbrief zur Teilnahme am Schul-Korso:
 
-**[Elternbrief Schülerkorso-2016](korso/elternbrief2016-1.pdf)** (vom Bündnis Verkehrswende Wiesbaden als PDF-Datei)
+**[Elternbrief Schülerkorso](korso/elternbrief2016-1.pdf)** (vom Bündnis Verkehrswende Wiesbaden als PDF-Datei)
 
-**[Elternbrief Schülerkorso-2016](korso/elternbrief2016allgemein.doc)** (als WORD-Datei zum Selbstanpassen)
+**[Elternbrief Schülerkorso](korso/elternbrief2016allgemein.doc)** (als WORD-Datei zum Selbstanpassen)
 
 ## Worum geht es?
 
