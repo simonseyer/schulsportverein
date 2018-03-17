@@ -60,7 +60,7 @@ Hier zwei Vorlagen für einen Elternbrief zur Teilnahme am Schul-Korso:
   Es ist geplant, dass dort ausreichende Sammelpunkte für die einzelnen Gruppen (Klassenverbände, Schulen etc.) vorhanden sind.
 
 * **Bis wann und in welcher Form benötigt das Orga-Team eine verbindliche Rückmeldung über die Teilnahme?**
-  Wir bitten die Schulleiter um eine Rückmeldung zur Teilnahme ihrer Schule bis zum 1. Mai. Da wir Absprachen mit der Polizei bezüglich der ungefähren Teilnehmerzahl treffen müssen, bitten wir Lehrkräfte bis zum 17. Mai anzugeben, ob ihre Klassen teilnehmen werden. Eine genaue Anzahl der angemeldeten Kinder erwarten wir im Juni. Senden Sie eine Email an die Adresse verkehrswende@web.de
+  Wir bitten die Schulleiter um eine Rückmeldung zur Teilnahme ihrer Schule bis zum 9. Mai. Da wir Absprachen mit der Polizei bezüglich der ungefähren Teilnehmerzahl treffen müssen, bitten wir Lehrkräfte bis zum 17. Mai anzugeben, ob ihre Klassen teilnehmen werden. Eine genaue Anzahl der angemeldeten Kinder erwarten wir im Juni. Senden Sie eine Email an die Adresse verkehrswende@web.de
 oder rufen Sie eine der unten aufgeführten Telefonnummern an.
 Sobald Sie über die Informationen verfügen, helfen uns folgende Angaben:
 
@@ -80,6 +80,7 @@ Auf der Internetseite [https://verkehrswendewiesbaden.wordpress.com/schulerkorso
 
 Bei Fragen haben Sie folgende Möglichkeiten:
 
-Email: [verkehrswende@web.de](mailto:verkehrswende@web.de)  
-Telefon: 0611 / 1899322 Josef Liebhart (Gesamtleitung)  
+Email: [verkehrswende@web.de](mailto:verkehrswende@web.de)
+Telefon: 0175 / 3730753 Matthias Richter (Gesamtleitung)
+Telefon: 0611 / 1899322 Josef Liebhart (Leitung/Orga)
 Telefon: 069 / 6664078 Werner Buthe (Leitung/Orga Korso)
