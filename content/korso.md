@@ -28,11 +28,17 @@ Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich d
 * Abschlussveranstaltung von 12:00 bis 13:00 Uhr
 * Um 13:00 Uhr endet die Veranstaltung auf dem Dernschen Gelände. Danach werden organisierte Rückfahrten zu den Schulen angeboten.
 
+## Sternenfahrten
+
+So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Änderungen geben.
+
 ![Übersichts-Karte](korso/stadtkorsoc3bcberblick2.png)
 
 ## Geplante Tour durch die Stadt
 
-![Routen-Karte](korso/stadtkorso3.png)
+(kleinere Anpassungen erfolgen noch)
+
+![Routen-Karte](korso/strecke.jpg)
 
 ### Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
@@ -59,8 +65,6 @@ Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich d
   ESWE-Verkehr ist angefragt, sobald eine verbindliche Zusage vorliegt, wird es auf dieser Web-Seite kommuniziert.
 * **Was machen wir mit Schülerinnen und Schülern, die kein eigenes Fahrrad haben? Können Leihfahrräder organisiert werden?**
   Es gibt Leihfahrräder, bitte setzen Sie sich mit uns in Verbindung, wenn Sie da Hilfe benötigen.
-
-Auf der Internetseite [https://verkehrswendewiesbaden.wordpress.com/schulerkorso-aktionstag-wiesbadener-schuler-bewegen-sich/](https://verkehrswendewiesbaden.wordpress.com/schulerkorso-aktionstag-wiesbadener-schuler-bewegen-sich/) finden Sie stetig aktualisierte Informationen.
 
 Bei Fragen haben Sie folgende Möglichkeiten:
 
