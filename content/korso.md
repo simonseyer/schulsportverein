@@ -8,9 +8,11 @@ menu:
 ---
 
 # Schulkorso – Aktionstag Wiesbadener Schüler bewegen was
-Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich der 2. Wiesbadener Schul-Korso vom Rathaus aus durch die Innenstadt schlängeln. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus dieser Premiere ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Oberbürgermeister Sven Gerich eröffnet die Veranstaltung und Schulderzenentin Rose-Lore Scholz gibt als Schirmherrin das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
+Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich der 2. Wiesbadener Schul-Korso vom Rathaus aus durch die Innenstadt schlängeln. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
 
-**Anfragen und Vorschläge bitte an [verkehrswende@web.de](mailto:verkehrswende@web.de) mailen!**
+Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Die Dezernenten Alexander Imholz und Andreas Kowol eröffnen die Veranstaltung und geben als Schirmherren das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
+
+**Anfragen und Vorschläge bitte an [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com) mailen!**
 
 ## Worum geht es?
 
@@ -42,6 +44,9 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
 
 ### Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
+* **Was gibt es auf dem Dern´schen Gelände als Programm?**
+  Es gibt eine Bühne und einige Schülerbands spielen Live-Musik, desto weiteren eine Begrüßung der Dezernenten Alexander Imholz und Andreas Kowol.
+
 * **Wer führt eigentlich die Aufsicht und sorgt für die Sicherheit der radelnden Schülerinnen und Schüler?**
   Das Orga-Team, unterstützt von langjährigen Rad-Korso-Profis, sorgt für ehrenamtliche Helfer bzw. bildet diese auch aus, die aus den Schulen kommen. Außerdem wird genügend Polizei vor Ort sein, die ebenfalls die radelnden Schülerinnen und Schüler begleiten.
 
@@ -68,7 +73,7 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
 
 Bei Fragen haben Sie folgende Möglichkeiten:
 
-Email: [verkehrswende@web.de](mailto:verkehrswende@web.de)  
+Email: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)  
 Telefon: 0175 / 3730753 Matthias Richter (Gesamtleitung)  
 Telefon: 0611 / 1899322 Josef Liebhart (Leitung/Orga)  
 Telefon: 069 / 6664078 Werner Buthe (Leitung/Orga Korso)  
