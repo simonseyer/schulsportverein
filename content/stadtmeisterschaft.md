@@ -7,57 +7,25 @@ menu:
         weight: 30
 ---
 
-# Stadtmeisterschaft 2017
+# Stadtmeisterschaft 2018
 
-
-## 03 VIACTIV MTB-Rhein Main Cup
-
-<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2017-2.Lauf.pdf">Ergebnisse und Endergebnis (PDF)</a></b>
-</div>
-
-## 02 Asphaltrennen auf dem MTB im Gewerbegebiet Kastel
-
-<div style="font-size: 125%; margin-top: 40px; margin-bottom: 40px;">
-	Dieses Rennen ist leider ausgefallen.
-</div>
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
-<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2017-1.Lauf.pdf">Ergebnisse (PDF)</a></b>
-</div>
+am **27.05.2018**  
+ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V.](https://www.schulsportverein.de)**
 
-Veranstaltet vom **[Schulsportverein](https://schulsportverein.de)** findet am **28.05.2017** das erste Rennen der diesjährigen Stadtmeisterschaft
-auf dem Hofgut Adamstal statt (Adamstal 1, 65195 Wiesbaden). 
+## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
-Die Anmeldung erfolgt direkt am Start, die Startgebühr beträgt 5 €.  
-*U7* bis *U13* melden sich bitte zwischen 13:30 und 14 Uhr an, *U15* und *U17* bis 15 Uhr.
+am **16.09.2018**  
+ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de/)**
 
-
-Es fahren:
-
-* **U7** 1 Runde. Start 14:35 Uhr
-* **U9** 1 Runde. Start 14:45 Uhr
-* **U11** 2 Runden. Start 14:50 Uhr
-* **U13** 3 Runden. Start 15:00 Uhr
-* **U15** 4 Runden. Start 15:15 Uhr
-* **U17** 5 Runden. Start 15:35 Uhr (bei weniger als fünf Teilnehmern wird mit der U15 gestartet und 4 Runden gefahren)
-
-Die Rundenlänge beträgt ca. 1 km.  
-Leichte Abweichungen vom Zeitplan sind möglich (auch Starts wenige Minuten früher).
-
-[![Streckenkarte Rennen Hofgut Adamstal](stadtmeisterschaft/Hofgut-Adamstal-Streckenplan.jpg)](stadtmeisterschaft/Hofgut-Adamstal-Streckenplan.jpg)
-
-## Plakat
-
-[![Plakat Stadtmeisterschaft](stadtmeisterschaft/poster_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
 
 ## Flyer
 
 [![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
 
-*Vorschaubilder anklicken zum Herunterladen*
+*Vorschaubild anklicken zum Herunterladen*
 
 ## Einverständniserklärung
 
