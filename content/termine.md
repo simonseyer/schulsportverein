@@ -17,14 +17,14 @@ Datum | Event
 03.04. - 06.04.  | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 22.04. | Frühlingsradtour 2018 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 28.04. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-04.05. - 06.05. | Freizeit für Fahrrad-Anfänger nach Bingen
+04.05. - 06.05. | Freizeit für Fahrrad-Anfänger nach Bingen **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit 2018 Bingen.pdf)**
 20.05.  | Familienradtour
 26.05. | Beteiligung am Schulfest der Helene-Lange-Schule
 27.05. | WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal
 08.06. – 10.06. | MTB-Freizeit für Geübte ins Jammertal
 09.06. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 14.06. | Schülerkorso durch die Wiesbadener Innenstadt
-09.07. – 13.07.  | Sommerferienprojekt Fahrrad: Tourenfahren
+02.07. – 06.07.  | Sommerferienprojekt Fahrrad: Tourenfahren
 04.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim. **[Mehr Informationen](http://w-n-s.de/2018rheingau.html)**
 17.08. – 19.08. | WSV-Freizeit NO-Bike (ohne Bike)
 26.08. | Grillfest in der Grillhütte auf der Platte
