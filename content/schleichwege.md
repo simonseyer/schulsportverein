@@ -14,7 +14,7 @@ Wir möchten den Schülern der Wiesbadener Schulen einen Schulweg aufzeigen, wie
 Die Untersuchungen können betrachtet werden als
 
 *   **[Übersichtskarte](schleichwege/Schleichwege_2016_Plakat.pdf) (PDF)**
-*   **[Interaktive Karte](http://maps.wiesbaden.de/cityguide/cgi-bin/cityguide.cgi?action=show&lang=de&size=1076&groupID=0&objectID=0&mapper=11)**
+*   **[Interaktive Karte](http://geoportal.wiesbaden.de/kartenwerk/application/schleichwege)**
 *   **PDF pro Straße (siehe unten)**
 *   **[Broschüre](schleichwege/schleichwege-broschuere.pdf)**
 
