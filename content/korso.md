@@ -16,10 +16,10 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 ## Worum geht es?
 
-* Das Problem „Die Stadt Wiesbaden ist für das Fahrradfahren viel zu gefährlich!“ wird für diesen einen Tag außer Kraft gesetzt, denn …
+* Für einen Tag darf Wiesbaden sein Potential als fahrradfreundlichste Stadt zeigen, denn …
 * … die Schülerinnen und Schüler können einmal gemeinsam mit vielen anderen mit dem Fahrrad durch die Stadt fahren, behütet und geschützt durch Polizei und Helfer.
-* Ein Erlebnis, das erfahrungsgemäß viel Spaß und Freude macht, aber auch pädagogisch wertvoll sein kann: es stärkt den Gemeinschaftssinn, schafft Selbstvertrauen und fördert die Erkenntnis, dass Engagement sich lohnt.
-* Aber auch für die begleitenden Lehrer und Eltern sollte es ein entspannter Tag werden, da wir uns um ein Rundum-Sorglos-Paket bemühen.
+* Ein Erlebnis, das erfahrungsgemäß viel Spaß und Freude macht, aber auch pädagogisch wertvoll sein kann: es stärkt den Gemeinschaftssinn, schafft Selbstvertrauen, übt die Mobilität und Bewegungsfreude und fördert die Erkenntnis, dass Engagement sich lohnt.
+* Auch für die begleitenden Lehrer und Eltern soll es ein entspannter Tag werden. Wir können kein Rundum-Sorglos-Paket bieten, aber eine durchdachte und sorgfältige Planung, die die Betreuung ihrer Schützlinge in jeder Hinsicht erleichtert.
 
 ## Mit Pauken und Trompeten in die Stadt
 
@@ -48,19 +48,20 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
   Es gibt eine Bühne und einige Schülerbands spielen Live-Musik, desto weiteren eine Begrüßung der Dezernenten Alexander Imholz und Andreas Kowol.
 
 * **Wer führt eigentlich die Aufsicht und sorgt für die Sicherheit der radelnden Schülerinnen und Schüler?**
-  Das Orga-Team, unterstützt von langjährigen Rad-Korso-Profis, sorgt für ehrenamtliche Helfer bzw. bildet diese auch aus, die aus den Schulen kommen. Außerdem wird genügend Polizei vor Ort sein, die ebenfalls die radelnden Schülerinnen und Schüler begleiten.
+  Das Orga-Team, unterstützt von langjährigen Rad-Korso-Profis, sorgt für ehrenamtliche Helfer bzw. bildet diese auch aus, die aus den Schulen kommen. Außerdem wird genügend Polizei vor Ort sein, die ebenfalls die radelnden Schülerinnen und Schüler begleiten. Aber auch die Lehrkräfte führen die Aufsicht über die Schülerinnen und Schüler ihrer Klasse/Gruppe, sind ihre Ansprechpartner und sorgen mit für einen ungestörten Ablauf.
 
 * **Wer muss zustimmen, wenn ich mit meiner Klasse / Gruppe mitmachen möchte?**
-  Da der Aktionstag ein Schulwandertag ist, gelten die dabei üblichen Regelungen, dass die Schulleitung und die Eltern mit einer Beteiligung einverstanden sein müssen. Für die Eltern haben die Lehrkräfte einen Elternbrief zur Verfügung gestellt bekommen.
+  Da der Aktionstag ein Schulwandertag ist, gelten die dabei üblichen Regelungen, dass die Schulleitung und die Eltern mit einer Beteiligung einverstanden sein müssen. Für die Lehrkräfte wird auf Wunsch ein Elternbrief zur Verfügung gestellt.
 
 * **Was können Klassen machen, welche sich beteiligen wollen, aber einige Schülerinnen und Schüler nicht über ein Fahrrad verfügen?**
   Da der Aktionstag, wie erwähnt, ein Schulwandertag ist, gilt folgende Regelung: Wenn ein Teil der Klasse/ des Jahrgangs nicht mitradeln kann, wird eine Orgaform gefunden, dass diese auf eine andere Art am Wandertag teilnehmen, z.B. zu Fuß oder mit dem Bus zum Dern´schen Gelände.
 
 * **Wie kann sicher gestellt werden, dass sich Klassen auf dem Dern´schen Gelände wiederfinden?**
-  Es ist geplant, dass dort ausreichende Sammelpunkte für die einzelnen Gruppen (Klassenverbände, Schulen etc.) vorhanden sind.
+  Da die Lehrkräfte vereinbaren mit ihren Klassen/Gruppen einen Treffpunkt auf dem Dern´schen Gelände. Da sie mit den Klassen/Gruppen zusammen radeln, werden sie aber sowieso miteinander in ständigem Kontakt stehen.
+
 
 * **Bis wann und in welcher Form benötigt das Orga-Team eine verbindliche Rückmeldung über die Teilnahme?**
-  Wir bitten die Schulleiter um eine Rückmeldung zur Teilnahme ihrer Schule bis zum 9. Mai.
+  Um die Veranstaltung mit allem Drum und Dran planen zu können, benötigt das Orga-Team eine verbindliche Anmeldung Ihrer Schule **bis zum 9. Mai 2018**. Melden Sie die Anzahl der radelnden Schüler und der begleitenden Lehrkräfte und Helfer per mail an [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com).
 
 * **Wer ist für die Verkehrssicherheit der Fahrräder verantwortlich?**
  Grundsätzlich ist zunächst der Schüler und im Weiteren die Eltern für die Verkehrssicherheit verantwortlich, unabhängig von einer Veranstaltung. Eine zusätzliche Kontrolle seitens der Lehrkräften oder Veranstaltern ist, wie bei solchen Dingen üblich, nicht vorgesehen und kann auch nicht verlangt werden, aber es ist wünschenswert, dass alle teilnehmenden Erwachsenen einen prüfenden Blick auf die Räder der Schüler werfen und ggf. kritische Dinge anmahnen. Die Unfallkasse Hessen tritt für Schäden im gleichen Maße ein, wie sie dies auch auf dem „normalen“ Schulweg und bei anderen schulischen Veranstaltungen tut. Dies betrifft den Weg zur Veranstaltung hin und zurück, aber natürlich auch auf dieser selbst.
