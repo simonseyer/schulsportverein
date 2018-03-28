@@ -8,7 +8,7 @@ menu:
 ---
 
 # Schulkorso – Aktionstag Wiesbadener Schüler bewegen was
-Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich der 2. Wiesbadener Schul-Korso vom Rathaus aus durch die Innenstadt schlängeln. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
+Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich der 2. Wiesbadener Schul-Korso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und der Stadtschulelternbeirat. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
 
 Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Die Dezernenten Alexander Imholz und Andreas Kowol eröffnen die Veranstaltung und geben als Schirmherren das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
 
