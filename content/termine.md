@@ -31,7 +31,8 @@ Datum | Event
 Noch offen | Beteiligung am Schulfest der IGS-Kastellstraße
 09.09. | Tour de Taunus 2018 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 16.09. | Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn
-22.09. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
+21. + 22.09. | <span class="tanz">Wiesbaden tanzt, WSV-Angebot Kizomba mit Keiko Godawa in der Mensa der IGS-Kastellstraße</span>
+23.09. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 01.10. – 05.10.  | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 08.10. – 12.10. | MTB-Herbstcamp für Fortgeschrittene mit Johann Kraffert
 10.11. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
