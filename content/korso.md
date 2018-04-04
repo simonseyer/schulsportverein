@@ -16,8 +16,8 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 ## Worum geht es?
 
-* Für einen Tag darf Wiesbaden sein Potential als fahrradfreundlichste Stadt zeigen, denn …
-* … die Schülerinnen und Schüler können einmal gemeinsam mit vielen anderen mit dem Fahrrad durch die Stadt fahren, behütet und geschützt durch Polizei und Helfer.
+* An diesem Tag darf Wiesbaden sein Potential als fahrradfreundlichste Stadt zeigen, denn …
+* … die Schülerinnen und Schüler können gemeinsam mit vielen anderen mit dem Fahrrad durch die Stadt fahren, begleitet und geschützt durch Polizei und Helfer.
 * Ein Erlebnis, das erfahrungsgemäß viel Spaß und Freude macht, aber auch pädagogisch wertvoll sein kann: es stärkt den Gemeinschaftssinn, schafft Selbstvertrauen, übt die Mobilität und Bewegungsfreude und fördert die Erkenntnis, dass Engagement sich lohnt.
 * Auch für die begleitenden Lehrer und Eltern soll es ein entspannter Tag werden. Wir können kein Rundum-Sorglos-Paket bieten, aber eine durchdachte und sorgfältige Planung, die die Betreuung ihrer Schützlinge in jeder Hinsicht erleichtert.
 
