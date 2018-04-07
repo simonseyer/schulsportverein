@@ -49,12 +49,12 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
 **Für wen:** Grundschüler  
 **Trainer:** Jörg Pöse
 
-**Freitags** ab 15:15 Uhr, Abfahrt ca. 15:45 Uhr  
+**Freitags** Abfahrt ca. 15:45 Uhr, Treffpunkt ab 15:15 Uhr  
 **Treffpunkt:** An der Fahrradwerkstatt der IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
 **Für wen:** Das Training für die Jüngeren (ab ca. 8 Jahre).  
 **Trainer:** Matthias Richter
 
-**Samstags** 14:15 Uhr, Treffpunkt etwas früher!  
+**Samstags** Abfahrt 14:15 Uhr, Treffpunkt etwas früher!  
 **Treffpunkt:** Auf dem Schulparkplatz vor dem Altbau der IGS-Kastellstraße, Kastellstraße 11.  
 **Für wen:** Das etwas sportlichere Training (für jung und alt, auch Erwachsene).  
 **Trainer:** Matthias Richter
