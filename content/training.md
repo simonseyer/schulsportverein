@@ -45,17 +45,17 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
 **Anmeldung notwendig:** per Mail oder Telefon
 
 **Montags** 16:00 - 18:00 Uhr  
-**Wo:** Treffpunkt Blücherschule (Eingang Blücherstraße am Fahrradcontainer)  
+**Treffpunkt:** Blücherschule (Eingang Blücherstraße am Fahrradcontainer)  
 **Für wen:** Grundschüler  
 **Trainer:** Jörg Pöse
 
-**Freitags** 15:15 Uhr, Abfahrt etwas später  
-**Wo:** Treffpunkt vor der Fahrradwerkstatt der Schule IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
+**Freitags** ab 15:15 Uhr, Abfahrt ca. 15:45 Uhr  
+**Treffpunkt:** An der Fahrradwerkstatt der IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
 **Für wen:** Das Training für die Jüngeren (ab ca. 8 Jahre).  
 **Trainer:** Matthias Richter
 
-**Samstags** 14:00 – 14:10 Uhr, Abfahrt um 14:10 Uhr  
-**Wo:** Auf dem Parkplatz der Schule IGS-Kastellstraße, Kastellstraße 11.  
+**Samstags** 14:15 Uhr, Treffpunkt etwas früher!  
+**Treffpunkt:** Auf dem Schulparkplatz vor dem Altbau der IGS-Kastellstraße, Kastellstraße 11.  
 **Für wen:** Das etwas sportlichere Training (für jung und alt, auch Erwachsene).  
 **Trainer:** Matthias Richter
 
