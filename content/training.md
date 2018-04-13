@@ -61,7 +61,7 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
 
 ### Weitere Fahrrad AGs, nur für die Schüler der jeweiligen Schule
 
-IGS-Kastellstraße (mit Dirk Vielmeyer):  
+IGS-Kastellstraße (mit Olaf Splittgerber):  
 **Mittwochs**, 13:00 - 14:00 Uhr, Fahrradwerkstatt AG, hier wird geschraubt.  
 
 Wolfram-von-Eschenbach-Schule (mit Boris Stichel):  
