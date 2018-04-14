@@ -71,11 +71,14 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
 * **Können Grundschulen aus den höhergelegenen bzw. weiter entfernten Außenbezirken (z.B. Dotzheim-Kohlheck, Nordenstadt oder Delkenheim) mit dem Bus abgeholt bzw zurückgebracht werden?**  
   ESWE-Verkehr ist angefragt, sobald eine verbindliche Zusage vorliegt, wird es auf dieser Web-Seite kommuniziert.
 
-* **Was machen wir mit Schülerinnen und Schülern, die kein eigenes Fahrrad haben? Können Leihfahrräder organisiert werden?**  
+* **Was können Klassen machen, welche sich beteiligen wollen, aber einige Schülerinnen und Schüler nicht über ein Fahrrad verfügen?**  
+  Da der Aktionstag, wie erwähnt, ein Schulwandertag ist, gilt folgende Regelung: Wenn ein Teil der Klasse/ des Jahrgangs nicht mitradeln kann, wird eine Orgaform gefunden, dass diese auf eine andere Art am Wandertag teilnehmen, z.B. zu Fuß oder mit dem Bus zum Dern´schen Gelände.  
+  
+* **Können Leihfahrräder organisiert werden?**  
   Es gibt Leihfahrräder, bitte setzen Sie sich mit uns in Verbindung, wenn Sie da Hilfe benötigen.
 
 * **Wie und wann werden Helfer und Begleitpersonen auf ihre Aufgaben beim Schülerkorso informiert?**  
-  Lehrkräfte und Helfer*innen haben 6 Termine zur Auswahl, an denen sie durch das Orga-Team umfassend informiert werden:  
+  Lehrkräfte und Helfer\*innen haben 6 Termine zur Auswahl, an denen sie durch das Orga-Team umfassend informiert werden:  
   Montag, 28.05.2018, Dienstag, 29.05.2018, Mittwoch, 30.05.2018 jeweils 18.00 Uhr bzw. 19.00 Uhr in der IGS Kastellstraße.  
   Hier können auch alle Fragen geklärt werden, falls es noch Fragen gibt.
 
