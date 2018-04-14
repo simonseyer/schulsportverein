@@ -51,7 +51,8 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
   Das Orga-Team, unterstützt von langjährigen Rad-Korso-Profis, sorgt für ehrenamtliche Helfer bzw. bildet diese auch aus, die aus den Schulen kommen. Außerdem wird genügend Polizei vor Ort sein, die ebenfalls die radelnden Schülerinnen und Schüler begleiten. Aber auch die Lehrkräfte führen die Aufsicht über die Schülerinnen und Schüler ihrer Klasse/Gruppe, sind ihre Ansprechpartner und sorgen mit für einen ungestörten Ablauf.
 
 * **Wer muss zustimmen, wenn ich mit meiner Klasse / Gruppe mitmachen möchte?**  
-  Da der Aktionstag ein Schulwandertag ist, gelten die dabei üblichen Regelungen, dass die Schulleitung und die Eltern mit einer Beteiligung einverstanden sein müssen. Für die Lehrkräfte wird auf Wunsch ein Elternbrief zur Verfügung gestellt.
+  Da der Aktionstag ein Schulwandertag ist, gelten die dabei üblichen Regelungen, dass die Schulleitung und die Eltern mit einer Beteiligung einverstanden sein müssen.  
+  **[Vorlage für einen Elternbrief der Klassenlehrerin/ des Klassenlehrers](korso/Schülerkorso 2018 Elternbrief.doc)**.
 
 * **Was können Klassen machen, welche sich beteiligen wollen, aber einige Schülerinnen und Schüler nicht über ein Fahrrad verfügen?**  
   Da der Aktionstag, wie erwähnt, ein Schulwandertag ist, gilt folgende Regelung: Wenn ein Teil der Klasse/ des Jahrgangs nicht mitradeln kann, wird eine Orgaform gefunden, dass diese auf eine andere Art am Wandertag teilnehmen, z.B. zu Fuß oder mit dem Bus zum Dern´schen Gelände.
