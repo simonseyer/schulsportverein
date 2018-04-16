@@ -52,7 +52,7 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
 
 * **Wer muss zustimmen, wenn ich mit meiner Klasse / Gruppe mitmachen möchte?**  
   Da der Aktionstag ein Schulwandertag ist, gelten die dabei üblichen Regelungen, dass die Schulleitung und die Eltern mit einer Beteiligung einverstanden sein müssen.  
-  **[Vorlage für einen Elternbrief der Klassenlehrerin/ des Klassenlehrers](korso/Schülerkorso-2018-Elternbrief.doc)**.
+  **[Vorlage für einen Elternbrief der Klassenlehrerin/ des Klassenlehrers](korso/Schuelerkorso-2018-Elternbrief.doc)**.
 
 * **Was können Klassen machen, welche sich beteiligen wollen, aber einige Schülerinnen und Schüler nicht über ein Fahrrad verfügen?**  
   Da der Aktionstag, wie erwähnt, ein Schulwandertag ist, gilt folgende Regelung: Wenn ein Teil der Klasse/ des Jahrgangs nicht mitradeln kann, wird eine Orgaform gefunden, dass diese auf eine andere Art am Wandertag teilnehmen, z.B. zu Fuß oder mit dem Bus zum Dern´schen Gelände.
