@@ -1,5 +1,5 @@
 ---
-title: Schulkorso
+title: Schülerkorso
 header: header/two.jpg
 date: "2018-03-16"
 menu: 
@@ -7,8 +7,8 @@ menu:
         weight: 80
 ---
 
-# Schulkorso – Aktionstag Wiesbadener Schüler bewegen was
-Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich der 2. Wiesbadener Schul-Korso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und des Stadtschulelternbeirats. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
+# Schülerkorso – Aktionstag Wiesbadener Schüler bewegen was
+Am Dienstag 14. Juni 2018 ist es soweit. In unserer Landeshauptstadt wird sich der 2. Wiesbadener Schülerkorso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und des Stadtschulelternbeirats. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
 
 Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Die Dezernenten Alexander Imholz und Andreas Kowol eröffnen die Veranstaltung und geben als Schirmherren das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
 
@@ -25,8 +25,8 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 * Wir wollen mit vier verschiedenen Zügen von den Schulen zum Dernschen Gelände fahren. Von dort aus gibt es einen Rundkurs durch die Stadt und nach einer Abschlussveranstaltung mit Musik werden alle wieder zu ihren Schulen zurückfahren.
 * Abfahrt an den Schulen je nach Lage zwischen 8:30 und 9:30 Uhr
-* Ankunft Dernsches Gelände etwa 10:00 Uhr
-* Abfahrt zum Stadtrundkurs ab 10:45 Uhr, Dauer etwa eine Stunde
+* Ankunft auf dem Dernschen Gelände etwa 10:00 Uhr, danach Begrüßung und Eröffnung der Veranstaltung.
+* Abfahrt zum Stadtrundkurs ab 10:30 Uhr, Dauer etwa eine Stunde.
 * Abschlussveranstaltung von 12:00 bis 13:00 Uhr
 * Um 13:00 Uhr endet die Veranstaltung auf dem Dernschen Gelände. Danach werden organisierte Rückfahrten zu den Schulen angeboten.
 
