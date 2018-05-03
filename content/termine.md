@@ -21,7 +21,7 @@ Datum | Event
 20.05.  | Familienradtour
 26.05. | Beteiligung am Schulfest der Helene-Lange-Schule
 27.05. | WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal
-08.06. – 10.06. | MTB-Freizeit für Geübte ins Jammertal
+08.06. – 10.06. | MTB-Freizeit für Geübte ins Jammertal **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit 2018 Jammertal.pdf)**
 09.06. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 14.06. | Schülerkorso durch die Wiesbadener Innenstadt
 02.07. – 06.07.  | Sommerferienprojekt Fahrrad: Tourenfahren
