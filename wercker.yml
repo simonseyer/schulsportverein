@@ -2,7 +2,7 @@ box: ruby
 build:
   steps:
     - bundle-install
-    - arjen/hugo-build:
+    - arjen/hugo-build@1.29:
         version: "0.18"
         flags: --baseURL $BASE_URL
     - script:
