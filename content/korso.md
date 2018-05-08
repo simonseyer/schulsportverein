@@ -38,8 +38,6 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
 
 ## Geplante Tour durch die Stadt
 
-(kleinere Anpassungen erfolgen noch)
-
 [![Routen-Karte](korso/strecke_small.jpg)](korso/strecke.jpg)
 
 ### Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
