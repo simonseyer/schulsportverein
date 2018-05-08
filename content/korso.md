@@ -40,7 +40,7 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
 
 [![Routen-Karte](korso/strecke_small.jpg)](korso/strecke.jpg)
 
-### Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
+## Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
 * **Was gibt es auf dem Dern´schen Gelände als Programm?**  
   Es gibt eine Bühne und einige Schülerbands spielen Live-Musik, desto weiteren eine Begrüßung der Dezernenten Alexander Imholz und Andreas Kowol.
