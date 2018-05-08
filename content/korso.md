@@ -34,13 +34,13 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Änderungen geben.
 
-![Übersichts-Karte](korso/stadtkorsoc3bcberblick2.png)
+[![Übersichts-Karte](korso/stadtkorsoc3bcberblick2.png)](korso/stadtkorsoc3bcberblick2.png)
 
 ## Geplante Tour durch die Stadt
 
 (kleinere Anpassungen erfolgen noch)
 
-![Routen-Karte](korso/strecke.jpg)
+[![Routen-Karte](korso/strecke_small.jpg)](korso/strecke.jpg)
 
 ### Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
