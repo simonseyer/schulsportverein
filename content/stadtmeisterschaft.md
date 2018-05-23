@@ -15,6 +15,21 @@ menu:
 am **27.05.2018**  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V.](https://www.schulsportverein.de)**
 
+[![Lageplan Adamstal](stadtmeisterschaft/lageplan-adamstal.jpg)](stadtmeisterschaft/lageplan-adamstal.jpg)
+
+* U7/U9 fährt 1 Runde.
+* U11 fährt 2 Runden.
+* U13 fährt 3 Runden.
+* U15 fährt 4 Runden.
+* U17 fährt 5 Runden.
+
+Rundenlänge beträgt ca. 1 km.
+
+Leichte Abweichungen von der Zeitplanung sind möglich (z.B. ein Start 5 Minuten früher usw.).
+
+Die U17 fährt fünf Runden nur dann, wenn mind. 5 Teilnehmer gemeldet sind.
+Bei weniger als 5 Teilnehmern fahren diese im Feld der U15 mit und fahren vier Runden.
+
 ## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
 am **16.09.2018**  
