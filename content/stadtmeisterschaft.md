@@ -31,7 +31,9 @@ Fa. Decathlon
 Sylvain Arena  
 Schönaustraße 25  
 65201 Wiesbaden  
-**[0173 341 00 75](tel:+491733410075)**
+**[0173 341 00 75](tel:+491733410075)**  
+
+**[Informationen herunterladen](stadtmeisterschaft/Zusatzrennen-der-Stadtmeisterschaften-2018.pdf)**
 
 ---
 
