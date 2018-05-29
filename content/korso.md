@@ -76,11 +76,6 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
 * **Können Leihfahrräder organisiert werden?**  
   Es gibt für Einzelfälle Leihfahrräder, bitte setzen Sie sich mit uns in Verbindung, wenn Sie da Hilfe benötigen.
 
-* **Wie und wann werden Helfer und Begleitpersonen auf ihre Aufgaben beim Schülerkorso informiert?**  
-  Lehrkräfte und Helfer\*innen haben 6 Termine zur Auswahl, an denen sie durch das Orga-Team umfassend informiert werden:  
-  Montag, 28.05.2018, Dienstag, 29.05.2018, Mittwoch, 30.05.2018 jeweils 18.00 Uhr bzw. 19.00 Uhr in der IGS Kastellstraße.  
-  Hier können auch alle Fragen geklärt werden, falls es noch Fragen gibt.
-
 
 Bei Fragen haben Sie folgende Möglichkeiten:
 
