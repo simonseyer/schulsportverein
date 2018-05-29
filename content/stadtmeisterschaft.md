@@ -39,6 +39,10 @@ Schönaustraße 25
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2018-1.Lauf.pdf">Ergebnisse (PDF)</a></b>
+</div>
+
 am **27.05.2018**  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V.](https://www.schulsportverein.de)**
 
