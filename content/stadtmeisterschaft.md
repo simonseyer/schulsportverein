@@ -9,6 +9,31 @@ menu:
 
 # Stadtmeisterschaft 2018
 
+---
+
+## Zusatzrennen
+
+Wer sein Ergebnis verbessern möchte, hat die Möglichkeit, an einem Geschicklichkeitsparcours im Rahmen der RTF Tour de Wiesbaden teilzunehmen. Es gilt als inoffizieller dritter Lauf der Stadtmeisterschaft und kann in die Gesamtwertung der Stadtmeisterschaft einfließen.
+Es werden aber insgesamt nur zwei Rennen gewertet, das schlechteste Ergebnis der drei Rennen wird somit gestrichen.
+
+
+**Datum:** So, 09.09.2018  
+**Startzeit:** 10:00 bis 12:00 Uhr  
+**Startort:**   
+Otto-Wallach-Str. 5  
+65203 Wiesbaden  
+Fa. Decathlon  
+**[Route erstellen](https://maps.google.de/?daddr=Otto-Wallach-Str.+5%2C+Wiesbaden)**  
+
+**Veranstalter:** Equipe Wiesbaden RSV 2011 e.V.   
+**Mehr Informationen: [www.equipe-wiesbaden.de](http://www.equipe-wiesbaden.de)**  
+**Verantwortlicher Ansprechpartner:**  
+Sylvain Arena  
+Schönaustraße 25  
+65201 Wiesbaden  
+**[0173 341 00 75](tel:+491733410075)**
+
+---
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
