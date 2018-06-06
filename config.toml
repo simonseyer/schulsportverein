@@ -16,7 +16,7 @@ theme = "schulsportverein"
     url = "http://tanzlaune.de/"
 
 [[menu.secondary]]
-    name = "Facebook"
+    name = "➡ News auf Facebook"
     weight = -10
     identifier = "facebook"
     url = "https://www.facebook.com/schulsportverein/"
