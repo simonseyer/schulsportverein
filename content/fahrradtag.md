@@ -4,7 +4,7 @@ header: header/two.jpg
 date: "2016-12-10"
 menu: 
     main2:
-        weight: 0
+        weight: 1
 ---
 
 # Der Fahrradtag

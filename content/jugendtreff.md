@@ -4,7 +4,7 @@ header: header/jugendtreff.JPG
 date: "2016-12-10"
 menu:
     main:
-        weight: 10
+        weight: 11
 ---
 
 # Jugendtreff
