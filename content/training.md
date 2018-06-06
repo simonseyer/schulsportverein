@@ -9,37 +9,6 @@ menu:
 
 # Trainingszeiten
 
-## Breitensport-Angebote
-
-### Breitensport-AGs
-
-**Breakdance** für alle Jahrgänge, dienstags, 14:15 - 15:15 Uhr.  
-**Fußball am Nachmittag** für alle Jahrgänge, dienstags, 15:15 - 16:15 Uhr.  
-
-**Ort:** Turnhalle der IGS-Kastellstraße.  
-**Trainer:** Nils Fass.  
-**Teilnahme:** Schüler der IGS Kastellstraße plus Schüler von anderen Schulen bei vorheriger Anmeldung bei uns.  
-
-**Nur für die Schüler der IGS-Kastellstraße:** 
-
-**Fußball** für die Jahrgänge 5-7, montags, 12:30 - 14:00 Uhr, Felix Wimmer, Turnhalle.  
-**Spiel, Spaß und Entspannung mit Yoga und Aerobic** für alle Jahrgänge, 
-montags, 13:15 - 14:00 Uhr, Keiko Godawa, kleiner Raum am Bistro.  
-**Tanzen** für Mädchen Jahrgang 5, mittwochs, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
-**Tanzen** für Mädchen aller Jahrgänge, donnerstags, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
-
-### Tanzen mit Henry für Erwachsene
-
-**Donnerstag- und freitagabends** in der Mensa der IGS-Kastellstraße  
-Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
-
-##  Der Jugendtreff (auch für Junggebliebene) 
-
-**Ort:** Der WSV-Vereinskeller am Klettergarten und die IGS-Fahrradwerkstatt.  
-**Treffpunkt:** Ab 18:00 Uhr im WSV-Vereinskeller  
-**Zeitpunkt:** Jeden Mittwoch von 18:00 Uhr - mindestens 20:00 Uhr  
-**Inhalte:** Gemeinsames Kochen, Dart, Kicker, Fußball in der Turnhalle, Werkstattbenutzung und Weiteres.  
-
 ## Trainingszeiten Radsport auf dem MTB
 
 **Anmeldung notwendig:** per Mail oder Telefon
@@ -59,10 +28,29 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und 0611/ 1370268
 **Für wen:** Das etwas sportlichere Training (für jung und alt, auch Erwachsene).  
 **Trainer:** Matthias Richter
 
-### Weitere Fahrrad AGs, nur für die Schüler der jeweiligen Schule
+## Tanzen mit Henry für Erwachsene
 
-IGS-Kastellstraße (mit Olaf Splittgerber):  
-**Mittwochs**, 13:00 - 14:00 Uhr, Fahrradwerkstatt AG, hier wird geschraubt.  
+**Donnerstag- und freitagabends** in der Mensa der IGS-Kastellstraße.  
+Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und [0611 1370268](tel:+496111370268).  
 
-Wolfram-von-Eschenbach-Schule (mit Boris Stichel):  
-**Mittwochs** um 14:00 Uhr.
+
+##  Der Jugendtreff (auch für Junggebliebene) 
+
+**Ort:** Der WSV-Vereinskeller am Klettergarten und die IGS-Fahrradwerkstatt.  
+**Treffpunkt:** Ab 18:00 Uhr im WSV-Vereinskeller.  
+**Zeitpunkt:** Jeden Mittwoch von 18:00 Uhr - mindestens 20:00 Uhr.  
+**Inhalte:** Gemeinsames Kochen, Dart, Kicker, Fußball in der Turnhalle, Werkstattbenutzung und Weiteres. [Mehr Infos](jugendtreff).  
+
+## AGs an den jeweiligen Schulen
+
+### IGS Kastellstraße
+**Fußball** für die Jahrgänge 5-7, montags, 12:30 - 14:00 Uhr, Felix Wimmer, Turnhalle.  
+**Yoga + Aerobic** für alle Jahrgänge, montags, 13:15 - 14:00 Uhr, Keiko Godawa, kleiner Raum am Bistro.  
+**Breakdance** für alle Jahrgänge, dienstags, 14:15 - 15:15 Uhr, Nils Fass, Turnhalle.  
+**Tanzen** für Mädchen Jahrgang 5, mittwochs, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
+**Tanzen** für Mädchen aller Jahrgänge, donnerstags, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
+
+**Fahrradwerkstatt-Schrauber AG** für alle Jahrgänge, mittwochs, 13:00 - 14:00 Uhr, Olaf Splittgerber, Fahrradwerkstatt
+
+### Mittelstufenschule Dichterviertel
+**Fahrrad AG** mittwochs, 14:00 Uhr-16:00 Uhr mit Björn Habig und unserem FSJler.

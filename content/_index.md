@@ -19,8 +19,10 @@ Bei Trainingsfahrten, Tagestouren, Wochenendfreizeiten und Jugendtreffs steht de
 </p>
 
 <p style="font-size: 1.1em">
-Neben dem Radsport wird im Verein zurzeit Fußball, Breakdance und Tanzen (auch für Erwachsene) angeboten.
-Wir stehen neuen Sportarten immer offen gegenüber und freuen uns über Sportler, die Ihren Sport als Breitensport im Verein anbieten möchten.  
+Neben dem Radsport wird im Verein zurzeit Tanzen (auch für Erwachsene) angeboten. Zusätzlich bietet der Verein unterschiedliche Sport-AGs an Wiesbadener Schulen an, um die sportliche Betätigung von Wiesbadener Schülern zu fördern.
+</p>
+<p style="font-size: 1.1em">
+Wir stehen neuen Sportarten immer offen gegenüber und freuen uns über Sportler, die Ihren Sport als Breitensport im Verein oder als AG anbieten möchten.
 </p>
 <p style="font-size: 1.1em">
 Wir sind aber auch ein Verein, der sich um das Fahrrad an sich und um das Thema Verkehr im Allgemeinen kümmert:

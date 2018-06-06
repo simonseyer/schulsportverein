@@ -32,13 +32,15 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 ## Sternenfahrten
 
-So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Änderungen geben.
-
-[![Übersichts-Karte](korso/stadtkorsoc3bcberblick2.png)](korso/stadtkorsoc3bcberblick2.png)
+[![Sternfahrt 22](korso/Sternkurs22-2018.png)](korso/Sternkurs22-2018.png)
+[![Sternfahrt Zug 1](korso/Zug1-2018.png)](korso/Zug1-2018.png)
+[![Sternfahrt Zug 2](korso/Zug2-2018.png)](korso/Zug2-2018.png)
+[![Sternfahrt Zug 3](korso/Zug3-2018.png)](korso/Zug3-2018.png)
+[![Sternfahrt Zug 5](korso/Zug5-2018.png)](korso/Zug5-2018.png)
 
 ## Geplante Tour durch die Stadt
 
-[![Routen-Karte](korso/strecke_small.jpg)](korso/strecke.jpg)
+[![Routen-Karte](korso/strecke_small.png)](korso/strecke.png)
 
 ## Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
@@ -77,9 +79,8 @@ So lief es 2016 ab, 2018 kann es je nachdem welche Schulen daran teilnehmen, Än
   Es gibt für Einzelfälle Leihfahrräder, bitte setzen Sie sich mit uns in Verbindung, wenn Sie da Hilfe benötigen.
 
 * **Wie und wann werden Helfer und Begleitpersonen auf ihre Aufgaben beim Schülerkorso informiert?**  
-  Lehrkräfte und Helfer\*innen haben 6 Termine zur Auswahl, an denen sie durch das Orga-Team umfassend informiert werden:  
-  Montag, 28.05.2018, Dienstag, 29.05.2018, Mittwoch, 30.05.2018 jeweils 18.00 Uhr bzw. 19.00 Uhr in der IGS Kastellstraße.  
-  Hier können auch alle Fragen geklärt werden, falls es noch Fragen gibt.
+  Lehrkräfte und Helfer\*innen haben folgende Termine zur Auswahl, an denen sie durch das Orga-Team umfassend informiert werden: 
+  06.06.2018 um 19.00 Uhr in der IGS Kastellstraße in der Mensa. Hier können auch alle Fragen geklärt werden, falls es noch Fragen gibt.
 
 
 Bei Fragen haben Sie folgende Möglichkeiten:
