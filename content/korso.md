@@ -32,10 +32,19 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 ## Sternenfahrten
 
+### Sternfahrt 22
 [![Sternfahrt 22](korso/Sternkurs22-2018.png)](korso/Sternkurs22-2018.png)
+
+### Sternfahrt Zug 1
 [![Sternfahrt Zug 1](korso/Zug1-2018.png)](korso/Zug1-2018.png)
+
+### Sternfahrt Zug 2
 [![Sternfahrt Zug 2](korso/Zug2-2018.png)](korso/Zug2-2018.png)
+
+### Sternfahrt Zug 3
 [![Sternfahrt Zug 3](korso/Zug3-2018.png)](korso/Zug3-2018.png)
+
+### Sternfahrt Zug 5
 [![Sternfahrt Zug 5](korso/Zug5-2018.png)](korso/Zug5-2018.png)
 
 ## Geplante Tour durch die Stadt
