@@ -32,10 +32,19 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 ## Sternenfahrten
 
+### Sternfahrt 22
 [![Sternfahrt 22](korso/Sternkurs22-2018.png)](korso/Sternkurs22-2018.png)
+
+### Sternfahrt Zug 1
 [![Sternfahrt Zug 1](korso/Zug1-2018.png)](korso/Zug1-2018.png)
+
+### Sternfahrt Zug 2
 [![Sternfahrt Zug 2](korso/Zug2-2018.png)](korso/Zug2-2018.png)
+
+### Sternfahrt Zug 3
 [![Sternfahrt Zug 3](korso/Zug3-2018.png)](korso/Zug3-2018.png)
+
+### Sternfahrt Zug 5
 [![Sternfahrt Zug 5](korso/Zug5-2018.png)](korso/Zug5-2018.png)
 
 ## Geplante Tour durch die Stadt
@@ -79,8 +88,10 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
   Es gibt für Einzelfälle Leihfahrräder, bitte setzen Sie sich mit uns in Verbindung, wenn Sie da Hilfe benötigen.
 
 * **Wie und wann werden Helfer und Begleitpersonen auf ihre Aufgaben beim Schülerkorso informiert?**  
-  Lehrkräfte und Helfer\*innen haben folgende Termine zur Auswahl, an denen sie durch das Orga-Team umfassend informiert werden: 
-  06.06.2018 um 19.00 Uhr in der IGS Kastellstraße in der Mensa. Hier können auch alle Fragen geklärt werden, falls es noch Fragen gibt.
+  Lehrkräfte und Helfer\*innen können sich an folgenden Terminen durch das Orga-Team umfassend informieren lassen. Hier können auch alle offenen Fragen geklärt werden.
+  * 06.06.2018 um 19 Uhr in der IGS Kastellstraße in der Mensa.  
+  * 12.06.2018 von 19 bis 20 Uhr im Heimathafen.  
+  
 
 
 Bei Fragen haben Sie folgende Möglichkeiten:
