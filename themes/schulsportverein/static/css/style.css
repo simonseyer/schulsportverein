@@ -359,7 +359,7 @@ p {
 
 @media only screen and (max-width : 768px) {
     .inner {
-        width: 85%;
+        width: 90%;
     }
     .inner img {
         width: 100%;
