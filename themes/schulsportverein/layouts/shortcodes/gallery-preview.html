@@ -2,30 +2,6 @@
 {{- $imageURL := .Get "imageURL" -}}
 {{- $title := .Get "title" -}}
 
-<style type="text/css">
-	.gallery-preview {
-		display: table;
-		float: left;
-		box-sizing: border-box;
-		width: calc(50% - 8px);
-		padding: 10px;
-		margin: 4px;
-		box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.5);
-	}
-
-	.gallery-preview h2 {
-		margin-top: 10px;
-		margin-left: 4px;
-	}
-
-	@media only screen and (max-width : 768px) {
-		.gallery-preview {
-			width: 100%;
-    		margin: 4px 0;
-		}
-	}
-</style>
-
 <a href="{{ $URL }}" class="gallery-preview">
 	<div>
 		<img src="{{ $imageURL }}"/>

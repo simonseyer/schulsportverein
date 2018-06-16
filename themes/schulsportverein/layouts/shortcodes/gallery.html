@@ -3,26 +3,6 @@
 {{- $path := .Get "path" -}}
 {{- $files := readDir $path -}}
 
-<style type="text/css">
-	.gallery a {
-		display: table;
-		float: left;
-		box-sizing: border-box;
-		width: calc(50% - 8px);
-		padding: 10px;
-		padding-bottom: 4px;
-		margin: 4px;
-		box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.5);
-	}
-
-	@media only screen and (max-width : 768px) {
-		.gallery a {
-			width: 100%;
-    		margin: 4px 0;
-		}
-	}
-</style>
-
 <div class="gallery clearfix">
 {{- range $files }}
 	{{ if (strings.HasSuffix .Name ".JPG") | or (strings.HasSuffix .Name ".jpg") }}

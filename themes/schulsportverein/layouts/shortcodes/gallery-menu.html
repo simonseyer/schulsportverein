@@ -1,23 +1,7 @@
 {{- $backURL := .Get "backURL" -}}
 {{- $downloadURL := .Get "downloadURL" -}}
 
-<style type="text/css">
-	.menu {
-		margin-bottom: 20px;
-		margin-top: 20px;
-	}
-
-	.menu a {
-		display: inline-block;
-		padding: 5px 10px;
-		margin-right: 10px;
-    	margin-bottom: 10px;
-    	box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.44);
-    	font-weight: 600;
-	}
-</style>
-
-<div class="menu">
+<div class="gallery-menu">
 	<a style="" href="{{ $backURL }}">
 		⬅ Zurück zur Galerie
 	</a>
