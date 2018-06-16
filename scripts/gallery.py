@@ -12,14 +12,14 @@ thread_count = cpu_count()
 gallery_folders = [ name for name in os.listdir(srcdir) if path.isdir(path.join(srcdir, name)) ]
 
 def read_quality(path):
-	quality = subprocess.run(['magick', 'identify', '-ping', '-format', '%Q', path], stdout=subprocess.PIPE)
+	quality = subprocess.run(['identify', '-ping', '-format', '%Q', path], stdout=subprocess.PIPE)
 	try:
 		return int(quality.stdout)
 	except:
 		return 0
 
 def read_width(path):
-	width = subprocess.run(['magick', 'identify', '-ping', '-format', '%w', path], stdout=subprocess.PIPE)
+	width = subprocess.run(['identify', '-ping', '-format', '%w', path], stdout=subprocess.PIPE)
 	try:
 		return int(width.stdout)
 	except:
