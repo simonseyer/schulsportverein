@@ -26,7 +26,7 @@ Datum | Event
 14.06. | Schülerkorso durch die Wiesbadener Innenstadt
 02.07. – 06.07.  | Sommerferienprojekt Fahrrad: Tourenfahren
 04.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim. **[Mehr Informationen](http://w-n-s.de/2018rheingau.html)**
-17.08. – 19.08. | WSV-Freizeit NO-Bike (ohne Bike)
+17.08. – 19.08. | WSV-Freizeit NO-Bike (ohne Bike) **[Ausschreibung (📄 PDF)](termine/No-Bike 2018.pdf)**
 26.08. | Grillfest in der Grillhütte auf der Platte
 Noch offen | Beteiligung am Schulfest der IGS-Kastellstraße
 09.09. | Tour de Taunus 2018 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
