@@ -22,6 +22,12 @@ theme = "schulsportverein"
     url = "https://www.facebook.com/schulsportverein/"
 
 [[menu.secondary]]
+    name = "➡ Bilder auf Instagram"
+    weight = -9
+    identifier = "instagram"
+    url = "https://www.instagram.com/schulsportverein"
+
+[[menu.secondary]]
     name = "Mitgliedsantrag"
     weight = 40
     identifier = "mitgliedsantrag"
