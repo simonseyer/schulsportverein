@@ -45,6 +45,7 @@ for folder in gallery_folders:
 
 	print("\nSyncing {} to {}".format(src_path, target_path))
 	subprocess.run(['rsync', '--recursive', '--delete', '--update', src_path + '/', small_target_path])
+	subprocess.run(['rm', '-rf', large_target_path])
 	subprocess.run(['ln', '-sf', '../../' + src_path, large_target_path])
 	
 	print("\nScaling {} ({} threads)".format(target_path, thread_count))
