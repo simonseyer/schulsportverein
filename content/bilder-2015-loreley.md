@@ -4,7 +4,7 @@ header: header/DSC_0273.JPG
 date: "2018-05-30"
 ---
 
-# Anfängerfreizeit 2015 auf die Loreley
+# Fortgeschrittenen Freizeit 2015 auf die Loreley
 
 {{< gallery-menu backURL="bilder" downloadURL="bilder-2015-loreley/bilder-2015-loreley.zip" >}}
 

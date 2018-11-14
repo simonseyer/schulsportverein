@@ -22,9 +22,9 @@ menu:
 
 	{{< gallery-preview URL="bilder-2015-pfalzfeld" imageURL="bilder-2015-pfalzfeld/small/DSC_0024.JPG" title="No-Bike Freizeit 2015 nach Pfalzfeld" >}}
 
-	{{< gallery-preview URL="bilder-2015-loreley" imageURL="bilder-2015-loreley/small/IMG_20150620_154453.jpg" title="Anfängerfreizeit 2015 auf die Loreley" >}}
+	{{< gallery-preview URL="bilder-2015-loreley" imageURL="bilder-2015-loreley/small/IMG_20150620_154453.jpg" title="Fortgeschrittenen Freizeit 2015 auf die Loreley" >}}
 
-	{{< gallery-preview URL="bilder-2015-kaub" imageURL="bilder-2015-kaub/small/10656388_10200564925561103_1534679148_n.jpg" title="Fortgeschrittenen Freizeit 2015 nach Kaub" >}}
+	{{< gallery-preview URL="bilder-2015-kaub" imageURL="bilder-2015-kaub/small/10656388_10200564925561103_1534679148_n.jpg" title="Anfängerfreizeit 2015 nach Kaub" >}}
 
 	{{< gallery-preview URL="bilder-2014-peterswegrennen" imageURL="bilder-2014-peterswegrennen/small/DSC_0099.JPG" title="Peterswegrennen 2014" >}}
 

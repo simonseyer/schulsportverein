@@ -4,7 +4,7 @@ header: header/DSC_0273.JPG
 date: "2018-05-30"
 ---
 
-# Fortgeschrittenen Freizeit 2015 nach Kaub
+# Anfängerfreizeit 2015 nach Kaub
 
 {{< gallery-menu backURL="bilder" downloadURL="bilder-2015-kaub/bilder-2015-kaub.zip" >}}
 
