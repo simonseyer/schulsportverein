@@ -58,11 +58,19 @@ E-Mail: [aherberger@makrolog.de](mailto:aherberger@makrolog.de)
 
 ## 1. Jugendwart
 
-**Cedrik Wilson**  
+**Cedric Wilson**  
+Am Mühlberg 5  
+65195 Wiesbaden  
+Telefon: [0160 4629880](tel:+491604629880)  
+E-Mail: [cedricwilson22@gmail.com](mailto:cedricwilson22@gmail.com)
 
 ## 2. Jugendwart
 
 **Nico Pfaff**  
+Riederberg 13  
+65195 Wiesbaden  
+Telefon: [0177 4385048](tel:+491774385048)  
+E-Mail: [appelman92@gmail.com](mailto:appelman92@gmail.com)
 
 ## Jugendsprecher
 
