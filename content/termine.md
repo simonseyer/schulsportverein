@@ -7,35 +7,11 @@ menu:
         weight: 40
 ---
 
-# Termine 2018 <span class="small-header">[herunterladen](termine/WSV-Termine2018.pdf)</span>
+# Termine 2019
 
 Datum | Event
 --- | ---
-24.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-17.03. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-26.03. - 29.03. | Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2018.pdf)**
-03.04. - 06.04.  | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-22.04. | Frühlingsradtour 2018 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-28.04. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-04.05. - 06.05. | Freizeit für Fahrrad-Anfänger nach Bingen **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit 2018 Bingen.pdf)**
-20.05.  | Familienradtour
-26.05. | Beteiligung am Schulfest der Helene-Lange-Schule
-27.05. | WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal
-08.06. – 10.06. | MTB-Freizeit für Geübte ins Jammertal **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit 2018 Jammertal.pdf)**
-09.06. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-14.06. | Schülerkorso durch die Wiesbadener Innenstadt
-02.07. – 06.07.  | Sommerferienprojekt Fahrrad: Tourenfahren
-04.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim. **[Mehr Informationen](http://w-n-s.de/2018rheingau.html)**
-17.08. – 19.08. | WSV-Freizeit NO-Bike (ohne Bike) **[Ausschreibung (📄 PDF)](termine/No-Bike 2018.pdf)**
-26.08. | Grillfest in der Grillhütte auf der Platte
-Noch offen | Beteiligung am Schulfest der IGS-Kastellstraße
-09.09. | Tour de Taunus 2018 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-16.09. | Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn
-21. + 22.09. | <span class="tanz">Wiesbaden tanzt, WSV-Angebot Kizomba mit Keiko Godawa in der Mensa der IGS-Kastellstraße</span>
-23.09. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-01.10. – 05.10.  | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-08.10. – 12.10. | MTB-Herbstcamp für Fortgeschrittene mit Johann Kraffert
-10.11. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
+09.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 
 <style type="text/css">
 	thead {
