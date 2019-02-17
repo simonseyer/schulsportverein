@@ -28,7 +28,7 @@ Datum | Event
 24.08. | WSV-Jubiläumsgrillfest im IGS-Klettergarten
 Termin offen | Beteiligung am Schulfest der IGS-Kastellstraße
 08.09. | Tour de Taunus 2019 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-15.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
+08.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
 20.09. – 22.09. | WSV-Freizeit NO-Bike (ohne Bike)
 20. - 21.09. | <span class="tanz">Wiesbaden tanzt, WSV-Angebot Kizomba mit Keiko Godawa in der Mensa der IGS-Kastellstraße</span>
 22.09. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
