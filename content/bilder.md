@@ -7,7 +7,7 @@ menu:
         weight: 41
 ---
 
-# Bilder Gallerie
+# Bilder-Galerie
 
 <div>
 	{{< gallery-preview URL="bilder-2018-bingen" imageURL="bilder-2018-bingen/small/DSC_0273.JPG" title="Anfängerfreizeit 2018 nach Bingen" >}}
