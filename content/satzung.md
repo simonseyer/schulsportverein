@@ -39,11 +39,11 @@ Der Verein ist Mitglied im
 
 ## § 5 Mitgliedschaft
 
-1. Der Verein führt als Mitglieder
-    1.  ordentliche Mitglieder (ab dem 18\. Lebensjahr)
-    2.  Kinder (bis 13 Jahre)
-    3.  Jugendliche (14 - 17 Jahre)
-    4.  Ehrenmitglieder.  
+1. Der Verein führt als Mitglieder  
+    a.  ordentliche Mitglieder (ab dem 18\. Lebensjahr)  
+    b.  Kinder (bis 13 Jahre)  
+    c.  Jugendliche (14 - 17 Jahre)  
+    d.  Ehrenmitglieder.  
   Stimmberechtigt bei Mitgliederversammlungen sind die Mitglieder unter a, b, c und d.
 2. Mitglied des Vereins kann jeder ohne Rücksicht auf Beruf, Rasse und Religion werden.
 3. Der Antrag um Aufnahme in den Verein hat schriftlich zu erfolgen. Jugendliche im Alter unter 18 Jahren können nur mit schriftlicher Zustimmung der gesetzlichen Vertreter aufgenommen werden.   
