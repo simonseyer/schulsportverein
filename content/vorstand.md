@@ -9,7 +9,7 @@ menu:
 
 # Kontaktdaten des erweiterten Vorstandes
 
-## 1 Vorsitzender
+## 1. Vorsitzender
 
 **Matthias Richter (Fachwart Radsport)**  
 Platter Straße 77  
@@ -17,7 +17,7 @@ Platter Straße 77
 Telefon: [0611 2405621](tel:+496112405621) oder [0175 3730753](tel:+491753730753)  
 E-Mail: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)
 
-## 2 Vorsitzender
+## 2. Vorsitzender
 
 **Oliver Gorgels (Fachwart Breitensport)**  
 Platter Straße 73  
