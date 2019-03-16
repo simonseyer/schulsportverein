@@ -13,7 +13,8 @@ del, dfn, em, font, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
+table, caption, tbody, tfoot, thead, tr, th, td, 
+.h1-style, .h2-style {
     margin: 0;
     padding: 0;
     border: 0;
@@ -85,18 +86,18 @@ a:hover, a:active {
     text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, .h1-style, .h2-style {
     color: #000;
     line-height: 1.2em;
     margin-bottom: 0.6em;
     margin-top: 1.2em;
 }
 
-h1 {
+h1, .h1-style {
     font-size: 2em;
 }
 
-h2 {
+h2, .h2-style {
     font-size: 1.5em;
 }
 
@@ -283,26 +284,11 @@ p {
 #footer {
     background: #f5f5f5;
     padding: 20px 0;
-    color: #C0C0C0;
     box-shadow: inset 0px 6px 12px 0px rgba(173,173,173,0.21);
 }
-#footer .social {
-    float: right;
-    margin: 0 0 0.5em 1em;
-    font-size: 200%;
-}
-#footer a { 
-    color: #ddd; 
-    margin: 5px;
-    line-height: 40px;
-}
-#footer a:hover { color: #fff; }
 #partner img {
     max-height: 90px;
     
-}
-.fb-follow {
-    margin-bottom: 20px;
 }
 .slogan {
     font-size: 1.4em;
