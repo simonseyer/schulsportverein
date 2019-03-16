@@ -14,7 +14,7 @@ Datum | Event
 09.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 17.03. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 30.03. | <span class="race">Stadtmeisterschaftsrennen in Wiesbaden-Schierstein Equipe Wiesbaden+WSV</span>
-15.04. - 18.04. | Osterferien MTB-Projekt mit Jörg Pöse
+15.04. - 18.04. | Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2019.pdf)**
 23.04. - 26.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 05.05. | Frühlingsradtour 2019 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 17.05. - 19.05. | Freizeit für Fahrrad-Anfänger nach Darmstadt
