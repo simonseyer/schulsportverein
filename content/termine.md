@@ -17,7 +17,7 @@ Datum | Event
 15.04. - 18.04. | Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2019.pdf)**
 23.04. - 26.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 05.05. | Frühlingsradtour 2019 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-17.05. - 19.05. | Freizeit für Fahrrad-Anfänger nach Darmstadt
+17.05. - 19.05. | Freizeit für Fahrrad-Anfänger nach Darmstadt. **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2018-Darmstadt.pdf)**
 02.06. | Familienradtour
 14.06. – 16.06. | MTB-Freizeit für Geübte nach Kaub
 15.06. | Beteiligung am Schulfest der Helene-Lange-Schule
