@@ -13,6 +13,20 @@ menu:
 
 # Stadtmeisterschaft 2019
 
+<div class="warning">
+
+<h2>Achtung: Korrektur des Reglements</h2>
+
+<p>Das im Flyer abgedruckte Reglement enhält einen Fehler. Die Stadtmeisterschaft 2019 besteht aus drei Rennen, an mindest zwei muss teilgenommen werden.</p>
+
+<p>Der korrigierte Teil des Reglement:</p>
+
+<blockquote>
+	Die <b>15.</b> Offene Stadtmeisterschaft Wiesbaden/Mainz auf dem MTB – "Schüler aufs Bike" besteht aus <b>3 Rennen</b>. Wer am Ende der Rennserie die meisten Punkte erfahren hat, ist Stadtmeister. Vorausetzung dabei ist, dass an mindestens zwei Rennen teilgenommen wurde.
+</blockquote>
+
+</div>
+
 ## 01 MTB-Rennen in Wiesbaden-Schiersten
 
 am **30.03.2019**  

@@ -295,6 +295,12 @@ p {
     line-height: 2.2em;
 }
 
+.warning {
+    border: 7px solid #EED202;
+    padding: 0 20px 20px 20px;
+    border-radius: 4px;
+}
+
 /* Gallery
 /*---------------------------------------------*/
 
