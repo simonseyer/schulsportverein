@@ -27,7 +27,24 @@ menu:
 
 </div>
 
-## 01 MTB-Rennen in Wiesbaden-Schiersten
+## 01 MTB-Rennen in Wiesbaden-Schierstein
+
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2019-Lauf-1.pdf">Ergebnisse (PDF)</a></b>
+</div>
+
+<div class="warning">
+
+<h3>Hinweis zu den Ergebnissen</h3>
+
+<p>
+	Das Rennen in Wiesbaden-Schierstein bestand aus zwei Komponenten. Die Zeit das Geschicklickeitsparcours steht in den Ergebnissen in der Spalte "Zeit". Die Rangfolge beim Massenstart ist in der Spalte "Platz" notiert. 
+</p>
+
+<p>
+	<b>Ausschlaggebend für endgültige Platzierung sind die Gesamtpunkte ("GesamtP")</b>. Sie setzen sich aus beiden Komponenten zusammen.
+</p>
+</div>
 
 am **30.03.2019**  
 ausgerichtet vom **[Equipe Wiesbaden RSV 2011 e.V.](http://www.equipe-wiesbaden.de)**

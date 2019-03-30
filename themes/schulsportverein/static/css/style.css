@@ -297,8 +297,13 @@ p {
 
 .warning {
     border: 7px solid #EED202;
-    padding: 0 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
     border-radius: 4px;
+}
+
+.warning :first-child {
+    padding-top: 0;
+    margin-top: 0;
 }
 
 /* Gallery
