@@ -130,4 +130,4 @@ Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [t.hanke
 
 ## Einverständniserklärung
 
-**[Einverständniserklärung herunterladen (📄 PDF)](stadtmeisterschaft/SM-Einverstaendniserklaerung-ab-2018.pdf)**
+**[Einverständniserklärung herunterladen (📄 PDF)](stadtmeisterschaft/SM-Einverstaendniserklaerung-ab-2019.pdf)**
