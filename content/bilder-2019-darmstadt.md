@@ -4,7 +4,7 @@ header: header/DSC_0153_2.jpg
 date: "2019-05-26"
 ---
 
-# Anfängerfreizeit 2016 nach Darmstadt
+# Anfängerfreizeit 2019 nach Darmstadt
 
 {{< gallery-menu backURL="bilder" downloadURL="bilder-2019-darmstadt/bilder-2019-darmstadt.zip" >}}
 
