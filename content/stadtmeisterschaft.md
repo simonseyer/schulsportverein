@@ -93,6 +93,10 @@ Direkt am Start.
 ### Ansprechpartner
 Matthias Richter, erreichbar unter [0175/3730753](tel:+491753730753) oder [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com).
 
+### Strecke
+
+[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/lageplan-amt_2018.jpg)](stadtmeisterschaft/lageplan-amt_2018.jpg)
+
 ## 03 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
 am **08.09.2019**  
