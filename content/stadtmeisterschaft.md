@@ -27,10 +27,12 @@ menu:
 
 </div>
 
+---
+
 ## 01 MTB-Rennen in Wiesbaden-Schierstein
 
 <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2019-Lauf-1.pdf">Ergebnisse (PDF)</a></b>
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2019-Lauf-1-Korrigiert.pdf">Ergebnisse (PDF)</a></b>
 </div>
 
 <div class="warning">
@@ -38,12 +40,9 @@ menu:
 <h3>Hinweis zu den Ergebnissen</h3>
 
 <p>
-	Das Rennen in Wiesbaden-Schierstein bestand aus zwei Komponenten. Die Zeit das Geschicklickeitsparcours steht in den Ergebnissen in der Spalte "Zeit". Die Rangfolge beim Massenstart ist in der Spalte "Platz" notiert. 
+	In der ersten <b><a href="stadtmeisterschaft/SM-2019-Lauf-1.pdf">Version der Ergebnisse</a></b> wurden die zwei Rennbestandteile einzeln gewertet. Die Punkte wurden nun zusammengefasst, um eine gleichmäßige Wertung aller Rennen zu erreichen.  
 </p>
 
-<p>
-	<b>Ausschlaggebend für endgültige Platzierung sind die Gesamtpunkte ("GesamtP")</b>. Sie setzen sich aus beiden Komponenten zusammen.
-</p>
 </div>
 
 am **30.03.2019**  
@@ -66,7 +65,13 @@ Anmeldung und Nummernausgabe im Schulhof der Erich-Kästner-Schule, Zehntenhof-
 ### Ansprechpartner  
 Sylvain Arena, erreichbar unter [0173/3410075](tel:+401733410075) oder [s.arena@gmx.net](mailto:s.arena@gmx.net).
 
+---
+
 ## 02 MTB-Rennen auf dem Hofgut Adamstal
+
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2019-Lauf-2.pdf">Ergebnisse (PDF)</a></b>
+</div>
 
 am **23.06.2019**  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](http://www.schulsportverein.de)**
@@ -97,6 +102,8 @@ Matthias Richter, erreichbar unter [0175/3730753](tel:+491753730753) oder [schul
 
 [![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/lageplan-amt_2018.jpg)](stadtmeisterschaft/lageplan-amt_2018.jpg)
 
+---
+
 ## 03 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
 am **08.09.2019**  
@@ -125,6 +132,8 @@ Es besteht die Gelegenheit, am Stand von Fahrrad XXL Franz die Räder der Teiln
 
 ### Ansprechpartner
 Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [t.hankeln@mrsv.de](mailto:t.hankeln@mrsv.de).
+
+---
 
 ## Flyer
 
