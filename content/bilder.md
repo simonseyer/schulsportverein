@@ -10,6 +10,8 @@ menu:
 # Bilder-Galerie
 
 <div>
+	{{< gallery-preview URL="bilder-2019-rennen-adamstal" imageURL="bilder-2019-rennen-adamstal/small/DSC_0545.JPG" title="Stadtmeisterschafts-Rennen 2019 im Adamstal" >}}
+
 	{{< gallery-preview URL="bilder-2019-darmstadt" imageURL="bilder-2019-darmstadt/small/DSC_0153_2.jpg" title="Anfängerfreizeit 2019 nach Darmstadt" >}}
 
 	{{< gallery-preview URL="bilder-2018-bingen" imageURL="bilder-2018-bingen/small/DSC_0273.JPG" title="Anfängerfreizeit 2018 nach Bingen" >}}
