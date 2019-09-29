@@ -14,18 +14,23 @@ menu:
 **Anmeldung notwendig:** per Mail oder Telefon
 
 **Montags** 16:00 - 18:00 Uhr  
-**Treffpunkt:** Blücherschule (Eingang Blücherstraße am Fahrradcontainer)  
-**Für wen:** Grundschüler  
-**Trainer:** Jörg Pöse
+**Treffpunkt:** Blücherschule (Eingang Blücherstraße am Fahrradcontainer).  
+**Für wen:** Grundschüler und absolute Anfänger, 6-10 Jahre.  
+**Trainer:** Kevin Menz
+
+**Dienstags** 15:30 - 18:00 Uhr  
+**Treffpunkt:** Vor der Fahrradwerkstatt der Schule IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
+**Für wen:** Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahren und Techniktraining.  
+**Trainer:** Dennis von Hößle
 
 **Freitags** Treffpunkt ab 15:15 Uhr, Abfahrt ca. 15:45 Uhr  
-**Treffpunkt:** An der Fahrradwerkstatt der IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
+**Treffpunkt:** Vor der Fahrradwerkstatt der Schule IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
 **Für wen:** Das Training für die Jüngeren (ab ca. 8 Jahre).  
 **Trainer:** Matthias Richter
 
 **Samstags** Abfahrt 14:15 Uhr, Treffpunkt etwas früher!  
-**Treffpunkt:** Auf dem Schulparkplatz vor dem Altbau der IGS-Kastellstraße, Kastellstraße 11.  
-**Für wen:** Das etwas sportlichere Training (für jung und alt, auch Erwachsene).  
+**Treffpunkt:** Auf dem Parkplatz der Schule IGS-Kastellstraße, Kastellstraße 11.  
+**Für wen:** Das Training für die Älteren, das etwas sportlichere Training (auch für Erwachsene).  
 **Trainer:** Matthias Richter
 
 ## Tanzen mit Henry für Erwachsene
@@ -38,19 +43,15 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und [0611 1370268](tel:+
 
 **Ort:** Der WSV-Vereinskeller am Klettergarten und die IGS-Fahrradwerkstatt.  
 **Treffpunkt:** Ab 18:00 Uhr im WSV-Vereinskeller.  
-**Zeitpunkt:** Jeden Mittwoch von 18:00 Uhr - mindestens 20:00 Uhr.  
+**Zeitpunkt:** Jeden Mittwoch von 18:00 Uhr bis mindestens 20:00 Uhr.  
 **Inhalte:** Gemeinsames Kochen, Dart, Kicker, Fußball in der Turnhalle, Werkstattbenutzung und Weiteres. [Mehr Infos](jugendtreff).  
 
-## AGs an den jeweiligen Schulen
+## Breitensport-AGs an den jeweiligen Schulen
 
 ### IGS Kastellstraße
-**Fußball** für die Jahrgänge 5-7, montags, 12:30 - 14:00 Uhr, Felix Wimmer, Turnhalle.  
-**Yoga + Aerobic** für alle Jahrgänge, montags, 13:15 - 14:00 Uhr, Keiko Godawa, kleiner Raum am Bistro.  
-**Breakdance** für alle Jahrgänge, dienstags, 14:15 - 15:15 Uhr, Nils Fass, Turnhalle.  
-**Tanzen** für Mädchen Jahrgang 5, mittwochs, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
-**Tanzen** für Mädchen aller Jahrgänge, donnerstags, 13:15 - 14:00 Uhr, Keiko Godawa, Aula.  
+**Fußball** für die Jahrgänge 5-7, montags, 12:30 - 14:00 Uhr, Felix Wimmer, Turnhalle  
+
+**Orientierungslauf mit Fitness und Hindernisparcours** für alle Jahrgänge, dienstags, 14.15 - 15:15 Uhr, Simon Hess, Turnhalle der IGS-Kastellstraße _(für Schüler von anderen Schulen bei vorheriger Anmeldung)_  
 
 **Fahrradwerkstatt-Schrauber AG** für alle Jahrgänge, mittwochs, 13:00 - 14:00 Uhr, Olaf Splittgerber, Fahrradwerkstatt
 
-### Mittelstufenschule Dichterviertel
-**Fahrrad AG** mittwochs, 14:00 Uhr-16:00 Uhr mit Björn Habig und unserem FSJler.
