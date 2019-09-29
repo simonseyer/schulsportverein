@@ -106,6 +106,10 @@ Matthias Richter, erreichbar unter [0175/3730753](tel:+491753730753) oder [schul
 
 ## 03 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2019-Lauf-3.pdf">Ergebnisse (PDF)</a></b>
+</div>
+
 am **08.09.2019**  
 ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
 
