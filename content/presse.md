@@ -11,6 +11,8 @@ menu:
 
 [Schüler erobern die Straßen, Wiesbadener Kurier vom 15.06.2018](presse/2018-06-15_Wiesbadener_Kurier_Stadtausgabe_Seite_11.pdf)  
 
+[Fahrrad-Schulkorso durch die Wiesbadener Innenstadt, Wiesbadener Kurier vom 11.06.2018](presse/WSV-Schülerkorso-2018-Presse.pdf)  
+
 [Schulsportverein feiert drei Jubiläen, Wiesbadener Kurier vom 11.11.2014](presse/schulsportverein_jubilaeen.pdf)  
   
 [Lebensretter, Wiesbadener Kurier vom 11.11.2014](presse/schulsportverein-lebensretter.png)  
