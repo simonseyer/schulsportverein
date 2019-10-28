@@ -13,6 +13,12 @@ menu:
 
 # Stadtmeisterschaft 2019
 
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2019-Endergebnis.pdf">Endergebniss (PDF)</a></b>
+</div>
+
+---	
+
 <div class="warning">
 
 <h2>Achtung: Korrektur des Reglements</h2>
