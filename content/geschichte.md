@@ -123,6 +123,8 @@ Seit 2013 bieten wir auch das „Freiwillige Soziale Jahr“ im Verein an. Der �
 
 2017 ging Johann Kraffert in Rente, vielen Dank für deine tolle Arbeit und deinen unermüdlichen Einsatz. Neuer Angestellter des Vereins ist Boris Stichel.
 
+2014 fand das letzte Mal unser MTB-Rennen auf dem Neroberg statt. Dann machten wir zwei Jahre Pause, in denen wir kein Rennen innerhalb der Stadtmeisterschaft veranstalteten und einen neuen Ort gesucht haben. Den haben wir mit dem Hofgut Adamstal gefunden, wo seit 2017 unser neues MTB-Rennen innerhalb der Stadtmeisterschaft stattfindet.
+
 2019 feiert der WSV sein erstes „offizielles“ Jubiläum: 25 Jahre. Die akademische Feier wird wieder als Jahresabschlussfeier am 02.11. stattfinden und in der Mensa der IGS-Kastellstraße durchgeführt.
 
 Der WSV, immer aktiv und immer etwas anders.
