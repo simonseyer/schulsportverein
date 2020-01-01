@@ -10,6 +10,8 @@ menu:
 # Bilder-Galerie
 
 <div>
+	{{< gallery-preview URL="bilder-2019-jubliaeumsfeier" imageURL="bilder-2019-jubliaeumsfeier/small/DSC_0371.JPG" title="Jubliäumsfeier 2019" >}}
+
 	{{< gallery-preview URL="bilder-2019-rennen-adamstal" imageURL="bilder-2019-rennen-adamstal/small/DSC_0545.JPG" title="Stadtmeisterschafts-Rennen 2019 im Adamstal" >}}
 
 	{{< gallery-preview URL="bilder-2019-darmstadt" imageURL="bilder-2019-darmstadt/small/DSC_0153_2.jpg" title="Anfängerfreizeit 2019 nach Darmstadt" >}}
