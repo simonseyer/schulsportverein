@@ -14,6 +14,20 @@ menu:
 
 <hr>
 
+<div style="width: 400px; margin: auto; font-size: 1.1em">
+	<img src="bodo.jpg" alt="Bodo Kuck Gedenk-Kranz"/>
+
+	<p>
+		Am 28.12.2019 ist unser Ehrenmitglied und ehemaliger 1. Vorsitzender Bodo Kuck verstorben. RIP Bodo, wir werden dich vermissen.
+	</p>
+
+	<p>
+		Der 1. Wiesbadener Schulsportverein verdankt dir viel und der Verein wird dir immer dankbar sein und an dich denken.
+	</p>
+</div>
+
+<hr>
+
 <p style="font-size: 1.1em">
 Bei Trainingsfahrten, Tagestouren, Wochenendfreizeiten und Jugendtreffs steht der Spaß im Vordergrund. Ganz wird der sportliche Geist aber nicht vernachlässigt, denn durch regelmäßiges Training soll eine Steigerung der Kondition erfolgen. In unserer eigenen Fahrradwerkstatt können die Fahrräder gewartet und repariert werden.  
 </p>
