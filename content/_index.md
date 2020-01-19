@@ -14,7 +14,7 @@ menu:
 
 <hr>
 
-<div style="width: 400px; margin: auto; font-size: 1.1em">
+<div style="max-width: 400px; margin: auto; font-size: 1.1em">
 	<img src="bodo.jpg" alt="Bodo Kuck Gedenk-Kranz"/>
 
 	<p>
