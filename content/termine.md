@@ -14,7 +14,7 @@ Datum | Event
 15.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 15.03. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 06.04. - 09.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-14.04. - 17.04. | Osterferien MTB-Projekt mit Jörg Pöse
+14.04. - 17.04. | Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2020.pdf)**
 25.04. | <span class="race">Stadtmeisterschaftsrennen in Wiesbaden-Erbenheim Equipe Wiesbaden+WSV</span>
 03.05. | Frühlingsradtour 2020 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 15.05. - 17.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt
