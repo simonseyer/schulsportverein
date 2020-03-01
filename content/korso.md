@@ -33,23 +33,49 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 ## Sternenfahrten
 
 ### Sternfahrt 22
-[![Sternfahrt 22](korso/Sternkurs22-2018.png)](korso/Sternkurs22-2018.png)
+
+* IGS Kastellstraße
+
+[![Sternfahrt 22](korso/Sternkurs22-2020.png)](korso/Sternkurs22-2020.png)
 
 ### Sternfahrt Zug 1
-[![Sternfahrt Zug 1](korso/Zug1-2018.png)](korso/Zug1-2018.png)
+
+* Joseph-von-Eichendorff-Schule
+* IGS Alexej von Jawlensky Schule
+* Gerhart-Hauptmann-Schule
+* Elly-Heuss-Schule
+
+[![Sternfahrt Zug 1](korso/Zug1-2020.png)](korso/Zug1-2020.png)
 
 ### Sternfahrt Zug 2
-[![Sternfahrt Zug 2](korso/Zug2-2018.png)](korso/Zug2-2018.png)
+
+* Campus Klarenthal
+
+[![Sternfahrt Zug 2](korso/Zug2-2020.png)](korso/Zug2-2020.png)
 
 ### Sternfahrt Zug 3
-[![Sternfahrt Zug 3](korso/Zug3-2018.png)](korso/Zug3-2018.png)
+
+* Gutenberschule Wiesbaden
+* Mittelstufenschule Dichterviertel
+* Werner-von-Siemens-Schule
+
+[![Sternfahrt Zug 3](korso/Zug3-2020.png)](korso/Zug3-2020.png)
 
 ### Sternfahrt Zug 5
-[![Sternfahrt Zug 5](korso/Zug5-2018.png)](korso/Zug5-2018.png)
+
+* Kellerskopfschule-Realschule
+
+[![Sternfahrt Zug 5](korso/Zug5-2020.png)](korso/Zug5-2020.png)
 
 ## Geplante Tour durch die Stadt
 
-[![Routen-Karte](korso/strecke_small.png)](korso/strecke.png)
+[![Routen-Karte](korso/strecke.png)](korso/strecke.png)
+
+## Interaktive Karte
+
+*Vergrößern-Button rechts oben drücken, um die verschiedenen Routen zu sehen.*
+
+<iframe src="https://www.google.com/maps/d/embed?mid=19U47LB2tnBUA6cbrA3ZuZ5y-YuPHYmmS" width="640" height="480"></iframe>
 
 ## Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
