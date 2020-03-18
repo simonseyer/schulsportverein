@@ -306,6 +306,19 @@ p {
     margin-top: 0;
 }
 
+.cancelwarning {
+    border-color: #e80000;
+}
+
+.cancelwarning p {
+    font-weight: bold;
+}
+
+.canceled {
+    font-weight: bold;
+    color: #e80000;
+}
+
 /* Gallery
 /*---------------------------------------------*/
 

@@ -14,16 +14,22 @@ menu:
 
 <hr>
 
-<div style="max-width: 400px; margin: auto; font-size: 1.1em">
-	<img src="bodo.jpg" alt="Bodo Kuck Gedenk-Kranz"/>
+<div class="warning cancelwarning">
 
-	<p>
-		Am 28.12.2019 ist unser Ehrenmitglied und ehemaliger 1. Vorsitzender Bodo Kuck verstorben. RIP Bodo, wir werden dich vermissen.
-	</p>
+<h1>Auswirkungen der Corona-Krise</h1>
 
-	<p>
-		Der 1. Wiesbadener Schulsportverein verdankt dir viel und der Verein wird dir immer dankbar sein und an dich denken.
-	</p>
+<p>
+	Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen bis zu den Osterferien aus, ab dem 20.04. geht es vorraussichtlich weiter.
+</p>
+
+<p>
+	Das erste Rennen der Stadtmeisterschaft am 25.04. fällt aus.
+</p>
+
+<p>
+	Das Montags- (Blücherschule), Dienstags- (Downhill) und Freitags-Training fallen zumindest bis zum 29.03. aus.
+</p>
+
 </div>
 
 <hr>

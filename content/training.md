@@ -9,6 +9,16 @@ menu:
 
 # Trainingszeiten
 
+<div class="warning cancelwarning">
+
+<h1>Abgesagt bis 29.03.</h1>
+
+<p>
+	Das Montags- (Blücherschule), Dienstags- (Downhill) und Freitags-Training fallen aufgrund von Corona-Prävention zumindest bis zum 29.03. aus.
+</p>
+
+</div>
+
 ## Trainingszeiten Radsport auf dem MTB
 
 **Anmeldung notwendig:** per Mail oder Telefon

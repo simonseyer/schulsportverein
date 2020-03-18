@@ -9,6 +9,16 @@ menu:
 
 # Jugendtreff
 
+<div class="warning cancelwarning">
+
+<h1>Abgesagt bis 20.04.</h1>
+
+<p>
+	Der Jugendtreff fällt aufgrund von Corona-Prävention bis zu den Osterferien aus, ab dem 20.04. geht es vorraussichtlich weiter.
+</p>
+
+</div>
+
 Jeden Mittwoch (außerhalb der Ferien) ab 18 Uhr wird sich im Vereinskeller des Schulsportvereins getroffen. Es wird
 
 * Dart, Kicker und Billiard gespielt
