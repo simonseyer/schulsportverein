@@ -11,10 +11,10 @@ menu:
 
 <div class="warning cancelwarning">
 
-<h1>Abgesagt bis 29.03.</h1>
+<h1>Abgesagt bis 19.04.</h1>
 
 <p>
-	Das Montags- (Blücherschule), Dienstags- (Downhill) und Freitags-Training fallen aufgrund von Corona-Prävention zumindest bis zum 29.03. aus.
+	Alle Trainingszeiten fallen aufgrund von Corona-Prävention bis einschließlich 19.04. aus.
 </p>
 
 </div>

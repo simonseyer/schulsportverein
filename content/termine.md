@@ -12,10 +12,10 @@ menu:
 Datum | Event
 --- | ---
 15.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-15.03. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-06.04. - 09.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-14.04. - 17.04. | Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2020.pdf)**
-25.04. | <span class="race"><strike>Stadtmeisterschaftsrennen in Wiesbaden-Erbenheim Equipe Wiesbaden+WSV</strike></span> <span class="canceled">abgesagt</span>
+15.03. | <span class="tanz"><strike>Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
+06.04. - 09.04. | <strike>Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
+14.04. - 17.04. | <strike>Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2020.pdf)**</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
+25.04. | <span class="race"><strike>Stadtmeisterschaftsrennen in Wiesbaden-Erbenheim Equipe Wiesbaden+WSV</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
 03.05. | Frühlingsradtour 2020 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 15.05. - 17.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt
 31.05. | Familienradtour

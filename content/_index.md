@@ -19,7 +19,7 @@ menu:
 <h1>Auswirkungen der Corona-Krise</h1>
 
 <p>
-	Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen bis zu den Osterferien aus, ab dem 20.04. geht es vorraussichtlich weiter.
+	Die Tanzlaune Termine, also Henrys Tanzkurse, der Jugendtreff und alle Trainingszeiten fallen bis einschließlich 19.04. aus.
 </p>
 
 <p>
@@ -27,7 +27,7 @@ menu:
 </p>
 
 <p>
-	Das Montags- (Blücherschule), Dienstags- (Downhill) und Freitags-Training fallen zumindest bis zum 29.03. aus.
+	Die Jahreshauptversammlung am 24.03. fällt aus und wird zu einem späteren Zeitpunkt nachgeholt.
 </p>
 
 </div>
