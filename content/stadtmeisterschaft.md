@@ -51,7 +51,7 @@ MTB-Rennen im Wald.
 
 ## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
-am **06.09.2020**  
+am **06.09.2020** *(Achtung: Datum im gedruckten Flyer inkorrekt)*  
 ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
 
 **Veranstaltungsort:**  55127 Mainz-Marienborn, Erich-Dom- browski-Straße 2, vor dem Verlagsgebäude der Rhein-Main- Presse (VRM). Parkplätze sind in ausreichender Anzahl vorhanden.  
@@ -85,6 +85,8 @@ Mountainbike-Rennen auf einem ca. 2 km Rundkurs auf unbefestigten Feld- und Wies
 ---
 
 ## Flyer
+
+**Achtung:** Im gedruckten Flyer ist das Datum des zweiten Rennens inkorrekt. Es findet am 06.09.2020 statt.
 
 [![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
 
