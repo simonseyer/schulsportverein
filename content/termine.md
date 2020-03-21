@@ -26,7 +26,6 @@ Datum | Event
 20.07. – 24.07. | Sommerferienprojekt Trendsportarten
 15.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
 29.08. | WSV-Grillfest im IGS-Klettergarten
-Termin offen | Beteiligung am Schulfest der IGS-Kastellstraße
 06.09. | Tour de Taunus 2020 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 06.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
 12.09. | Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe
