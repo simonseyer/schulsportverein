@@ -1,5 +1,5 @@
 dev:
-	hugo server --watch --buildDrafts
+	hugo server --watch --buildDrafts --config config.toml,development.toml
 
 deploy:
 	hugo
