@@ -4,7 +4,7 @@ import textract
 import re
 
 first_letter = ''
-pattern0 = re.compile(r'(Frühjahr|Herbst|Frühsommer)?(\s\d\d)?\s?\d\d\d\d')
+pattern0 = re.compile(r'(Frühjahr|Herbst|Frühsommer|November)?(\s\d\d)?\s?\d\d\d\d')
 pattern1 = re.compile(r'Straßennamen:[\n\s]*([^\n:]+)$', re.MULTILINE)
 pattern2 = re.compile(r'Stand:?[\n\s]*([^\n]+)', re.MULTILINE)
 pattern3 = re.compile(r'_(\d+).pdf')
