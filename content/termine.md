@@ -17,7 +17,7 @@ Datum | Event
 14.04. - 17.04. | <strike>Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2020.pdf)**</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
 25.04. | <span class="race"><strike>Stadtmeisterschaftsrennen in Wiesbaden-Erbenheim Equipe Wiesbaden+WSV</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
 03.05. | Frühlingsradtour 2020 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-15.05. - 17.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt
+15.05. - 17.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt. **[Vorläufige Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2020-Frankfurt.pdf) (unter Vorbehalt)**
 31.05. | Familienradtour
 07.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 20.06. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
