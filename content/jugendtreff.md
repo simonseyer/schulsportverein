@@ -11,10 +11,10 @@ menu:
 
 <div class="warning cancelwarning">
 
-<h1>Abgesagt bis 19.04.</h1>
+<h1>Auswirkungen der Corona-Krise</h1>
 
 <p>
-	Der Jugendtreff fällt aufgrund von Corona-Prävention bis zu den Osterferien aus, ab dem 20.04. geht es vorraussichtlich weiter.
+	Der Jugendtreff fällt aufgrund von Corona-Prävention bis einschließlich 03.05. aus.
 </p>
 
 </div>

@@ -11,10 +11,10 @@ menu:
 
 <div class="warning cancelwarning">
 
-<h1>Abgesagt bis 19.04.</h1>
+<h1>Auswirkungen der Corona-Krise</h1>
 
 <p>
-	Alle Trainingszeiten fallen aufgrund von Corona-Prävention bis einschließlich 19.04. aus.
+	Alle Trainingszeiten fallen aufgrund von Corona-Prävention bis einschließlich 03.05. aus.
 </p>
 
 </div>

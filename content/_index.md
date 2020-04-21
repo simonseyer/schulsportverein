@@ -19,7 +19,7 @@ menu:
 <h1>Auswirkungen der Corona-Krise</h1>
 
 <p>
-	Die Tanzlaune Termine, also Henrys Tanzkurse, der Jugendtreff und alle Trainingszeiten fallen bis einschließlich 19.04. aus.
+	Die Tanzlaune Termine, also Henrys Tanzkurse, der Jugendtreff und alle Trainingszeiten fallen bis einschließlich 03.05. aus.
 </p>
 
 <p>
@@ -28,6 +28,14 @@ menu:
 
 <p>
 	Die Jahreshauptversammlung am 24.03. fällt aus und wird zu einem späteren Zeitpunkt nachgeholt.
+</p>
+
+<p>
+	Die Freizeit für Fahrrad-Anfänger nach Frankfurt (15.05. - 17.05.) wird verschoben. Ein neuer Termin wird gesucht.
+</p>
+
+<p>
+	Die Frühlingsradtour 2020 (die traditionelle Dieztour) am 03.05. fällt aus.
 </p>
 
 </div>

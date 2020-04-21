@@ -8,6 +8,17 @@ menu:
 ---
 
 # Schülerkorso – Aktionstag Wiesbadener Schüler bewegen was
+
+<div class="warning cancelwarning">
+
+<h1>Auswirkungen der Corona-Krise</h1>
+
+<p>
+  Der Schülerkorso kann aufgrund von Corona-Prävention am 25. Juni 2020 nicht wie geplant stattfinden. Ein neuer Termin wird gesucht.
+</p>
+
+</div>
+
 Am Donnerstag 25. Juni 2020 ist es soweit. In unserer Landeshauptstadt wird sich der 3. Wiesbadener Schülerkorso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und des Stadtschulelternbeirats. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
 
 Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Die Dezernenten Alexander Imholz und Andreas Kowol eröffnen die Veranstaltung und geben als Schirmherren das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
