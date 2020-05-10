@@ -11,11 +11,9 @@ menu:
 
 <div class="warning cancelwarning">
 
-<h1>Auswirkungen der Corona-Krise</h1>
+# Auswirkungen der Corona-Krise
 
-<p>
-	Der Jugendtreff fällt aufgrund von Corona-Prävention bis einschließlich 03.05. aus.
-</p>
+Der Jugendtreff fällt aufgrund von Corona-Prävention weiterhin aus.
 
 </div>
 

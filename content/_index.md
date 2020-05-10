@@ -16,27 +16,20 @@ menu:
 
 <div class="warning cancelwarning">
 
-<h1>Auswirkungen der Corona-Krise</h1>
+![Corona Maskotchen](corona.jpg)
+<sub>Bild von Marianne Sengebusch</sub>
 
-<p>
-	Die Tanzlaune Termine, also Henrys Tanzkurse, der Jugendtreff und alle Trainingszeiten fallen bis einschließlich 03.05. aus.
-</p>
+# Auswirkungen der Corona-Krise
 
-<p>
-	Das erste Rennen der Stadtmeisterschaft am 25.04. fällt aus.
-</p>
+Das Freitags- und Samstagstraining finden wieder statt. Bitte [Hinweise](training) beachten!
 
-<p>
-	Die Jahreshauptversammlung am 24.03. fällt aus und wird zu einem späteren Zeitpunkt nachgeholt.
-</p>
+Das Downhilltraining startet wieder am Dienstag den 19.05..
 
-<p>
-	Die Freizeit für Fahrrad-Anfänger nach Frankfurt (15.05. - 17.05.) wird verschoben. Ein neuer Termin wird gesucht.
-</p>
+Die Tanzlaune Termine, also Henrys Tanzkurse, das Montagstraining und der Jugendtreff fallen weiterhin aus.
 
-<p>
-	Die Frühlingsradtour 2020 (die traditionelle Dieztour) am 03.05. fällt aus.
-</p>
+Die Jahreshauptversammlung wird zu einem späteren Zeitpunkt nachgeholt.
+
+Die Freizeit für Fahrrad-Anfänger nach Frankfurt (15.05. - 17.05.) wird verschoben. Ein neuer Termin wird gesucht.
 
 </div>
 

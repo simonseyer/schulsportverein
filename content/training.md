@@ -11,11 +11,16 @@ menu:
 
 <div class="warning cancelwarning">
 
-<h1>Auswirkungen der Corona-Krise</h1>
+# Auswirkungen der Corona-Krise
 
-<p>
-	Alle Trainingszeiten fallen aufgrund von Corona-Prävention bis einschließlich 03.05. aus.
-</p>
+Das Freitags- und Samstagstraining finden wieder mit folgenden Einschränkungen statt:
+1. Zwingend vorab unter [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com) zu den Trainings anmelden
+2. Beim Treffpunkt auf Abstand achten
+3. Kein Schlechtwetterprogramm
+
+Das Downhilltraining startet wieder am Dienstag den 19.05..
+
+Die Tanzlaune Termine, also Henrys Tanzkurse, das Montagstraining und der Jugendtreff fallen weiterhin aus.
 
 </div>
 
@@ -40,7 +45,7 @@ menu:
 
 **Samstags** Abfahrt 14:15 Uhr, Treffpunkt etwas früher!  
 **Treffpunkt:** Auf dem Parkplatz der Schule IGS-Kastellstraße, Kastellstraße 11.  
-**Für wen:** Das Training für die Älteren, das etwas sportlichere Training (auch für Erwachsene).  
+**Für wen:** Das Training für die Älteren, das etwas sportlichere Training (auch für Erwachsene).  
 **Trainer:** Matthias Richter
 
 ## Tanzen mit Henry für Erwachsene
