@@ -3,7 +3,7 @@ build:
   steps:
     - bundle-install
     - arjen/hugo-build@2.1.0:
-        version: "0.41"
+        version: "0.69"
         flags: --baseURL $BASE_URL
     - script:
         name: resize-images
