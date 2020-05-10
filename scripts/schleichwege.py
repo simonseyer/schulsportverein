@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from pathlib import Path
 import textract
@@ -40,7 +42,7 @@ with open(target, 'w') as markdown_file:
 		# Print header
 		if basename[0] != first_letter:
 			first_letter = basename[0]
-			print(f'\n<a name="{first_letter.lower()}"></a>  \n### {first_letter}', file=markdown_file)	
+			print(f'\n### {first_letter}', file=markdown_file)	
 
 		count_match = pattern3.search(filename)
 		if count_match != None and count_match.group(1) not in name:
