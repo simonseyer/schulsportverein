@@ -3,6 +3,11 @@ baseurl = "https://schulsportverein.de/"
 title = "1. Wiesbadener Schulsportverein 1994 e.V."
 theme = "schulsportverein"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 	cdn = true
     partner = true
