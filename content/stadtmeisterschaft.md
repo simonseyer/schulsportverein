@@ -17,7 +17,7 @@ menu:
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
-am **07.06.2020**  
+am <strike>**07.06.2020**</strike> <span class="canceled">23.08.2020</span>  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](http://www.schulsportverein.de)**
 
 **Veranstaltungsort:** Hofgut Adamstal, Adamstal 1, 65195 Wiesbaden  

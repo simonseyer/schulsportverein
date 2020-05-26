@@ -13,14 +13,12 @@ menu:
 
 # Auswirkungen der Corona-Krise
 
-Das Freitags- und Samstagstraining finden wieder mit folgenden Einschränkungen statt:
+Alle Trainings finden wieder mit folgenden Einschränkungen statt:
 1. Zwingend vorab unter [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com) zu den Trainings anmelden
 2. Beim Treffpunkt auf Abstand achten
 3. Kein Schlechtwetterprogramm
 
-Das Downhilltraining startet wieder am Dienstag den 19.05..
-
-Die Tanzlaune Termine, also Henrys Tanzkurse, das Montagstraining und der Jugendtreff fallen weiterhin aus.
+Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus.
 
 </div>
 

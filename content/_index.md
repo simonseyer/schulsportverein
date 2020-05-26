@@ -21,15 +21,13 @@ menu:
 
 # Auswirkungen der Corona-Krise
 
-Das Freitags- und Samstagstraining finden wieder statt. Bitte [Hinweise](training) beachten!
+Alle Fahrrad-Trainings finden wieder statt. Bitte [Hinweise](training) beachten!
 
-Das Downhilltraining startet wieder am Dienstag den 19.05..
-
-Die Tanzlaune Termine, also Henrys Tanzkurse, das Montagstraining und der Jugendtreff fallen weiterhin aus.
+Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus.
 
 Die Jahreshauptversammlung wird zu einem späteren Zeitpunkt nachgeholt.
 
-Die Freizeit für Fahrrad-Anfänger nach Frankfurt (15.05. - 17.05.) wird verschoben. Ein neuer Termin wird gesucht.
+Eine Reihe von Terminen und Freizeiten mussten verschoben oder abgesagt werden. Siehe [Termine](termine).
 
 </div>
 
