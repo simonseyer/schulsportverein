@@ -17,8 +17,8 @@ Datum | Event
 14.04. - 17.04. | <strike>Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2020.pdf)**</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
 25.04. | <span class="race"><strike>Stadtmeisterschaftsrennen in Wiesbaden-Erbenheim Equipe Wiesbaden+WSV</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
 03.05. | <strike>Frühlingsradtour 2020 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
-<span class="canceled">19. - 21.06.</span> | Freizeit für Fahrrad-Anfänger nach Frankfurt. **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2020-Frankfurt.pdf)**
-<span class="canceled">14.06.</span> | Familienradtour
+<span class="canceled">20.06.</span> | <strike>Freizeit</strike> Tagestour für Fahrrad-Anfänger nach Frankfurt (bei ausreichendem Interesse). **Anmeldung per [E-Mail](mailto:schulsportverein@hotmail.com)**.
+<span class="canceled">14.06.</span> | Familienradtour, Treffpunkt um 10:30 Uhr am Biebrich Schlosspark - Ecke Am Parkfeld/Rheingaustraße bei den Parkplätzen. **Anmeldung per [E-Mail](mailto:schulsportverein@hotmail.com)**.
 <span class="canceled">23.08.</span> | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 20.06. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 25.06. | <strike>Schülerkorso durch die Wiesbadener Innenstadt</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
