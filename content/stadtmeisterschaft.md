@@ -86,8 +86,6 @@ Mountainbike-Rennen auf einem ca. 2 km Rundkurs auf unbefestigten Feld- und Wies
 
 ## Flyer
 
-**Achtung:** Im gedruckten Flyer ist das Datum des zweiten Rennens inkorrekt. Es findet am 06.09.2020 statt.
-
 [![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
 
 *Vorschaubild anklicken zum Herunterladen*
