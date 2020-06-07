@@ -20,7 +20,7 @@ Datum | Event
 <span class="canceled">20.06.</span> | <strike>Freizeit</strike> Tagestour für Fahrrad-Anfänger nach Frankfurt (bei ausreichendem Interesse). **Anmeldung per [E-Mail](mailto:schulsportverein@hotmail.com)**.
 <span class="canceled">14.06.</span> | Familienradtour, Treffpunkt um 10:30 Uhr am Biebrich Schlosspark - Ecke Am Parkfeld/Rheingaustraße bei den Parkplätzen. **Anmeldung per [E-Mail](mailto:schulsportverein@hotmail.com)**.
 <span class="canceled">23.08.</span> | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
-20.06. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
+20.06. | <span class="tanz"><strike>Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
 25.06. | <strike>Schülerkorso durch die Wiesbadener Innenstadt</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
 26.06. – 28.06. | MTB-Freizeit für Geübte nach Oberwesel. **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2020-Oberwesel.pdf)**
 20.07. – 24.07. | Sommerferienprojekt Trendsportarten
