@@ -1,5 +1,5 @@
 ---
-title: Der Verein
+title: Verein
 header: header/two.jpg
 date: "2016-12-10"
 menu: 
