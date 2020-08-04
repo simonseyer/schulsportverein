@@ -20,7 +20,8 @@ menu:
 am <strike>**07.06.2020**</strike> <span class="canceled">23.08.2020</span>  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](http://www.schulsportverein.de)**
 
-**Veranstaltungsort:** Hofgut Adamstal, Adamstal 1, 65195 Wiesbaden  
+### Veranstaltungsort
+Hofgut Adamstal, Adamstal 1, 65195 Wiesbaden  
 
 ### Start
 
@@ -31,10 +32,15 @@ ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](http://www.schulsp
 * U15: ca. 14:45 Uhr
 * U17: ca. 15:10 Uhr (bei wenigen Teilnehmern Start mit U15)  
 
-**Startgebühr:** 5,00 €  
+### Startgebühr
+5,00 € (am Start zu entrichten, wenn möglich passend)  
 
 ### Anmeldung
-Direkt am Start.  
+
+⚠️ Online Anmeldung zur Teilnahme nötig ⚠️  
+Bitte pro Teilnehmer das folgende Formular ausfüllen: **[Zum Anmelde-Formular](https://forms.gle/9p7SHvkysXUiAt21A)**.
+
+Startnummern werden vor Ort ausgegeben:   
 
 * U7, U9, U11 und U13: Von 13:00 Uhr bis 13:30 Uhr
 * U15 und U17: Bis 14:30 Uhr
