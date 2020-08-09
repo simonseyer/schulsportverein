@@ -23,11 +23,12 @@ menu:
 
 Alle Fahrrad-Trainings finden wieder statt. Bitte [Hinweise](training) beachten!
 
-Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus.
-
-Die Jahreshauptversammlung wird zu einem späteren Zeitpunkt nachgeholt.
+Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus. Siehe [tanzlaune.de](http://tanzlaune.de/).
 
 Eine Reihe von Terminen und Freizeiten mussten verschoben oder abgesagt werden. Siehe [Termine](termine).
+
+Nur eines der drei Stadtmeisterschafts-Rennen kann stattfinden (Online-Anmeldung verpflichtend). 
+Siehe [Stadtmeisterschaft](stadtmeisterschaft).
 
 </div>
 

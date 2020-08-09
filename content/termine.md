@@ -12,23 +12,23 @@ menu:
 Datum | Event
 --- | ---
 15.02. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
-15.03. | <span class="tanz"><strike>Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
-06.04. - 09.04. | <strike>Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
-14.04. - 17.04. | <strike>Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2020.pdf)**</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
-25.04. | <span class="race"><strike>Stadtmeisterschaftsrennen in Wiesbaden-Erbenheim Equipe Wiesbaden+WSV</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
-03.05. | <strike>Frühlingsradtour 2020 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
+15.03. | <span class="tanz"><strike>Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</strike></span> <span class="canceled">abgesagt</span>
+06.04. - 09.04. | <strike>Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung</strike> <span class="canceled">abgesagt</span>
+14.04. - 17.04. | <strike>Osterferien MTB-Projekt mit Jörg Pöse. **[Ausschreibung (📄 PDF)](termine/Osterferien-WSV-2020.pdf)**</strike> <span class="canceled">abgesagt</span>
+25.04. | <span class="race"><strike>Stadtmeisterschaftsrennen in Wiesbaden-Erbenheim Equipe Wiesbaden+WSV</strike></span> <span class="canceled">abgesagt</span>
+03.05. | <strike>Frühlingsradtour 2020 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!</strike> <span class="canceled">abgesagt</span>
 <span class="canceled">20.06.</span> | <strike>Freizeit</strike> Tagestour für Fahrrad-Anfänger nach Frankfurt (bei ausreichendem Interesse). **Anmeldung per [E-Mail](mailto:schulsportverein@hotmail.com)**.
 <span class="canceled">14.06.</span> | Familienradtour, Treffpunkt um 10:30 Uhr am Biebrich Schlosspark - Ecke Am Parkfeld/Rheingaustraße bei den Parkplätzen. **Anmeldung per [E-Mail](mailto:schulsportverein@hotmail.com)**.
 <span class="canceled">23.08.</span> | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
-20.06. | <span class="tanz"><strike>Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</strike></span> <span class="canceled">abgesagt wegen Corona-Krise</span>
-25.06. | <strike>Schülerkorso durch die Wiesbadener Innenstadt</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
+20.06. | <span class="tanz"><strike>Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</strike></span> <span class="canceled">abgesagt</span>
+25.06. | <strike>Schülerkorso durch die Wiesbadener Innenstadt</strike> <span class="canceled">abgesagt</span>
 26.06. – 28.06. | MTB-Freizeit für Geübte nach Oberwesel. **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2020-Oberwesel.pdf)**
 20.07. – 24.07. | Sommerferienprojekt Trendsportarten
-15.08. | <strike>Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
+15.08. | <strike>Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim</strike> <span class="canceled">abgesagt</span>
 29.08. | WSV-Grillfest im IGS-Klettergarten
 06.09. | Tour de Taunus 2020 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-06.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
-12.09. | <strike>Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe</strike> <span class="canceled">abgesagt wegen Corona-Krise</span>
+06.09. | <strike><span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span></strike> <span class="canceled">abgesagt</span>
+12.09. | <strike>Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe</strike> <span class="canceled">abgesagt</span>
 18. - 19.09. | <span class="tanz">Wiesbaden tanzt, WSV-Angebot Kizomba mit Keiko Godawa in der Mensa der IGS-Kastellstraße</span>
 27.09. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 05.10. – 09.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
