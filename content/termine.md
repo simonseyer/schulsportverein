@@ -25,7 +25,7 @@ Datum | Event
 26.06. – 28.06. | MTB-Freizeit für Geübte nach Oberwesel. **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2020-Oberwesel.pdf)**
 20.07. – 24.07. | Sommerferienprojekt Trendsportarten
 15.08. | <strike>Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim</strike> <span class="canceled">abgesagt</span>
-29.08. | WSV-Grillfest im IGS-Klettergarten
+29.08. | <strike>WSV-Grillfest im IGS-Klettergarten</strike> <span class="canceled">abgesagt</span>
 06.09. | Tour de Taunus 2020 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 06.09. | <strike><span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span></strike> <span class="canceled">abgesagt</span>
 12.09. | <strike>Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe</strike> <span class="canceled">abgesagt</span>
