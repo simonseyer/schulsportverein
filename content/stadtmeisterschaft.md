@@ -66,7 +66,3 @@ MTB-Rennen im Wald.
 [![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
 
 *Vorschaubild anklicken zum Herunterladen*
-
-## Einverständniserklärung
-
-**[Einverständniserklärung herunterladen (📄 PDF)](stadtmeisterschaft/SM-Einverstaendniserklaerung-ab-2019.pdf)**
