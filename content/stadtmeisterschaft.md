@@ -11,7 +11,11 @@ menu:
 
 # Stadtmeisterschaft 2020
 
-## <strike>Rennen in Wiesbaden-Erbenheim</strike>
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2020-Ergebnisse.pdf">Ergebnisse 1. Lauf & Endergebnis (PDF)</a></b>
+</div>
+
+## 00 Rennen in Wiesbaden-Erbenheim
 
 <span class="canceled">Abgesagt aufgrund der Corona-Krise.</span>
 
@@ -55,7 +59,7 @@ MTB-Rennen im Wald.
 [![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/lageplan-amt_2018.jpg)](stadtmeisterschaft/lageplan-amt_2018.jpg)
 
 
-## <strike>02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz</strike>
+## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
 <span class="canceled">Abgesagt aufgrund der Corona-Krise.</span>
 
