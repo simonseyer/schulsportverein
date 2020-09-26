@@ -10,6 +10,8 @@ menu:
 # Bilder-Galerie
 
 <div>
+{{< gallery-preview URL="bilder-2020-rennen-adamstal" imageURL="bilder-2020-rennen-adamstal/small/DSC_1459.JPG" title="Stadtmeisterschafts-Rennen 2020 im Adamstal" >}}
+
 {{< gallery-preview URL="bilder-2019-jubilaeumsfeier" imageURL="bilder-2019-jubilaeumsfeier/small/DSC_0371.JPG" title="Jubliäumsfeier 2019" >}}
 
 {{< gallery-preview URL="bilder-2019-rennen-adamstal" imageURL="bilder-2019-rennen-adamstal/small/DSC_0545.JPG" title="Stadtmeisterschafts-Rennen 2019 im Adamstal" >}}
