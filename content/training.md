@@ -13,10 +13,8 @@ menu:
 
 # Auswirkungen der Corona-Krise
 
-Alle Trainings finden wieder mit folgenden Einschränkungen statt:
-1. Zwingend vorab unter [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com) zu den Trainings anmelden
-2. Beim Treffpunkt auf Abstand achten
-3. Kein Schlechtwetterprogramm
+Alle Trainings fallen aktuell aufgrund von Corona-Prävention aus und gehen in die Winterpause.
+Das Samstagstraining findet je nach Corona-Lage noch mal an zwei Terminen im Dezember statt.
 
 Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus.
 

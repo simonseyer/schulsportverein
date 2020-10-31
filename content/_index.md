@@ -21,14 +21,9 @@ menu:
 
 # Auswirkungen der Corona-Krise
 
-Alle Fahrrad-Trainings finden wieder statt. Bitte [Hinweise](training) beachten!
+Alle Trainings fallen aktuell aufgrund von Corona-Prävention aus. Mehr Details [hier](training).
 
-Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus. Siehe [tanzlaune.de](http://tanzlaune.de/).
-
-Eine Reihe von Terminen und Freizeiten mussten verschoben oder abgesagt werden. Siehe [Termine](termine).
-
-Nur eines der drei Stadtmeisterschafts-Rennen kann stattfinden (Online-Anmeldung verpflichtend). 
-Siehe [Stadtmeisterschaft](stadtmeisterschaft).
+Die [Tanzlaune Termine](http://tanzlaune.de/), also Henrys Tanzkurse, und der [Jugendtreff](jugendtreff) fallen weiterhin aus.
 
 </div>
 
