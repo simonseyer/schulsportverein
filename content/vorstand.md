@@ -58,27 +58,29 @@ E-Mail: [aherberger@makrolog.de](mailto:aherberger@makrolog.de)
 
 ## 1. Jugendwart
 
-**Cedric Wilson**  
-Am Mühlberg 5  
+**Dennis von Hoeßle**  
+Philippsbergstraße 1  
 65195 Wiesbaden  
-Telefon: [0160 4629880](tel:+491604629880)  
-E-Mail: [cedricwilson22@gmail.com](mailto:cedricwilson22@gmail.com)
+Telefon: [01578 6117899](tel:+4915786117899)  
+WhatApp: [0177 6694996](tel:+491776694996)  
+E-Mail: [dennisedlervonhoessle@yahoo.de](mailto:dennisedlervonhoessle@yahoo.de)
+
 
 ## 2. Jugendwart
 
-**Nico Pfaff**  
-Riederberg 13  
-65195 Wiesbaden  
-Telefon: [0177 4385048](tel:+491774385048)  
-E-Mail: [appelman92@gmail.com](mailto:appelman92@gmail.com)
+**Kevin Menz**  
+Mühlbachstraße 2a  
+56357 Dornholzhausen  
+Telefon: [01573 6391089](tel:+4915736391089)  
+E-Mail: [kevinmarcelmenz@web.de](mailto:kevinmarcelmenz@web.de)
 
 ## Jugendsprecher
 
-**Celine Knapp**  
-Wilhelminenstraße 14a  
-65193 Wiesbaden  
-Telefon: [0176 85962131](tel:+4917685962131)  
-E-Mail: [celineknapp1@gmail.com](mailto:celineknapp1@gmail.com)
+**Jermaine Mitschka**  
+Marcobrunnerstraße 17  
+65197 Wiesbaden  
+Telefon: [0176 60469068](tel:+4917660469068)  
+E-Mail: [jermaine-mitschka@outlook.de](mailto:jermaine-mitschka@outlook.de)
 
 ## Abteilungsleiter Tanzen
 
@@ -101,3 +103,15 @@ Wilhelminenstraße 14a
 65193 Wiesbaden    
 Telefon: [0176 24645820](tel:+4917624645820)  
 E-Mail: [H_W_Knapp@t-online.de](mailto:H_W_Knapp@t-online.de)
+
+**Cedric Wilson**  
+Am Mühlberg 5  
+65195 Wiesbaden  
+Telefon: [0160 4629880](tel:+491604629880)  
+E-Mail: [cedricwilson22@gmail.com](mailto:cedricwilson22@gmail.com)
+
+**Nico Pfaff**  
+Riederberg 13  
+65195 Wiesbaden  
+Telefon: [0177 4385048](tel:+491774385048)  
+E-Mail: [appelman92@gmail.com](mailto:appelman92@gmail.com)
