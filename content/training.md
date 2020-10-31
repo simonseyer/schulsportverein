@@ -14,7 +14,10 @@ menu:
 # Auswirkungen der Corona-Krise
 
 Alle Trainings fallen aktuell aufgrund von Corona-Prävention aus und gehen in die Winterpause.
-Das Samstagstraining findet je nach Corona-Lage noch mal an zwei Terminen im Dezember statt.
+
+Das Freitagstraining findet je nach Corona-Lage noch einmal an drei Terminen im Dezember statt.
+
+Das Samstagstraining macht keine Winterpause und pausiert nur im November bzw. abhängig von der Infektionslage. 
 
 Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus.
 
