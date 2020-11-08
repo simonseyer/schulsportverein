@@ -23,7 +23,7 @@ menu:
 
 Alle Trainings fallen aktuell aufgrund von Corona-Prävention aus. Mehr Details [hier](training).
 
-Die [Tanzlaune Termine](http://tanzlaune.de/), also Henrys Tanzkurse, und der [Jugendtreff](jugendtreff) fallen weiterhin aus.
+Der [Jugendtreff](jugendtreff) fällt weiterhin aus.
 
 </div>
 

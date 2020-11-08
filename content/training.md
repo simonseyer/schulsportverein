@@ -19,7 +19,7 @@ Das Freitagstraining findet je nach Corona-Lage noch einmal an drei Terminen im 
 
 Das Samstagstraining macht keine Winterpause und pausiert nur im November bzw. abhängig von der Infektionslage. 
 
-Die Tanzlaune Termine, also Henrys Tanzkurse, und der Jugendtreff fallen weiterhin aus.
+Der Jugendtreff fällt weiterhin aus.
 
 </div>
 

@@ -33,7 +33,7 @@ Datum | Event
 27.09. | <span class="tanz">Tanzfrühstück in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
 05.10. – 09.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 12.10. – 16.10. | MTB-Herbstcamp für Fortgeschrittene
-14.11. | <span class="tanz">Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</span>
+14.11. | <span class="tanz"><strike>Samstagstanz in der Mensa der IGS-Kastellstraße (für Mitglieder freier Eintritt)</strike></span> <span class="canceled">abgesagt</span>
 
 <style type="text/css">
 	thead {
