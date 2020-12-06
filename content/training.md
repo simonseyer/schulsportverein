@@ -15,9 +15,7 @@ menu:
 
 Alle Trainings fallen aktuell aufgrund von Corona-Prävention aus und gehen in die Winterpause.
 
-Das Freitagstraining findet je nach Corona-Lage noch einmal an drei Terminen im Dezember statt.
-
-Das Samstagstraining macht keine Winterpause und pausiert nur im November bzw. abhängig von der Infektionslage. 
+Wenn es die Infektionslage zulässt, startet das Samstagstraining am 16.01.2021 und das Freitagstraining wieder am 05.02.
 
 Der Jugendtreff fällt weiterhin aus.
 
