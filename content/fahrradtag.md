@@ -15,54 +15,48 @@ Nutzen Sie unseren Kalender, um einen Termin für Ihre Schulen zu finden:
 **[Kalender öffnen](termine-fahrradtag)**.
 
 Erfahren Sie alle Rahmenbedingungen des Fahrradtages im 
-**[Informationsschreiben](fahrradtag/Infoschreiben.pdf)** 
-oder laden Sie das gesamte **[Konzept](fahrradtag/Konzept.pdf)** 
-herunter.
+**[Informationsschreiben](fahrradtag/WSV-Fahrradtag-Infoschreiben-Schule.pdf)** 
+oder laden Sie das gesamte **[Konzept](fahrradtag/WSV-Fahrradtag-Konzept-2020.pdf)** 
+herunter. 
+Zudem haben wir eine Vorlage für ein 
+**[Schreiben an die Eltern](fahrradtag/WSV-Fahrradtag-Infoschreiben-Eltern.pdf)** erstellt.
+
+
 
 ## Zusammenfassung  
 
-Während des Tages werden Kenntnisse über Fahrradtechnik und Verkehrssicherheit vermittelt und ein Parcours durchgeführt.  
-Mit dem Ziel: Den Kindern das Fahrrad vor der Verkehrserziehung im Jahrgang 4 näherzubringen, ihre Fahrtechnik zu
-verbessern und den Klassenlehrer zu einer Fahrradtour mit der Klasse zu ermuntern. Damit soll eine etwas „rundere“ 
-Fahrradausbildung erfolgen und Spaß am Fahrradfahren vermittelt werden.
+Während des Tages werden Kenntnisse über Fahrradtechnik und Verkehrssicherheit vermittelt und ein Parcours durchgeführt.
+Mit dem Ziel: Den Kindern das Fahrrad vor der Verkehrserziehung im Jahrgang 4 näherzubringen, ihre Fahrtechnik zu verbessern und den Klassenlehrer zu einer Fahrradtour mit der Klasse zu ermuntern. Damit soll eine etwas „rundere“ Fahrradausbildung erfolgen und Spaß am Fahrradfahren vermittelt werden.
 
-Der Fahrradtag findet deshalb in der dritten Klasse statt, damit die Kinder ihre Probleme frühzeitig erkennen und bis 
-zur Verkehrserziehung in der 4\. Klasse Zeit haben, diese zu beseitigen (z.B. Probleme beim Handzeichen geben, Bremsen 
-oder Geradeaus fahren). Seitdem die Verkehrserziehung der Polizei pro Klasse nur noch kompakt erfolgt, ist es wichtiger 
-geworden, dass man sich mit dem Fahrrad vor der 4\. Klasse besser beschäftigt.
+Der Fahrradtag findet deshalb in der dritten Klasse statt, damit die Kinder ihre Probleme frühzeitig erkennen und bis zur Verkehrserziehung in der 4. Klasse Zeit haben, diese zu beseitigen (z.B. Probleme beim Handzeichen geben, Bremsen oder geradeaus fahren).
+Seitdem die Verkehrserziehung der Polizei pro Klasse nur noch kompakt erfolgt, ist es wichtiger geworden, dass man sich mit dem Fahrrad vor der 4. Klasse besser beschäftigt.
+
 
 ### Inhalte des Fahrradtages
 
-**1+2 Stunde:**  Sicherheit, Unfälle, Helmdemonstration (hier erzählen die Kids von Ihren Unfällen), 
-wichtige Verkehrsschilder mit Fahrradbezug, Leitsätze zum Fahrradfahren im Straßenverkehr, 
-Schalten üben auf der Fahrradrolle und Erklärung des Schaltprinzips. 
+Die tatsächlich ausgeführten Inhalte weichen etwas ab. Je nachdem wer die Fahrradtage leitet:
 
-**3+4 Stunden:**  Mindestens 8 Stationen zum Fahrradfahren auf dem Schulhof (siehe unten). 
+**1+2 Stunde:** Sicherheit, Unfälle, Helmdemonstration, wichtige Verkehrsschilder mit Fahrradbezug, Leitsätze zum Fahrradfahren im Straßenverkehr, Funktionen und Namen von einzelnen Fahrradteilen.
 
-**5-6 Stunden:**  Abschluss des Stationen, Fahrradfahren und das Bremsen in der Gruppe 
-(Abstand halten, Zeichen geben usw.). Eventuell Vorstellung von Werkzeug, Schlauch flicken in Schülergruppen und
- Informationen über Defekte am Fahrrad usw. Zum Schluss dann noch die Reflexion des Tages. 
+**3+4 Stunden:** Stationen zum richtigen Fahrradfahren auf dem Schulhof (mögliche Übungen siehe unten).
 
-Das Zusammenspiel von Theorie und Praxis: Die Praxis ist das natürlich das Herzstück, funktioniert aber nur mit der 
-Theorie perfekt. Beispiel: Wenn die Kids von Ihren Unfällen erzählen und dabei herauskommt, dass einige Unfälle dabei 
-waren, die durch falsches Bremsen verursacht wurden, hat es folgenden Effekt: 
-Einmal wirken die Leitsätze dazu besser (immer bremsbereit sein und nur mit funktionierenden Bremsen fahren) und 
-zweitens nehmen sie auch die Bremsstation auf dem Schulhof ganz anders auf. Würden dann so Dinge wie Bauteile des 
-Fahrrads, Funktionsweise der Schaltung und ähnliche Themen fehlen, würde das Fahrrad wieder wirken wie das unbekannte 
-Wesen. Doch um besser Fahrrad fahren zu können, muss man das Fahrrad auch besser verstehen und 
-dazu dienen diese Inhalte. 
+**5-6 Stunden:** Abschluss der Stationen, Fahrradfahren und das Bremsen in der Gruppe (Abstand halten, Zeichen geben usw.), Vertiefung von einzelnen Übungen oder Zusatzübungen möglich.
 
-**Fahrrad fahren lernen:**  Viele Schüler lernen während des Fahrradtages das Fahrradfahren. Dazu haben wir seit 2013 
-einen FSJler bei den Fahrradtagen dabei. Unser Ziel ist es aber, dass die meisten Schüler es bereits in der zweiten 
-Klasse können. An der Blücherschule und Riederbergschule bieten wir dazu Angebote in der zweiten Klasse an. 
+Eventuell Informationen über Defekte und Reparaturen am Fahrrad usw. Zum Schluss dann noch die Reflexion des Tages und eine Nachbesprechung.
 
-**Weiterer Service:**  Wir wollen den Service für die Schulen und Lehrer weiter ausbauen (Parcoursmaterial bauen, 
-Fortbildungen anbieten, Fahrradbeschaffungen durchführen), damit die Lehrkräfte vieles auch alleine erledigen können. 
+Das Zusammenspiel von Theorie und Praxis: Die Praxis ist das natürlich das Herzstück des Fahrradtages, sie funktioniert aber nur mit der Theorie perfekt.
+Beispiel: Wenn die Kids von Ihren Unfällen erzählen und dabei herauskommt, dass einige Unfälle dabei waren, die durch falsches Bremsen verursacht werden, wirken die Leitsätze dazu besser (immer bremsbereit sein und nur mit funktionierenden Bremsen fahren) und zweitens nehmen sie auch die Bremsstation auf dem Schulhof ganz anders auf. Würden dann Informationen zur Fahrradtechnik fehlen, würde das Fahrrad wirken wie ein unbekanntes Wesen. Doch um besser Fahrrad fahren zu können, muss man das Fahrrad auch besser verstehen und dazu dienen diese Inhalte.
 
-**Fazit:**  Unser Ziel ist es, möglichst an allen Grundschulen in Wiesbaden den Fahrradtag anbieten zu können. 
-In der Innenstadt flächendeckend.  
+**Fahrrad fahren lernen:** Viele Schüler lernen während des Fahrradtages das Fahrradfahren. 
+Dazu haben wir seit 2013 einen FSJler bei den Fahrradtagen dabei.
+Unser Ziel ist es aber, dass die meisten Schüler es bereits in der zweiten Klasse können. 
+An der Blücherschule und Riederbergschule bieten wir dazu Angebote in der zweiten Klasse an.
 
-# Geschicklichkeitsübungen mit dem Rad  
+**Weiterer Service:** Wir wollen den Service für die Schulen und Lehrer weiter ausbauen (Parcoursmaterial bauen, Fortbildungen anbieten, Fahrradbeschaffungen durchführen), damit die Lehrkräfte vieles auch alleine erledigen können.
+
+**Fazit:** Unser Ziel ist es, möglichst an allen Grundschulen in Wiesbaden den Fahrradtag anbieten zu können. In der Innenstadt flächendeckend. 
+
+## Geschicklichkeitsübungen mit dem Rad  
 
 Geschicklichkeitsübungen sollen mehrere Eigenschaften erfüllen:
 
@@ -108,7 +102,7 @@ der sich nur mit einem Teil der Verkehrsregeln auskennt.**
 | Reifen über ein Hindernis werfen, z.B. Kartenständer |  | Reifen, Kartenständer. |
 | Auf eine Tafel im Vorbeifahren schreiben | Spektakuläre Alternative zu Nr.4, aber manche Teilnehmer können sich abstützen. | Tafel, Kreide, Schwamm, Helfer! |
 
-# Fahren in der Gruppe - im öffentlichen Straßenraum 
+## Fahren in der Gruppe - im öffentlichen Straßenraum 
 
 *   Sich auf Zeichen für das Anhalten, wahrscheinliches Anhalten und gegen das Drängeln verständigen. 
 *   Handzeichen fürs Abbiegen durchführen.
