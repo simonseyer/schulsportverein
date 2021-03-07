@@ -13,9 +13,11 @@ menu:
 
 # Auswirkungen der Corona-Krise
 
-Alle Trainings fallen aktuell aufgrund von Corona-Prävention aus und gehen in die Winterpause.
+Für alle Kinder <u>bis 14 Jahren</u> starten die Trainings (Dienstag, Freitag, Samstag & Montag) wieder ab Dienstag, den 09.03. 
 
-Wenn es die Infektionslage zulässt, startet das Samstagstraining am 16.01.2021 und das Freitagstraining wieder am 05.02.
+Treffpunkt Dienstagstraining ist vor dem großen Tor in der Kellerstraße.  
+Am Montag treffen wir uns vor dem Tor zum Lehrerparkplatz an der Blücherstraße.   
+Für Freitag und Samstag gelten die normalen Treffpunkte.
 
 Der Jugendtreff fällt weiterhin aus.
 

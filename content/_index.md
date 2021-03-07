@@ -19,9 +19,9 @@ menu:
 ![Corona Maskotchen](corona.jpg)
 <sub>Bild von Marianne Sengebusch</sub>
 
-# Auswirkungen der Corona-Krise
+# Auswirkungen der Corona-Pandemie
 
-Alle Trainings fallen aktuell aufgrund von Corona-Prävention aus. Mehr Details [hier](training).
+Einzelne Trainings starten wieder. Mehr Details [hier](training).
 
 Der [Jugendtreff](jugendtreff) fällt weiterhin aus.
 

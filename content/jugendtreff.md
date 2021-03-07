@@ -11,7 +11,7 @@ menu:
 
 <div class="warning cancelwarning">
 
-# Auswirkungen der Corona-Krise
+# Auswirkungen der Corona-Pandemie
 
 Der Jugendtreff fällt aufgrund von Corona-Prävention weiterhin aus.
 

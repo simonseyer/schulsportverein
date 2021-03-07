@@ -11,10 +11,10 @@ menu:
 
 <div class="warning cancelwarning">
 
-<h1>Auswirkungen der Corona-Krise</h1>
+<h1>Auswirkungen der Corona-Pandemie</h1>
 
 <p>
-  Der Schülerkorso kann aufgrund von Corona-Prävention am 25. Juni 2020 nicht wie geplant stattfinden. Ein neuer Termin wird gesucht.
+  Der Schülerkorso konnte am 25. Juni 2020 nicht wie geplant stattfinden. Ein neuer Termin wird gesucht.
 </p>
 
 </div>
