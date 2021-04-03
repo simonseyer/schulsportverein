@@ -11,7 +11,7 @@ menu:
 
 Datum | Event
 --- | ---
-06.04. - 09.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
+06.04. - 09.04. | <strike>Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung</strike> <span class="canceled">abgesagt</span>
 12.04. - 16.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Radfahren-Osterferien-2021.pdf)**
 23.04. - 25.04. | Downhill-Freizeit nach Winterberg: **[Ausschreibung (📄 PDF)](termine/WSV-Downhillfreizeit-2021.pdf)**
 02.05. | Frühlingsradtour 2021 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
