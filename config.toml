@@ -37,3 +37,9 @@ theme = "schulsportverein"
     weight = 40
     identifier = "mitgliedsantrag"
     url = "/schulsportverein-mitgliedsantrag.pdf"
+
+[[menu.secondary]]
+    name = "Satzung"
+    weight = 50
+    identifier = "satzung"
+    url = "/wsv-satzung-stand-2018.pdf"
