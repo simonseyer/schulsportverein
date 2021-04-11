@@ -10,7 +10,7 @@ menu:
 
 <span class="slogan">Der 1. Wiesbadener Schulsportverein 1994 e.V. (WSV) ist ein schulbezogener Breitensportverein mit dem Schwerpunkt Radsport.</span><br />
 
-<span class="slogan"><strong>Ein Verein für alle, egal was jemand kann oder wo er her kommt.</strong></span>
+<span class="slogan"><strong>Ein Verein für alle, egal was jemand kann oder wo man herkommt.</strong></span>
 
 <hr>
 
