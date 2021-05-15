@@ -19,7 +19,10 @@ Du bist nicht sicher, was du mit deiner Zeit nach der Schule anfangen sollst? Su
     Du vermittelst Grundschulkindern die Grundlagen des Fahrrad-Fahrens. Dabei stehen die Theorie und das sichere Fahren im Vordergrund. Du wirst dich an den schnellen Fortschritten der Kinder begeistern und lebendige Stunden mit ihnen verbringen können. [Weitere Informationen zum Fahrradtag](fahrradtag).
 
 *   **Leitung und Betreuung von AGs und anderen Sportangeboten**  
-    Bei diesem Angebot stehen deine eigenen Fähigkeiten und Interessen im Vordergrund. Du wirst an verschiedenen Schulen Sportangebote für Schüler anbieten. Im Winter wirst du einige Zeit in einem Kindergarten eingesetzt und du lernst somit während dem FSJ-Jahr alle Altersklassen einer Kinder- und Jugendarbeit kennen.  
+    Bei diesem Angebot stehen deine eigenen Fähigkeiten und Interessen im Vordergrund. Du wirst an verschiedenen Schulen Sportangebote für Schüler anbieten. 
+    
+*   **Einsatz im Kindergarten**  
+    Im Winter wirst du einige Zeit in einem Kindergarten eingesetzt und du lernst somit während dem FSJ-Jahr alle Altersklassen einer Kinder- und Jugendarbeit kennen.  
 
 *   **Projektarbeit**  
     Es gibt vielfältige Arbeiten, die in einem Verein erledigt werden müssen. Zum Beispiel untersucht der Schulsportverein die Wiesbadener Straßen auf Fahrrad-Tauglichkeit und will so Schulkindern bzw. deren Eltern die Möglichkeit an die Hand geben, sich einge geeignete Route zusammen zu stellen ([Schleichwege-Projekt](schleichwege)). Bei dieser Arbeit wird immer Unterstützung benötigt.
