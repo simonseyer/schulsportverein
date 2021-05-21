@@ -33,7 +33,7 @@ Der Jugendtreff fällt weiterhin aus.
 **Trainer:** Kevin Menz
 
 **Dienstags** 15:30 - 18:00 Uhr  
-**Treffpunkt:** Kellerstraße 11 vorm Tor, außerhalb des Schulhofs.  
+**Treffpunkt:** Vor der Hofeinfahrt der IGS-Kastellstraße in der Kellerstraße.  
 **Für wen:** Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahren und Techniktraining.  
 **Trainer:** Dennis von Hoeßle
 
