@@ -14,18 +14,9 @@ menu:
 
 <hr>
 
-<div class="warning cancelwarning">
-
-![Corona Maskotchen](corona.jpg)
-<sub>Bild von Marianne Sengebusch</sub>
-
-# Auswirkungen der Corona-Pandemie
-
-Einzelne Trainings starten wieder. Mehr Details [hier](training).
-
-Der [Jugendtreff](jugendtreff) fällt weiterhin aus.
-
-</div>
+<video controls>
+  <source src="verein/schulsportverein.mp4" type="video/mp4">
+</video>
 
 <hr>
 
