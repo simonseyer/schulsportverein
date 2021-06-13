@@ -17,10 +17,10 @@ Datum | Event
 02.05. | <strike>Frühlingsradtour 2021 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!</strike> <span class="canceled">abgesagt</span>
 28.05. - 30.05. | Freizeit für Fahrrad-Anfänger nach Oberwesel
 13.06. | Familienradtour
-25.06. - 27.06. | MTB-Freizeit für Geübte ins Jammertal
+25.06. - 27.06. | MTB-Freizeit für Geübte ins Jammertal: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2021-Jammertal.pdf)**
 04.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 19.07. - 23.07. | Sommerferienprojekt Trendsportarten
-26.07. - 30.07. | MTB/Downhill-Sportcamp für Fortgeschrittene
+<strike>26.07. - 30.07.</strike> <span class="canceled">09.07. - 11.07.</span> | Downhill-Freizeit für Fortgeschrittene nach Oberammergau
 02.08. - 06.08. | Sommerferienprojekt Tourenfahren
 21.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
 29.08. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
