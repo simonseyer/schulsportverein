@@ -7,7 +7,7 @@ menu:
         weight: 30
 ---
 
-<!-- [![Plakat  Stadtmeisterschaft](stadtmeisterschaft/plakat_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf) -->
+[![Plakat  Stadtmeisterschaft](stadtmeisterschaft/plakat_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
 
 # Stadtmeisterschaft 2021
 
@@ -50,10 +50,16 @@ Matthias Richter, erreichbar unter [0175/3730753](tel:+491753730753) oder [schul
 
 ### Strecke
 
-MTB-Rennen im Wald.
+MTB-Rennen im Wald:
 
-[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/lageplan-amt_2018.jpg)](stadtmeisterschaft/lageplan-amt_2018.jpg)
+* U7: 2 kleine Runden
+* U9: 2 kleine Runden
+* U11: 2 Runden
+* U13: 3 Runden
+* U15: 6 Runden
+* U17: 7 Runden
 
+[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/strecke-adamstal.jpg)](stadtmeisterschaft/strecke-adamstal.jpg)
 
 ## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
@@ -93,13 +99,10 @@ Mountainbike-Rennen auf einem ca. 2 km Rundkurs auf unbefestigten Feld- und Wies
 
 Weitere Infos auf der Vereinshomepage, **[www.mrsv.de](https://www.mrsv.de)**.
 
-
-
-<!-- 
 ---
 
 ## Flyer
 
 [![Flyer Stadtmeisterschaft](stadtmeisterschaft/flyer_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Flyer.pdf)
 
-*Vorschaubild anklicken zum Herunterladen* -->
+*Vorschaubild anklicken zum Herunterladen*
