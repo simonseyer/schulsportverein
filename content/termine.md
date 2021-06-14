@@ -15,7 +15,7 @@ Datum | Event
 12.04. - 16.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Radfahren-Osterferien-2021.pdf)**
 <strike>23.04. - 25.04.</strike> <span class="canceled">17.09. - 19.09.</span> | Downhill-Freizeit nach Winterberg: **[Ausschreibung (📄 PDF)](termine/WSV-Downhillfreizeit-2021.pdf)**
 02.05. | <strike>Frühlingsradtour 2021 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!</strike> <span class="canceled">abgesagt</span>
-28.05. - 30.05. | Freizeit für Fahrrad-Anfänger nach Oberwesel
+28.05. - 30.05. | <strike>Freizeit für Fahrrad-Anfänger nach Oberwesel</strike> <span class="canceled">abgesagt</span>
 13.06. | Familienradtour
 25.06. - 27.06. | MTB-Freizeit für Geübte ins Jammertal: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2021-Jammertal.pdf)**
 04.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
