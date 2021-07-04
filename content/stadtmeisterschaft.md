@@ -11,11 +11,11 @@ menu:
 
 # Stadtmeisterschaft 2021
 
-<!-- <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2020-Ergebnisse.pdf">Ergebnisse 1. Lauf & Endergebnis (PDF)</a></b>
-</div> -->
-
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
+
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2021-1.Lauf.pdf">Ergebnisse 1. Lauf</a></b>
+</div>
 
 am 04.07.2021  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](http://www.schulsportverein.de)**
