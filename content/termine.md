@@ -13,7 +13,7 @@ Datum | Event
 --- | ---
 06.04. - 09.04. | <strike>Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung</strike> <span class="canceled">abgesagt</span>
 12.04. - 16.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Radfahren-Osterferien-2021.pdf)**
-<strike>23.04. - 25.04.</strike> <span class="canceled">09.07. - 11.07.</span> | Downhill-Freizeit nach <strike>Winterberg</strike> <span class="canceled">Oberammergau</span>: **[Ausschreibung (📄 PDF, nicht aktuell)](termine/WSV-Downhillfreizeit-2021.pdf)**
+<strike>23.04. - 25.04.</strike> <span class="canceled">09.07. - 11.07.</span> | Downhill-Freizeit nach <strike>Winterberg</strike> <span class="canceled">Oberammergau</span>: **[Ausschreibung (📄 PDF)](termine/WSV-Downhillfreizeit-2021.pdf)**
 02.05. | <strike>Frühlingsradtour 2021 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!</strike> <span class="canceled">abgesagt</span>
 28.05. - 30.05. | <strike>Freizeit für Fahrrad-Anfänger nach Oberwesel</strike> <span class="canceled">abgesagt</span>
 13.06. | Familienradtour
