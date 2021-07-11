@@ -67,37 +67,35 @@ am 29.08.2021
 ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
 
 ### Veranstaltungsort
-55127 Mainz-Marienborn, Erich-Dombrowski-Straße 2, vor dem Verlagsgebäude der Rhein-Main-Presse (VRM).
-
-Parkplätze sind in ausreichender Anzahl vorhanden.
+Erich-Dombrowski-Straße, 55127 Mainz (ZDF-Enterprise-Gebäude).
 
 ### Start
 
-U7: 10.00 Uhr, danach für die U9/U11/13/15/17 jeweils in etwa 30-Minuten Abständen. 
-
-Bei wenigen U17 Teilnehmern werden U15/17 zusammen starten.
+* U07: 10:00 Uhr
+* U09: 10:30 Uhr
+* U11: 11:00 Uhr
+* U13: 12:30 Uhr
+* U15/U17: 13:15 Uhr
 
 ### Startgebühr
 
-* U7-U15: 3 Euro
-* U17: 5 Euro
-
-Eventuell gibt es bei der Startgebühr noch eine kurzfristige kleine Erhöhung bezüglich Anpassung an andere Radrennen.
+* U07 - U11: 5 € + 3 € Transponder
+* U13 – U17: 7 € + 3 € Transponder
 
 ### Anmeldung
 
-Am Start vor dem Verlagsgebäude von 09.00 bis 09.45 Uhr. Für alle folgenden Startgruppen spätestens 30 min vor dem Start.
+Die Onlineanmeldung wird demnächst geöffnet und ist bis einschließlich 26.08.2021 möglich. Nachmeldungen sind ab 8.30 Uhr am Veranstaltungstag möglich, soweit die maximale Teilnehmerzahl des jeweiligen Rennens noch nicht erreicht wurde.
 
 Es besteht die Gelegenheit, am Stand von Fahrrad XXL Franz die Räder der Teilnehmer technisch überprüfen zu lassen.
 
 ### Ansprechpartner
-Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [t.hankeln@mrsv.de](mailto:t.hankeln@mrsv.de).
+Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [thomas.hankeln@mtb-rhein-main-cup.de](mailto:thomas.hankeln@mtb-rhein-main-cup.de).
 
 ### Strecke
 
 Mountainbike-Rennen auf einem ca. 2 km Rundkurs auf unbefestigten Feld- und Wiesenwegen. Ab U11 können leichte Hindernisse eingebaut werden. Die U7/U9-Rennen werden vom Veranstalter durch Helfer begleitet.
 
-Weitere Infos auf der Vereinshomepage, **[www.mrsv.de](https://www.mrsv.de)**.
+Weitere Infos auf der Vereinshomepage, **[www.mrsv.de](https://www.mrsv.de)**, und der Seite des **[MTB Rhein-Main-Cup](http://www.mtb-rhein-main-cup.de/pages/rennen/29.08.2021-mainz.php)**.
 
 ---
 
