@@ -13,13 +13,7 @@ menu:
 
 # Auswirkungen der Corona-Krise
 
-Für alle Kinder <u>bis 14 Jahren</u> starten die Trainings (Dienstag, Freitag, Samstag & Montag) wieder ab Dienstag, den 09.03. 
-
-Treffpunkt Dienstagstraining ist vor dem großen Tor in der Kellerstraße.  
-Am Montag treffen wir uns vor dem Tor zum Lehrerparkplatz an der Blücherstraße.   
-Für Freitag und Samstag gelten die normalen Treffpunkte.
-
-Der Jugendtreff fällt weiterhin aus.
+Der Jugendtreff fällt aufgrund von Corona-Prävention weiterhin aus.
 
 </div>
 
@@ -37,7 +31,13 @@ Der Jugendtreff fällt weiterhin aus.
 **Für wen:** Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahren und Techniktraining.  
 **Trainer:** Dennis von Hoeßle
 
-**Freitags** Treffpunkt ab 15:15 Uhr, Abfahrt ca. 15:45 Uhr  
+**Mittwochs** 16:00 - ca. 18:30 Uhr  
+**Treffpunkt:** IGS-Fahrradwerkstatt  
+**Für wen:** Das Training für ambitionierte und geübte Fahrer ab 9 Jahren. Downhill & Tourenfahren.
+Hier muss man auch hochfahren, um herunter fahren zu können.  
+**Trainer:** Jermaine Mitschka
+
+**Freitags** Treffpunkt ab 15:30 Uhr, Abfahrt ca. 16:00 Uhr.  
 **Treffpunkt:** Vor der Fahrradwerkstatt der Schule IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
 **Für wen:** Das Training für die Jüngeren (ab ca. 8 Jahre).  
 **Trainer:** Matthias Richter
