@@ -11,6 +11,10 @@ menu:
 
 # Stadtmeisterschaft 2021
 
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2021-Ergebnisse.pdf">Endergebnisse</a></b>
+</div>
+
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
 <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
