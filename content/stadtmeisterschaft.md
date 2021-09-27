@@ -12,7 +12,7 @@ menu:
 # Stadtmeisterschaft 2021
 
 <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2021-Ergebnisse.pdf">Endergebnisse</a></b>
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2021-Endergebnis.pdf">Endergebnis</a></b>
 </div>
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
@@ -66,6 +66,10 @@ MTB-Rennen im Wald:
 [![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/strecke-adamstal.jpg)](stadtmeisterschaft/strecke-adamstal.jpg)
 
 ## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
+
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+	<b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2021-2.Lauf.pdf">Ergebnisse 2. Lauf</a></b>
+</div>
 
 am 29.08.2021  
 ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
