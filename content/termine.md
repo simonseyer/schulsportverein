@@ -7,26 +7,24 @@ menu:
         weight: 40
 ---
 
-# Termine 2021 <span class="small-header">[herunterladen](termine/WSV-Termine2021.pdf)</span>
+# Termine 2022 <b><span class="small-header">[herunterladen](termine/WSV-Termine2022.pdf)</span></b>
 
 Datum | Event
 --- | ---
-06.04. - 09.04. | <strike>Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung</strike> <span class="canceled">abgesagt</span>
-12.04. - 16.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Radfahren-Osterferien-2021.pdf)**
-<strike>23.04. - 25.04.</strike> <span class="canceled">09.07. - 11.07.</span> | Downhill-Freizeit nach <strike>Winterberg</strike> <span class="canceled">Oberammergau</span>: **[Ausschreibung (📄 PDF)](termine/WSV-Downhillfreizeit-2021.pdf)**
-02.05. | <strike>Frühlingsradtour 2021 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!</strike> <span class="canceled">abgesagt</span>
-28.05. - 30.05. | <strike>Freizeit für Fahrrad-Anfänger nach Oberwesel</strike> <span class="canceled">abgesagt</span>
-13.06. | Familienradtour
-25.06. - 27.06. | MTB-Freizeit für Geübte ins Jammertal: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2021-Jammertal.pdf)**
-04.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
-19.07. - 23.07. | Sommerferienprojekt Trendsportarten
-26.07. - 30.07. | MTB/Downhill-Sportcamp für Fortgeschrittene
-02.08. - 06.08. | Sommerferienprojekt Tourenfahren
-21.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
-29.08. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
-04.09. | WSV-Grillfest im IGS-Klettergarten
-12.09. | Tour de Taunus 2021 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-11.10. - 15.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
+11.04. - 14.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
+19.04. - 22.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Osterferienprojekt-2022.pdf)**
+29.04. - 01.05. | Downhill-Freizeit nach Winterberg: **[Ausschreibung (📄 PDF)](termine/WSV-Downhill-Freizeit-2022-Winterberg.pdf)**
+08.05. | Frühlingsradtour 2022 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
+20.05. - 22.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt
+26.06. | Familienradtour
+01.07. - 03.07. | MTB-Freizeit für Geübte nach Sankt Goarshausen
+17.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
+25.07. - 29.07. | Sommerferienprojekt Trendsportarten
+01.08. - 05.08. | MTB/Downhill-Sportcamp für Fortgeschrittene
+Vielleicht im August | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
+18.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
+18.09.2022 | Tour de Taunus 2022 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
+24.10. - 28.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 
 <style type="text/css">
 	thead {
