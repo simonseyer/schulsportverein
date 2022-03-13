@@ -9,56 +9,72 @@ menu:
 
 # Trainingszeiten
 
-<div class="warning cancelwarning">
-
-# Auswirkungen der Corona-Krise
-
-Der Jugendtreff fällt aufgrund von Corona-Prävention weiterhin aus.
-
-</div>
-
 ## Trainingszeiten Radsport auf dem MTB
 
-**Anmeldung notwendig:** per Mail oder Telefon
+---
 
-**Montags** 16:00 - 18:00 Uhr  
-**Treffpunkt:** Blücherschule (Eingang Blücherstraße am Fahrradcontainer).  
-**Für wen:** Grundschüler und absolute Anfänger, 6-10 Jahre.  
+### Anfängertraining
+Für Grundschüler und absolute Anfänger, 6-10 Jahre.
+
+**Montags** 16:00 Uhr  
+**Treffpunkt:** Blücherschule (Eingang Blücherstraße gegenüber Netto) am Fahrradcontainer  
 **Trainer:** Kevin Menz
 
-**Dienstags** 15:30 - 18:00 Uhr  
-**Treffpunkt:** Vor der Hofeinfahrt der IGS-Kastellstraße in der Kellerstraße.  
-**Für wen:** Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahren und Techniktraining.  
-**Trainer:** Dennis von Hoeßle
+---
 
-**Mittwochs** 16:00 - ca. 18:30 Uhr  
+### Downhilltraining
+Für Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahren und Techniktraining.
+
+**Dienstags** 16:30 Uhr  
 **Treffpunkt:** IGS-Fahrradwerkstatt  
-**Für wen:** Das Training für ambitionierte und geübte Fahrer ab 9 Jahren. Downhill & Tourenfahren.
-Hier muss man auch hochfahren, um herunter fahren zu können.  
+**Trainer:** Dennis von Hößle
+
+---
+
+### Downhill & Tourenfahren
+Das Training für ambitionierte und geübte Fahrer ab 9 Jahren, hier muss man auch hochfahren, um herunterfahren zu können.
+
+**Mittwochs** 16:30 Uhr  
+**Treffpunkt:** IGS-Fahrradwerkstatt  
 **Trainer:** Jermaine Mitschka
 
-**Freitags** Treffpunkt ab 15:30 Uhr, Abfahrt ca. 16:00 Uhr.  
-**Treffpunkt:** Vor der Fahrradwerkstatt der Schule IGS-Kastellstraße (am Ende des Hofes, blauer Vorbau), Kastellstraße 11.  
-**Für wen:** Das Training für die Jüngeren (ab ca. 8 Jahre).  
+---
+
+### Anspruchsvolle Touren
+
+Das Training ist ab 13 bis 99 Jahre, solange man es schon/noch auf die Platte schafft.
+Der Schwerpunkt liegt auf nicht so langen (20-30 km), aber durchaus anspruchsvollen Touren mit ein paar Höhenmetern. Trails werden hier auch eingebaut, darauf liegt aber nicht der Schwerpunkt.
+
+**Donnerstags** 16:30 Uhr (im März), 17:00 Uhr (ab April)  
+**Treffpunkt** Parkplatz, IGS Kastellstraße  
 **Trainer:** Matthias Richter
 
-**Samstags** Abfahrt 14:15 Uhr, Treffpunkt etwas früher!  
-**Treffpunkt:** Auf dem Parkplatz der Schule IGS-Kastellstraße, Kastellstraße 11.  
-**Für wen:** Das Training für die Älteren, das etwas sportlichere Training (auch für Erwachsene).  
+---
+
+### Für die Jüngeren
+Das Training für die Jüngeren (ab ca. 8 Jahre).
+
+**Freitags** 15:30 Uhr, Abfahrt ca. 16:00 Uhr  
+**Treffpunkt:** Vor der Fahrradwerkstatt der IGS-Kastellstraße  
 **Trainer:** Matthias Richter
+
+---
+
+### Tourenfahren
+Ähnlich wie Donnerstag, aber etwas weniger leistungsbezogen, dafür eher etwas längere Strecken von ca. 30-40 km. Es sollen auch etwas weniger bekannte Orte angesteuert werden.
+
+Es wird einen Terminkalender auf der Homepage geben und eine Anmeldung ist erforderlich.
+
+**Samstags** alle zwei Wochen, 14:15 Uhr  
+**Treffpunkt:** Parkplatz, IGS Kastellstraße  
+**Trainer:** Matthias Richter
+
+---
 
 ## Tanzen mit Henry für Erwachsene
 
 **Donnerstag- und freitagabends** in der Mensa der IGS-Kastellstraße.  
 Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und [0611 1370268](tel:+496111370268).  
-
-
-##  Der Jugendtreff (auch für Junggebliebene) 
-
-**Ort:** Der WSV-Vereinskeller am Klettergarten und die IGS-Fahrradwerkstatt.  
-**Treffpunkt:** Ab 18:00 Uhr im WSV-Vereinskeller.  
-**Zeitpunkt:** Jeden Mittwoch von 18:00 Uhr bis mindestens 20:00 Uhr.  
-**Inhalte:** Gemeinsames Kochen, Dart, Kicker, Fußball in der Turnhalle, Werkstattbenutzung und Weiteres. [Mehr Infos](jugendtreff).  
 
 ## Breitensport-AGs an den jeweiligen Schulen
 
