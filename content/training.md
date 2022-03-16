@@ -61,13 +61,15 @@ Das Training für die Jüngeren (ab ca. 8 Jahre).
 ---
 
 ### Tourenfahren
-Ähnlich wie Donnerstag, aber etwas weniger leistungsbezogen, dafür eher etwas längere Strecken von ca. 30-40 km. Es sollen auch etwas weniger bekannte Orte angesteuert werden.
-
-Es wird einen Terminkalender auf der Homepage geben und eine Anmeldung ist erforderlich.
+Ähnlich wie Donnerstag, aber etwas weniger leistungsbezogen, dafür eher etwas längere Strecken von ca. 30-40 km. Es sollen auch etwas weniger bekannte Orte angesteuert werden. 
 
 **Samstags** alle zwei Wochen, 14:15 Uhr  
 **Treffpunkt:** Parkplatz, IGS Kastellstraße  
 **Trainer:** Matthias Richter
+
+Eine Anmeldung ist erforderlich. Termine:
+
+<iframe src="https://calendar.google.com/calendar/embed?height=350&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBerlin&showNav=1&showDate=1&showPrint=0&showTabs=1&showCalendars=0&mode=AGENDA&title=Termine%20Samstagstour&src=ZW1iY2g0bG5yN2lscDd0OW9icWYxNmNwdnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA" style="border-width:0" width="650" height="350" frameborder="0" scrolling="no"></iframe>
 
 ---
 
