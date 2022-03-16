@@ -73,8 +73,9 @@ Es wird einen Terminkalender auf der Homepage geben und eine Anmeldung ist erfor
 
 ## Tanzen mit Henry für Erwachsene
 
-**Donnerstag- und freitagabends** in der Mensa der IGS-Kastellstraße.  
-Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und [0611 1370268](tel:+496111370268).  
+**Sonntags** in der Mensa der IGS-Kastellstraße.
+
+Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und bei Henry Meinhardt unter [henry@tanzlaune.de](mailto:henry@tanzlaune.de) oder [0611 1370268](tel:+496111370268).  
 
 ## Breitensport-AGs an den jeweiligen Schulen
 
