@@ -79,6 +79,10 @@ Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und bei Henry Meinhardt 
 
 ## Breitensport-AGs an den jeweiligen Schulen
 
+<div class="warning cancelwarning">
+    Pausieren coronabedingt
+</div>
+
 ### IGS Kastellstraße
 **Fußball** für die Jahrgänge 5-7, montags, 12:30 - 14:00 Uhr, Felix Wimmer, Turnhalle  
 
