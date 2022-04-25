@@ -15,7 +15,7 @@ Datum | Event
 19.04. - 22.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Osterferienprojekt-2022.pdf)**
 29.04. - 01.05. | Downhill-Freizeit nach Winterberg: **[Ausschreibung (📄 PDF)](termine/WSV-Downhill-Freizeit-2022-Winterberg.pdf)**
 08.05. | Frühlingsradtour 2022 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-20.05. - 22.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt
+20.05. - 22.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2022-Frankfurt.pdf)**
 26.06. | Familienradtour
 01.07. - 03.07. | MTB-Freizeit für Geübte nach Sankt Goarshausen
 17.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
