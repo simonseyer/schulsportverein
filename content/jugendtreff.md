@@ -9,14 +9,6 @@ menu:
 
 # Jugendtreff
 
-<div class="warning cancelwarning">
-
-# Auswirkungen der Corona-Pandemie
-
-Der Jugendtreff fällt aufgrund von Corona-Prävention weiterhin aus.
-
-</div>
-
 Jeden Mittwoch (außerhalb der Ferien) ab 18 Uhr wird sich im Vereinskeller des Schulsportvereins getroffen. Es wird
 
 * Dart, Kicker und Billiard gespielt
