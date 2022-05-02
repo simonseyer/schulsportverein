@@ -23,7 +23,8 @@ Datum | Event
 01.08. - 05.08. | MTB/Downhill-Sportcamp für Fortgeschrittene
 Vielleicht im August | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
 18.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
-18.09.2022 | Tour de Taunus 2022 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
+18.09. | Tour de Taunus 2022 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
+24.09. | Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe
 24.10. - 28.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 
 <style type="text/css">
