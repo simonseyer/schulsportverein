@@ -12,8 +12,8 @@ menu:
 ## 1. Vorsitzender
 
 **Matthias Richter (Fachwart Radsport)**  
-Platter Straße 77  
-65193 Wiesbaden  
+Werderstraße 7  
+65195 Wiesbaden  
 Telefon: [0611 2405621](tel:+496112405621) oder [0175 3730753](tel:+491753730753)  
 E-Mail: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)
 
@@ -25,7 +25,7 @@ Platter Straße 73
 Telefon:  [0171 5407677](tel:+491715407677)  
 E-Mail: [phantasialand_fan@hotmail.com](mailto:phantasialand_fan@hotmail.com)
 
-## Kassenwart
+## Kassenwärtin
 
 **Simone Niederprüm**  
 Grundweg 5  
@@ -33,21 +33,13 @@ Grundweg 5
 Telefon: [0611 808131](tel:+49611808131) oder [0174 2463234](tel:+491742463234)  
 E-Mail: [meliana2002@hotmail.com](mailto:meliana2002@hotmail.com)
 
-## 1. Schriftführer
+## Schriftführerin
 
 **Kathrin Porbadnigk**  
 Platter Straße 73  
 65193 Wiesbaden  
 Telefon: [0179 4563259](tel:+491794563259)   
 E-Mail: [geforce_fan@hotmail.de](mailto:geforce_fan@hotmail.de)
-
-## 2. Schriftführer
-
-**Simon Seyer**  
-Am Tiergarten 22  
-60316 Frankfurt  
-Telefon: [0176 45690774](tel:+4917645690774)  
-E-Mail: [simon.seyer@gmail.com](mailto:simon.seyer@gmail.com)
 
 ## Pressewart
 
@@ -68,19 +60,17 @@ E-Mail: [dennisedlervonhoessle@yahoo.de](mailto:dennisedlervonhoessle@yahoo.de)
 
 ## 2. Jugendwart
 
-**Kevin Menz**  
-Mühlbachstraße 2a  
-56357 Dornholzhausen  
-Telefon: [01573 6391089](tel:+4915736391089)  
-E-Mail: [kevinmarcelmenz@web.de](mailto:kevinmarcelmenz@web.de)
-
-## Jugendsprecher
-
 **Jermaine Mitschka**  
 Marcobrunnerstraße 17  
 65197 Wiesbaden  
 Telefon: [0176 60469068](tel:+4917660469068)  
 E-Mail: [jermaine-mitschka@outlook.de](mailto:jermaine-mitschka@outlook.de)
+
+## Jugendsprecher
+
+**Maxim Herberger**  
+Von-Leyden-Straße 46  
+65191 Wiesbaden  
 
 ## Abteilungsleiter Tanzen
 
@@ -91,12 +81,6 @@ Telefon: [0611 1370268](tel:+496111370268)
 E-Mail: [henry@tanzlaune.de](mailto:henry@tanzlaune.de)
 
 ## Beisitzer
-
-**Klaus Seibold**  
-Niedernhausener Straße 49a  
-65207 Wiesbaden  
-Telefon: [0611 54608](tel:+4961154608) oder [0179 4772575](tel:+491794772575)  
-E-Mail: [klaus.seibold@web.de](mailto:klaus.seibold@web.de)
 
 **Willy Knapp**  
 Wilhelminenstraße 14a  
@@ -115,3 +99,9 @@ Riederberg 13
 65195 Wiesbaden  
 Telefon: [0177 4385048](tel:+491774385048)  
 E-Mail: [appelman92@gmail.com](mailto:appelman92@gmail.com)
+
+**Kevin Menz**  
+Mühlbachstraße 2a  
+56357 Dornholzhausen  
+Telefon: [01573 6391089](tel:+4915736391089)  
+E-Mail: [kevinmarcelmenz@web.de](mailto:kevinmarcelmenz@web.de)
