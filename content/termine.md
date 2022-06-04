@@ -17,7 +17,7 @@ Datum | Event
 08.05. | Frühlingsradtour 2022 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 20.05. - 22.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2022-Frankfurt.pdf)**
 26.06. | Familienradtour
-01.07. - 03.07. | MTB-Freizeit für Geübte nach Sankt Goarshausen
+01.07. - 03.07. | MTB-Freizeit für Geübte nach Sankt Goarshausen: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2022-Sankt-Goar.pdf)**
 17.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 25.07. - 29.07. | Sommerferienprojekt Trendsportarten
 01.08. - 05.08. | MTB/Downhill-Sportcamp für Fortgeschrittene
