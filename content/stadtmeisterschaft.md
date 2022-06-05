@@ -7,7 +7,7 @@ menu:
         weight: 30
 ---
 
-<!-- [![Plakat  Stadtmeisterschaft](stadtmeisterschaft/plakat_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf) -->
+[![Plakat  Stadtmeisterschaft](stadtmeisterschaft/plakat_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
 
 # Stadtmeisterschaft 2022
 
