@@ -19,8 +19,8 @@ Datum | Event
 26.06. | Familienradtour
 01.07. - 03.07. | MTB-Freizeit für Geübte nach Sankt Goarshausen: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2022-Sankt-Goar.pdf)**
 17.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
-25.07. - 29.07. | Sommerferienprojekt Trendsportarten
-01.08. - 05.08. | MTB/Downhill-Sportcamp für Fortgeschrittene
+25.07. - 29.07. | <strike>Sommerferienprojekt Trendsportarten</strike> <span class="canceled">abgesagt</span>
+01.08. - 05.08. | <strike>MTB/Downhill-Sportcamp für Fortgeschrittene</strike> <span class="canceled">abgesagt</span>
 Vielleicht im August | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
 18.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
 18.09. | Tour de Taunus 2022 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
