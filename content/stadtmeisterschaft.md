@@ -53,6 +53,8 @@ MTB-Rennen im Wald:
 * U15: 6 Runden
 * U17: 7 Runden
 
+#### Übersichtsplan (Streckenverlauf wird noch angepasst)
+
 [![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/strecke-adamstal.jpg)](stadtmeisterschaft/strecke-adamstal.jpg)
 
 ## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
