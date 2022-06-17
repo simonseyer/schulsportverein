@@ -75,6 +75,9 @@ vor dem Verlagsgebäude der Rhein-Main-Presse (VRM).
 * U15: 12:00 Uhr
 * U17: 12:30 Uhr (bei wenigen Teilnehmern Start mit U15)  
 
+**Die genauen Rennzeiten und Rundenzahlen können sich noch ändern. Aktuelle Infos auf der Seite des
+[MTB Rhein-Main-Cup](https://www.mtb-rhein-main-cup.de/pages/rennen/18.09.2022-mainz.php).**
+
 ### Startgebühr
 
 * U07 - U15: 3 €
