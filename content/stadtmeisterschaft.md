@@ -57,7 +57,7 @@ MTB-Rennen im Wald:
 
 [![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/strecke-adamstal.jpg)](stadtmeisterschaft/strecke-adamstal.jpg)
 
-## 02 VIACTIV MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
+## 02 RIESE & MÜLLER MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
 am 18.09.2022  
 ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
