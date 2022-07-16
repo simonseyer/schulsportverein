@@ -53,7 +53,9 @@ MTB-Rennen im Wald:
 * U15: 6 Runden
 * U17: 7 Runden
 
-#### Übersichtsplan (Streckenverlauf wird noch angepasst)
+#### Übersichtsplan
+
+*Geringfügige Änderungen am Streckenverlauf sind am Renntag noch möglich.*
 
 [![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/strecke-adamstal.jpg)](stadtmeisterschaft/strecke-adamstal.jpg)
 
