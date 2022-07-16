@@ -35,7 +35,7 @@ Du bist nicht sicher, was du mit deiner Zeit nach der Schule anfangen sollst? Su
 
 ### Die Rahmenbedingungen:
 
-*   Du bist zwischen 16 und 27 Jahre alt.
+*   Du bist zwischen 17 und 27 Jahre alt.
 *   Das FSJ dauert 12 Monate (1\. September - 31\. August).
 *   Die Arbeitszeit ist mit <span>38,5 Stunden pro Woche angesetzt.
 *   Du bekommst 300 € im Monat.
