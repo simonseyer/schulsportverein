@@ -31,15 +31,6 @@ Für Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahr
 
 ---
 
-### Downhill & Tourenfahren
-Das Training für ambitionierte und geübte Fahrer ab 9 Jahren, hier muss man auch hochfahren, um herunterfahren zu können.
-
-**Mittwochs** 16:30 Uhr  
-**Treffpunkt:** IGS-Fahrradwerkstatt  
-**Trainer:** Jermaine Mitschka
-
----
-
 ### Anspruchsvolle Touren
 
 Das Training ist ab 13 bis 99 Jahre, solange man es schon/noch auf die Platte schafft.
