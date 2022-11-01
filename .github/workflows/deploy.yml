@@ -1,0 +1,10 @@
+name: Deploy to schulsportverein.de
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl https://www.schulsportverein.de/git-pull
