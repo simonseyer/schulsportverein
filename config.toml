@@ -9,7 +9,7 @@ theme = "schulsportverein"
       unsafe = true
 
 [params]
-	cdn = true
+	cdn = false
     partner = true
 	description = "Ein schulbezogener Breitensportverein mit dem Schwerpunkt Radsport. Ein Verein für alle, egal was jemand kann oder wo er her kommt."
     defaultHeader = "header/two.jpg"
