@@ -72,16 +72,11 @@ Eine Anmeldung ist erforderlich. Termine:
 
 Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und bei Henry Meinhardt unter [henry@tanzlaune.de](mailto:henry@tanzlaune.de) oder [0611 1370268](tel:+496111370268).  
 
-## Breitensport-AGs an den jeweiligen Schulen
+## Sport-AGs an der IGS-Kastellstraße
 
-<div class="warning cancelwarning">
-    Pausieren coronabedingt
-</div>
+**Tanz AG** für die Jahrgänge 5-7, dienstags, 14:15 - 15:15 Uhr, Keiko-Godawa, Bewegungsraum am Bistro  
 
-### IGS Kastellstraße
-**Fußball** für die Jahrgänge 5-7, montags, 12:30 - 14:00 Uhr, Felix Wimmer, Turnhalle  
+**Fußball AG** für die Jahrgänge 5-6, dienstags, 14:15 - 15:45 Uhr, Felix Wimmer, Sporthalle  
 
-**Orientierungslauf mit Fitness und Hindernisparcours** für alle Jahrgänge, dienstags, 14.15 - 15:15 Uhr, Simon Hess, Turnhalle der IGS-Kastellstraße _(für Schüler von anderen Schulen bei vorheriger Anmeldung)_  
-
-**Fahrradwerkstatt-Schrauber AG** für alle Jahrgänge, mittwochs, 13:00 - 14:00 Uhr, Olaf Splittgerber, Fahrradwerkstatt
+**Fahrrad AG** für alle Jahrgänge, freitags, 15:15 - 18:15 Uhr, Matthias Richter, Treffpunkt Fahrradwerkstatt  
 
