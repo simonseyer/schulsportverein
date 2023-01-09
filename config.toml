@@ -42,4 +42,4 @@ theme = "schulsportverein"
     name = "Satzung"
     weight = 50
     identifier = "satzung"
-    url = "/wsv-satzung-stand-2018.pdf"
+    url = "/wsv-satzung-stand-2022.pdf"
