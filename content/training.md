@@ -36,7 +36,7 @@ Für Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahr
 Das Training ist ab 13 bis 99 Jahre, solange man es schon/noch auf die Platte schafft.
 Der Schwerpunkt liegt auf nicht so langen (20-30 km), aber durchaus anspruchsvollen Touren mit ein paar Höhenmetern. Trails werden hier auch eingebaut, darauf liegt aber nicht der Schwerpunkt.
 
-**Donnerstags** 16:30 Uhr (im März), 17:00 Uhr (ab April)  
+**Mittwochs** 16:30 Uhr (im Februar und März), 17:00 Uhr (ab April)  
 **Treffpunkt** Parkplatz, IGS Kastellstraße  
 **Trainer:** Matthias Richter
 
