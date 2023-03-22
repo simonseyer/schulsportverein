@@ -7,25 +7,26 @@ menu:
         weight: 40
 ---
 
-# Termine 2022 <b><span class="small-header">[herunterladen](termine/WSV-Termine2022.pdf)</span></b>
+# Termine 2023 <b><span class="small-header">[herunterladen](termine/WSV-Termine2023.pdf)</span></b>
 
 Datum | Event
 --- | ---
-11.04. - 14.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-19.04. - 22.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Osterferienprojekt-2022.pdf)**
-29.04. - 01.05. | Downhill-Freizeit nach Winterberg: **[Ausschreibung (📄 PDF)](termine/WSV-Downhill-Freizeit-2022-Winterberg.pdf)**
-08.05. | Frühlingsradtour 2022 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-20.05. - 22.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2022-Frankfurt.pdf)**
-26.06. | Familienradtour
-01.07. - 03.07. | MTB-Freizeit für Geübte nach Sankt Goarshausen: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2022-Sankt-Goar.pdf)**
-17.07. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
-25.07. - 29.07. | <strike>Sommerferienprojekt Trendsportarten</strike> <span class="canceled">abgesagt</span>
-01.08. - 05.08. | <strike>MTB/Downhill-Sportcamp für Fortgeschrittene</strike> <span class="canceled">abgesagt</span>
-Vielleicht im August | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
-18.09. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
-18.09. | Tour de Taunus 2022 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-24.09. | Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe
-24.10. - 28.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
+03.04. - 06.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
+11.04. - 14.04. | Osterferien MTB-Projekt mit Jörg Pöse
+30.04. | Frühlingsradtour 2023 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
+12.05. - 14.05. | Freizeit für Fahrrad-Anfänger nach Kaub
+12.05. - 14.05. | <span class="tanz">Wiesbaden tanzt und der WSV ist dabei</span>
+11.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
+18.06. | Familienradtour
+02.07. | Grillfest im Klettergarten der IGS-Kastellstraße
+14.07. - 16.07. | MTB-Freizeit für Geübte in den Pfälzerwald
+15.07. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
+24.07. - 28.07. | Sommerferienprojekt Trendsportarten
+31.07. - 04.08. | MTB/Downhill-Sportcamp für Fortgeschrittene
+05.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
+19.08. – 26.08. | Alpentour 2023 – Downhill und mehr
+17.09. | Tour de Taunus 2023 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
+23.10. - 27.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 
 <style type="text/css">
 	thead {
