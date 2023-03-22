@@ -38,6 +38,15 @@ Ursache von Unfällen, Helmdemonstration, wichtige Verkehrsschilder mit Fahrradb
 
 Das Zusammenspiel von Theorie und Praxis: Die Praxis ist das natürlich das Herzstück des Fahrradtages, sie funktioniert aber nur mit der Theorie perfekt. Beispiel: Wenn die Kids von Ihren Unfällen erzählen und dabei herauskommt, dass einige Unfälle dabei waren, die durch falsches Bremsen verursacht werden, wirken die Leitsätze dazu besser (immer bremsbereit sein und nur mit funktionierenden Bremsen fahren) und zweitens nehmen sie auch die Bremsstation auf dem Schulhof ganz anders auf. Würden dann Informationen zur Fahrrad fehlen, würde das Fahrrad wirken wie ein unbekanntes Wesen. Doch um besser Fahrrad fahren zu können, muss man das Fahrrad auch besser verstehen.
 
+**Fahrrad fahren lernen:** Viele Schüler lernen während des Fahrradtages das Fahrradfahren. 
+Dazu haben wir seit 2013 einen FSJler bei den Fahrradtagen dabei.
+Unser Ziel ist es aber, dass die meisten Schüler es bereits in der zweiten Klasse können. 
+An der Blücherschule und Riederbergschule bieten wir dazu Angebote in der zweiten Klasse an.
+
+**Weiterer Service:** Wir wollen den Service für die Schulen und Lehrer weiter ausbauen (Parcoursmaterial bauen, Fortbildungen anbieten, Fahrradbeschaffungen durchführen), damit die Lehrkräfte vieles auch alleine erledigen können.
+
+**Fazit:** Unser Ziel ist es, möglichst an allen Grundschulen in Wiesbaden den Fahrradtag anbieten zu können. In der Innenstadt flächendeckend. 
+
 ## Geschicklichkeitsübungen mit dem Rad  
 
 Geschicklichkeitsübungen sollen mehrere Eigenschaften erfüllen:
