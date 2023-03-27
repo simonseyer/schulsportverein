@@ -14,7 +14,7 @@ menu:
 **Matthias Richter (Fachwart Radsport)**  
 Werderstraße 7  
 65195 Wiesbaden  
-Telefon: [0611 2405621](tel:+496112405621) oder [0175 3730753](tel:+491753730753)  
+Telefon: [0175 3730753](tel:+491753730753)  
 E-Mail: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)
 
 ## 2. Vorsitzender
@@ -22,7 +22,7 @@ E-Mail: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)
 **Oliver Gorgels (Fachwart Breitensport)**  
 Platter Straße 73  
 65193 Wiesbaden  
-Telefon:  [0171 5407677](tel:+491715407677)  
+Telefon: [0171 5407677](tel:+491715407677)  
 E-Mail: [phantasialand_fan@hotmail.com](mailto:phantasialand_fan@hotmail.com)
 
 ## Kassenwärtin
