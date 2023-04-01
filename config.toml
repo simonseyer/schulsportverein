@@ -2,6 +2,7 @@ languageCode = "de-de"
 baseurl = "https://schulsportverein.de/"
 title = "1. Wiesbadener Schulsportverein 1994 e.V."
 theme = "schulsportverein"
+cleanDestinationDir = true
 
 [markup]
   [markup.goldmark]
