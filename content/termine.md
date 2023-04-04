@@ -14,7 +14,7 @@ Datum | Event
 03.04. - 06.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 11.04. - 14.04. | Osterferien MTB-Projekt mit Jörg Pöse
 30.04. | Frühlingsradtour 2023 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-12.05. - 14.05. | Freizeit für Fahrrad-Anfänger nach Kaub
+12.05. - 14.05. | Freizeit für Fahrrad-Anfänger nach Kaub: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2023-Kaub.pdf)**
 12.05. - 14.05. | <span class="tanz">Wiesbaden tanzt und der WSV ist dabei</span>
 11.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 18.06. | Familienradtour
