@@ -54,7 +54,7 @@ E-Mail: [aherberger@makrolog.de](mailto:aherberger@makrolog.de)
 Philippsbergstraße 1  
 65195 Wiesbaden  
 Telefon: [01578 6117899](tel:+4915786117899)  
-E-Mail: [dennisedlervonhoessle@yahoo.de](mailto:dennisedlervonhoessle@yahoo.de)
+E-Mail: [dennisedlervonhoessle@gmx.de](mailto:dennisedlervonhoessle@gmx.de)
 
 
 ## 2. Jugendwart
