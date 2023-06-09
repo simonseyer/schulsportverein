@@ -42,6 +42,10 @@ Anwesenheitskontrolle am Start:
 ### Ansprechpartner
 Matthias Richter, erreichbar unter [0175/3730753](tel:+491753730753) oder [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com).
 
+### Übersichtsplan
+
+[![Lageplan Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Lageplan.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Lageplan.jpg)
+
 ### Strecke
 
 MTB-Rennen im Wald:
@@ -53,13 +57,9 @@ MTB-Rennen im Wald:
 * U15: 6 Runden
 * U17: 7 Runden
 
-#### Übersichtsplan
+[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)
 
 *Geringfügige Änderungen am Streckenverlauf sind am Renntag noch möglich.*
-
-[![Lageplan Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Lageplan.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Lageplan.jpg)
-
-[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)
 
 ## 02 RIESE & MÜLLER MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
