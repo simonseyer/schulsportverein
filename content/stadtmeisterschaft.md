@@ -57,7 +57,9 @@ MTB-Rennen im Wald:
 
 *Geringfügige Änderungen am Streckenverlauf sind am Renntag noch möglich.*
 
-[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/strecke-adamstal.jpg)](stadtmeisterschaft/strecke-adamstal.jpg)
+[![Lageplan Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Lageplan.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Lageplan.jpg)
+
+[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)
 
 ## 02 RIESE & MÜLLER MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
