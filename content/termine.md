@@ -20,7 +20,7 @@ Datum | Event
 11.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 18.06. | Familienradtour
 02.07. | Grillfest im Klettergarten der IGS-Kastellstraße
-14.07. - 16.07. | MTB-Freizeit für Geübte in den Pfälzerwald
+14.07. - 16.07. | MTB-Freizeit für Geübte in den Pfälzerwald: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2023-Neustadt.pdf)**
 15.07. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
 24.07. - 28.07. | Sommerferienprojekt Trendsportarten
 31.07. - 04.08. | MTB/Downhill-Sportcamp für Fortgeschrittene
