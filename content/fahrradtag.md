@@ -23,6 +23,8 @@ Zudem haben wir eine Vorlage für ein
 
 ## Zusammenfassung  
 
+**Der Fahrradtag findet in der Regel von 08:00 bis 12:30 Uhr auf dem Schulhof der jeweiligen Schule statt. Abweichungen/Änderungen des Ablaufs sind möglich.**
+
 Während des Tages werden Kenntnisse über Fahrradtechnik und Verkehrssicherheit vermittelt und ein Parcours durchgeführt.
 Mit dem Ziel: Den Kindern das Fahrrad vor der Verkehrserziehung im Jahrgang 4 näherzubringen, ihre Fahrtechnik zu verbessern und den Klassenlehrer zu einer Fahrradtour mit der Klasse zu ermuntern. Damit soll eine etwas „rundere“ Fahrradausbildung erfolgen und Spaß am Fahrradfahren vermittelt werden.
 
