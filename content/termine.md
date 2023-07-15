@@ -23,7 +23,7 @@ Datum | Event
 14.07. - 16.07. | MTB-Freizeit für Geübte in den Pfälzerwald: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2023-Neustadt.pdf)**
 15.07. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
 24.07. - 28.07. | Sommerferienprojekt Trendsportarten
-31.07. - 04.08. | MTB/Downhill-Sportcamp für Fortgeschrittene
+31.07. - 04.08. | MTB/Downhill-Sportcamp für Anfänger
 05.08. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
 19.08. – 26.08. | Alpentour 2023 – Downhill und mehr: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2023-Alpentour.pdf)**
 17.09. | Tour de Taunus 2023 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
