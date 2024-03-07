@@ -9,19 +9,9 @@ menu:
 
 # Schülerkorso – Aktionstag Wiesbadener Schüler bewegen was
 
-<div class="warning cancelwarning">
+Am Donnerstag 12. September 2024 ist es soweit. In unserer Landeshauptstadt wird sich der 3. Wiesbadener Schülerkorso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und des Stadtschulelternbeirats. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
 
-<h1>Auswirkungen der Corona-Pandemie</h1>
-
-<p>
-  Der Schülerkorso konnte am 25. Juni 2020 nicht wie geplant stattfinden. Ein neuer Termin wird gesucht.
-</p>
-
-</div>
-
-Am Donnerstag 25. Juni 2020 ist es soweit. In unserer Landeshauptstadt wird sich der 3. Wiesbadener Schülerkorso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und des Stadtschulelternbeirats. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
-
-Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen. Die Dezernenten Alexander Imholz und Andreas Kowol eröffnen die Veranstaltung und geben als Schirmherren das Startzeichen. Ein Bühnenprogramm und Wettbewerbe auf dem Dernschen Gelände werden die Veranstaltung abrunden.
+Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen.
 
 **Anfragen und Vorschläge bitte an [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com) mailen!**
 
@@ -90,9 +80,6 @@ Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen 
 
 ## Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
-* **Was gibt es auf dem Dern´schen Gelände als Programm?**  
-  Es gibt eine Bühne und einige Schülerbands spielen Live-Musik, desto weiteren eine Begrüßung der Dezernenten Alexander Imholz und Andreas Kowol.
-
 * **Wer führt eigentlich die Aufsicht und sorgt für die Sicherheit der radelnden Schülerinnen und Schüler?**  
   Das Orga-Team, unterstützt von langjährigen Rad-Korso-Profis, sorgt für ehrenamtliche Helfer bzw. bildet diese auch aus, die aus den Schulen kommen. Außerdem wird genügend Polizei vor Ort sein, die ebenfalls die radelnden Schülerinnen und Schüler begleiten. Aber auch die Lehrkräfte führen die Aufsicht über die Schülerinnen und Schüler ihrer Klasse/Gruppe, sind ihre Ansprechpartner und sorgen mit für einen ungestörten Ablauf.
 
@@ -135,5 +122,4 @@ Bei Fragen haben Sie folgende Möglichkeiten:
 
 Email: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)  
 Telefon: 0175 / 3730753 Matthias Richter (Gesamtleitung)  
-Telefon: 0611 / 1899322 Josef Liebhart (Leitung/Orga)  
 Telefon: 069 / 6664078 Werner Buthe (Leitung/Orga Korso)  

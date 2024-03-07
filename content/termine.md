@@ -25,7 +25,7 @@ Datum | Event
 15.07. - 19.07. | Sommerferienprojekt Trendsportarten
 Sommerferien | MTB-Sportcamp
 27.07. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
-12.09. | **SCHÜLERKORSO 2024**
+12.09. | [**SCHÜLERKORSO 2024**](korso.md)
 22.09. | Tour de Taunus 2024 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 14.10. - 18.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 02.11. | **30 Jahre Schulsportvereinsverein - Jahresabschluss-Jubiläumsfeier**
@@ -46,10 +46,12 @@ Sommerferien | MTB-Sportcamp
 
 	.tanz {
 		color: #0093eb;
+		font-weight: bold;
 	}
 
 	.race {
 		color: #57b563;
+		font-weight: bold;
 	}
 
 	.small-header {
