@@ -11,7 +11,7 @@ menu:
 
 Datum | Event
 --- | ---
-25.03. - 28.03. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
+25.03. - 28.03. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung: **[Ausschreibung (📄 PDF)](termine/Osterferien-2024.pdf)**
 08.04. - 12.04. | Osterferien MTB-Projekt mit Jörg Pöse
 28.04. | Frühlingsradtour 2024 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 24.05. - 26.05. | Freizeit für Fahrrad-Anfänger nach Darmstadt
