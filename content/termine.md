@@ -14,7 +14,7 @@ Datum | Event
 25.03. - 28.03. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
 02.04. - 05.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/Osterferien-2024.pdf)**
 28.04. | Frühlingsradtour 2024 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
-24.05. - 26.05. | Freizeit für Fahrrad-Anfänger nach Darmstadt
+24.05. - 26.05. | Freizeit für Fahrrad-Anfänger nach Darmstadt: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2024-Darmstadt.pdf)**
 08.06. | Beteiligung am Schulfest der Helene-Lange-Schule
 09.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 16.06. | Familienradtour
