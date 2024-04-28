@@ -9,19 +9,23 @@ menu:
 
 [![Plakat  Stadtmeisterschaft](stadtmeisterschaft/plakat_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
 
-# Stadtmeisterschaft 2023
+# Stadtmeisterschaft 2024
 
+<!--
 <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
     <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2023-Endergebnis.pdf">Endergebnis</a></b>
 </div>
+-->
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
+<!--
 <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
     <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2023-1.Lauf.pdf">Ergebnisse 1. Lauf</a></b>
 </div>
+-->
 
-am 11.06.2023  
+am 09.06.2024  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](https://www.schulsportverein.de)**
 
 ### Veranstaltungsort
@@ -41,7 +45,7 @@ Hofgut Adamstal, Adamstal 1, 65195 Wiesbaden
 
 ### Anmeldung
  
-Bitte **pro Teilnehmer** vorab das folgende Formular ausfüllen: **[Zum Anmeldeformular](https://forms.gle/SYXZq6EgECftNdrx5)**.
+Bitte **pro Teilnehmer** vorab das folgende Formular ausfüllen: **[Zum Anmeldeformular](https://forms.gle/uEKPBxiHC2fbfYRp9)**.
 
 Anwesenheitskontrolle am Start:   
 * U7, U9, U11 und U13: Von 13:00 Uhr bis 13:30 Uhr
@@ -71,11 +75,11 @@ MTB-Rennen im Wald:
 
 ## 02 RIESE & MÜLLER MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
-am 15.07.2023  
+am 06.07.2024  
 ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
 
 **Alle Infos auf der Seite des
-[MTB Rhein-Main-Cup](https://www.mtb-rhein-main-cup.de/pages/rennen/15.07.2023-mainz.php).**
+[MTB Rhein-Main-Cup](https://www.mtb-rhein-main-cup.de/pages/rennen/06.07.2024-mainz.php).**
 
 ### Veranstaltungsort
 Erich-Dombrowski-Straße 2, 55127 Mainz- Marienborn,  
@@ -83,11 +87,12 @@ vor dem Verlagsgebäude der Rhein-Main-Presse (VRM).
 
 ### Start
 
-* U07: 13:00 Uhr
-* U09: 13:20 Uhr
-* U11 Hobby/Lizenz: 14:15 Uhr
-* U13 Hobby/Lizenz: 14:50 Uhr
-* U15 Hobby/Lizenz und U17 Hobby: 15:40 Uhr
+* U07: 12:30 Uhr
+* U09: 12:45 Uhr
+* U11 Hobby/Lizenz: 13:40 Uhr
+* U13 Hobby/Lizenz: 14:15 Uhr
+* U15 + U17 Hobby/Lizenz: 15:00 Uhr
+* U17 Hobby/Lizenz weiblich: 15:50 Uhr
 
 ### Startgebühr
 
@@ -96,7 +101,7 @@ vor dem Verlagsgebäude der Rhein-Main-Presse (VRM).
 
 ### Anmeldung
 
-**[Link zur Anmeldung](https://my.raceresult.com/231880/registration)** (vermutlich keine Anmeldung vor Ort möglich)
+**[Link zur Anmeldung](https://my.raceresult.com/281149/registration)** (vermutlich keine Anmeldung vor Ort möglich)
 
 ### Ansprechpartner
 Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [t.hankeln@mrsv.de](mailto:t.hankeln@mrsv.de).
@@ -105,7 +110,7 @@ Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [t.hanke
 
 Mountainbike-Rennen auf einem ca. 2 km Rundkurs auf unbefestigten Feld- und Wiesenwegen. Ab U11 können leichte Hindernisse eingebaut werden. Die U7/U9- Rennen werden vom Veranstalter durch Helfer begleitet.
 
-Weitere Infos auf der Vereinshomepage, **[www.mrsv.de](https://www.mrsv.de)**, und der Seite des **[MTB Rhein-Main-Cup](https://www.mtb-rhein-main-cup.de/pages/rennen/15.07.2023-mainz.php)**.
+Weitere Infos auf der Vereinshomepage, **[www.mrsv.de](https://www.mrsv.de)**, und der Seite des **[MTB Rhein-Main-Cup](https://www.mtb-rhein-main-cup.de/pages/rennen/06.07.2024-mainz.php)**.
 
 ---
 
