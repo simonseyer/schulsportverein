@@ -11,20 +11,20 @@ menu:
 
 Am Donnerstag 12. September 2024 ist es soweit. In unserer Landeshauptstadt wird sich der 3. Wiesbadener Schülerkorso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und des Stadtschulelternbeirats. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
 
-Jetzt gilt es gemeinsam alle SchülerInnen, LehrerInnen, Eltern und HelferInnen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen.
+Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:innen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen.
 
 **Anfragen und Vorschläge bitte an [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com) mailen!**
 
 ## Worum geht es?
 
 * An diesem Tag darf Wiesbaden sein Potential als fahrradfreundlichste Stadt zeigen, denn …
-* … die Schülerinnen und Schüler können gemeinsam mit vielen anderen mit dem Fahrrad durch die Stadt fahren, begleitet und geschützt durch Polizei und Helfer.
-* Ein Erlebnis, das erfahrungsgemäß viel Spaß und Freude macht, aber auch pädagogisch wertvoll sein kann: es stärkt den Gemeinschaftssinn, schafft Selbstvertrauen, übt die Mobilität und Bewegungsfreude und fördert die Erkenntnis, dass Engagement sich lohnt.
+* … die Schülerinnen und Schüler können gemeinsam mit vielen anderen mit dem Fahrrad durch die Stadt fahren, begleitet und geschützt durch Lehrkräfte, Polizei und Helfer.
+* Ein Erlebnis, das erfahrungsgemäß viel Spaß und Freude macht, aber auch pädagogisch wertvoll ist: es stärkt den Gemeinschaftssinn, schafft Selbstvertrauen, übt die Mobilität und Bewegungsfreude und fördert die Erkenntnis, dass Engagement sich lohnt.
 * Auch für die begleitenden Lehrer und Eltern soll es ein entspannter Tag werden. Wir können kein Rundum-Sorglos-Paket bieten, aber eine durchdachte und sorgfältige Planung, die die Betreuung ihrer Schützlinge in jeder Hinsicht erleichtert.
 
 ## Mit Pauken und Trompeten in die Stadt
 
-* Wir wollen mit vier verschiedenen Zügen von den Schulen zum Dernschen Gelände fahren. Von dort aus gibt es einen Rundkurs durch die Stadt und nach einer Abschlussveranstaltung mit Musik werden alle wieder zu ihren Schulen zurückfahren.
+* Wir wollen mit vier verschiedenen Zügen von den Schulen zum Dernschen Gelände fahren. Von dort aus gibt es einen Rundkurs durch die Stadt und nach einer Abschlussveranstaltung werden alle wieder zu ihren Schulen zurückfahren.
 * Abfahrt an den Schulen je nach Lage zwischen 8:30 und 9:30 Uhr
 * Ankunft auf dem Dernschen Gelände etwa 10:00 Uhr, danach Begrüßung und Eröffnung der Veranstaltung.
 * Abfahrt zum Stadtrundkurs ab 10:30 Uhr, Dauer etwa eine Stunde.
