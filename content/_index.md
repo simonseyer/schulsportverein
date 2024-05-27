@@ -14,6 +14,12 @@ menu:
 
 <hr>
 
+<a href="https://www.netto-online.de/vereinsspende/1.-Wiesbadener-Schulsportverein-1994-e.V..vhtm?" target="_blank">
+	<img src="netto.jpg" alt="Bald gehts los, spende für unseren Verein!">
+</a>
+
+<hr>
+
 <video controls>
   <source src="verein/schulsportverein.mp4" type="video/mp4">
 </video>
