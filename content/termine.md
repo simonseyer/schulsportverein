@@ -28,7 +28,7 @@ Datum | Event
 12.09. | [**SCHÜLERKORSO 2024**](korso)
 22.09. | Tour de Taunus 2024 – jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 14.10. - 18.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-02.11. | **30 Jahre Schulsportvereinsverein – Jahresabschluss-Jubiläumsfeier**
+09.11. | **30 Jahre Schulsportvereinsverein – Jahresabschluss-Jubiläumsfeier**
 
 <style type="text/css">
 	thead {
