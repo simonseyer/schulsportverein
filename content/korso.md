@@ -94,7 +94,7 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
   Die Lehrkräfte vereinbaren mit ihren Klassen/Gruppen einen Treffpunkt auf dem Dern´schen Gelände. Da sie mit den Klassen/Gruppen zusammen radeln, werden sie aber sowieso miteinander in ständigem Kontakt stehen.
 
 * **Bis wann und in welcher Form benötigt das Orga-Team eine verbindliche Rückmeldung über die Teilnahme?**  
-  Um die Veranstaltung mit allem Drum und Dran planen zu können, benötigt das Orga-Team eine verbindliche Anmeldung Ihrer Schule **bis zum 9. Mai 2018**. Melden Sie die Anzahl der radelnden Schüler und der begleitenden Lehrkräfte und Helfer per mail an [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com).
+  Um die Veranstaltung mit allem Drum und Dran planen zu können, benötigt das Orga-Team eine verbindliche Anmeldung Ihrer Schule **bis zum 10.06.2024**. Melden Sie die Anzahl der radelnden Schüler und der begleitenden Lehrkräfte und Helfer per mail an [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com).
 
 * **Wer ist für die Verkehrssicherheit der Fahrräder verantwortlich?**  
  Grundsätzlich ist zunächst der Schüler und im Weiteren die Eltern für die Verkehrssicherheit verantwortlich, unabhängig von einer Veranstaltung. Eine zusätzliche Kontrolle seitens der Lehrkräften oder Veranstaltern ist, wie bei solchen Dingen üblich, nicht vorgesehen und kann auch nicht verlangt werden, aber es ist wünschenswert, dass alle teilnehmenden Erwachsenen einen prüfenden Blick auf die Räder der Schüler werfen und ggf. kritische Dinge anmahnen. Die Unfallkasse Hessen tritt für Schäden im gleichen Maße ein, wie sie dies auch auf dem „normalen“ Schulweg und bei anderen schulischen Veranstaltungen tut. Dies betrifft den Weg zur Veranstaltung hin und zurück, aber natürlich auch auf dieser selbst.
@@ -110,12 +110,6 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
   
 * **Können Leihfahrräder organisiert werden?**  
   Es gibt für Einzelfälle Leihfahrräder, bitte setzen Sie sich mit uns in Verbindung, wenn Sie da Hilfe benötigen.
-
-* **Wie und wann werden Helfer und Begleitpersonen auf ihre Aufgaben beim Schülerkorso informiert?**  
-  Lehrkräfte und Helfer\*innen können sich an folgenden Terminen durch das Orga-Team umfassend informieren lassen. Hier können auch alle offenen Fragen geklärt werden.
-  * 06.06.2018 um 19 Uhr in der IGS Kastellstraße in der Mensa.  
-  * 12.06.2018 von 19 bis 20 Uhr im Heimathafen.  
-  
 
 
 Bei Fragen haben Sie folgende Möglichkeiten:
