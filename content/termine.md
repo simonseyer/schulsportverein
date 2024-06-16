@@ -20,7 +20,7 @@ Datum | Event
 09.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
 23.06. | Radsport-Olympiade des Radsportbezirks Nassau (Hallenradsport meets MTB – Schulhof/Sporthalle der IGS Kastellstraße)
 29.06. | Grillfest im Klettergarten der IGS-Kastellstraße
-05.07. - 07.07. | MTB-Freizeit für Geübte ins Jammertal
+05.07. - 07.07. | MTB-Freizeit für Geübte ins Jammertal: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2024-Jammertal.pdf)**
 06.07. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz- Marienborn</span>
 15.07. - 19.07. | Sommerferienprojekt Trendsportarten
 27.07. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
