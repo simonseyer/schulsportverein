@@ -66,12 +66,6 @@ Eine Anmeldung ist erforderlich. Termine:
 
 ---
 
-## Tanzen mit Henry für Erwachsene
-
-**Sonntags** in der Mensa der IGS-Kastellstraße.
-
-Infos unter [www.tanzlaune.de](http://www.tanzlaune.de) und bei Henry Meinhardt unter [henry@tanzlaune.de](mailto:henry@tanzlaune.de) oder [0611 1370268](tel:+496111370268).  
-
 ## Sport-AGs an der IGS-Kastellstraße
 
 **Tanz AG** für die Jahrgänge 5-7, dienstags, 14:15 - 15:15 Uhr, Keiko-Godawa, Bewegungsraum am Bistro  

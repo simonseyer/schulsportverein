@@ -14,12 +14,6 @@ theme = "schulsportverein"
 	description = "Ein schulbezogener Breitensportverein mit dem Schwerpunkt Radsport. Ein Verein für alle, egal was jemand kann oder wo er her kommt."
     defaultHeader = "header/two.jpg"
 
-[[menu.main]]
-    name = "Tanzlaune"
-    weight = 20
-    identifier = "Tanzlaune"
-    url = "http://tanzlaune.de/"
-
 [[menu.secondary]]
     name = "➡ News auf Facebook"
     weight = -10
