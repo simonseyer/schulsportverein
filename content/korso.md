@@ -31,35 +31,35 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 * Abschlussveranstaltung von 12:00 bis 13:00 Uhr
 * Um 13:00 Uhr endet die Veranstaltung auf dem Dernschen Gelände. Danach werden organisierte Rückfahrten zu den Schulen angeboten.
 
-# Geplante Tour durch die Stadt
+## Geplante Tour durch die Stadt
 
 [![Routen-Karte](korso/strecke.png)](korso/strecke.png)
 
-# Sternenfahrten
+## Sternenfahrten
 
-## Zug 1
+### Zug 1
 
-### Elisabeth-Selbert-Schule bis Leibnitzschule
+#### Elisabeth-Selbert-Schule bis Leibnitzschule
 
 [![Sternfahrt Zug 1 von Elisabeth-Selbert-Schule](korso/Zug-1-Selbert.png)](korso/Zug-1-Selbert.png)
 
-### Leibnitzschule bis Dernsches Gelände
+#### Leibnitzschule bis Dernsches Gelände
 
 [![Sternfahrt Zug 1 von Leibnitzschule](korso/Zug-1-Leibnitzschule.png)](korso/Zug-1-Leibnitzschule.png)
 
-## Zug 2 ab Campus Klarenthal 
+### Zug 2 ab Campus Klarenthal 
 
 [![Sternfahrt Zug 2 ab Campus Klarenthal ](korso/Zug-2.png)](korso/Zug-2.png)
 
-## Zug 3 ab Gutenberg-Schule
+### Zug 3 ab Gutenberg-Schule
 
 [![Sternfahrt Zug 3 ab Gutenberg-Schule](korso/Zug-3.png)](korso/Zug-3.png)
 
-## Zug 4 ab IGS Kastellstraße
+### Zug 4 ab IGS Kastellstraße
 
 [![Sternfahrt Zug 4 ab IGS Kastellstraße](korso/Zug-4.png)](korso/Zug-4.png)
 
-## Zug 5 ab Kellerskopfschule Naurod
+### Zug 5 ab Kellerskopfschule Naurod
 
 [![Sternfahrt Zug 5 ab Kellerskopfschule Naurod](korso/Zug-5.png)](korso/Zug-5.png)
 
