@@ -31,52 +31,37 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 * Abschlussveranstaltung von 12:00 bis 13:00 Uhr
 * Um 13:00 Uhr endet die Veranstaltung auf dem Dernschen Gelände. Danach werden organisierte Rückfahrten zu den Schulen angeboten.
 
-## Sternenfahrten
-
-### Sternfahrt 22
-
-* IGS Kastellstraße
-
-[![Sternfahrt 22](korso/Sternkurs22-2020.png)](korso/Sternkurs22-2020.png)
-
-### Sternfahrt Zug 1
-
-* Joseph-von-Eichendorff-Schule
-* IGS Alexej von Jawlensky Schule
-* Gerhart-Hauptmann-Schule
-* Elly-Heuss-Schule
-
-[![Sternfahrt Zug 1](korso/Zug1-2020.png)](korso/Zug1-2020.png)
-
-### Sternfahrt Zug 2
-
-* Campus Klarenthal
-
-[![Sternfahrt Zug 2](korso/Zug2-2020.png)](korso/Zug2-2020.png)
-
-### Sternfahrt Zug 3
-
-* Gutenberschule Wiesbaden
-* Mittelstufenschule Dichterviertel
-* Werner-von-Siemens-Schule
-
-[![Sternfahrt Zug 3](korso/Zug3-2020.png)](korso/Zug3-2020.png)
-
-### Sternfahrt Zug 5
-
-* Kellerskopfschule-Realschule
-
-[![Sternfahrt Zug 5](korso/Zug5-2020.png)](korso/Zug5-2020.png)
-
-## Geplante Tour durch die Stadt
+# Geplante Tour durch die Stadt
 
 [![Routen-Karte](korso/strecke.png)](korso/strecke.png)
 
-## Interaktive Karte
+# Sternenfahrten
 
-*Vergrößern-Button rechts oben drücken, um die verschiedenen Routen zu sehen.*
+## Zug 1
 
-<iframe src="https://www.google.com/maps/d/embed?mid=19U47LB2tnBUA6cbrA3ZuZ5y-YuPHYmmS" width="640" height="480"></iframe>
+### Elisabeth-Selbert-Schule bis Leibnitzschule
+
+[![Sternfahrt Zug 1 von Elisabeth-Selbert-Schule](korso/Zug-1-Selbert.png)](korso/Zug-1-Selbert.png)
+
+### Leibnitzschule bis Dernsches Gelände
+
+[![Sternfahrt Zug 1 von Leibnitzschule](korso/Zug-1-Leibnitzschule.png)](korso/Zug-1-Leibnitzschule.png)
+
+## Zug 2 ab Campus Klarenthal 
+
+[![Sternfahrt Zug 2 ab Campus Klarenthal ](korso/Zug-2.png)](korso/Zug-2.png)
+
+## Zug 3 ab Gutenberg-Schule
+
+[![Sternfahrt Zug 3 ab Gutenberg-Schule](korso/Zug-3.png)](korso/Zug-3.png)
+
+## Zug 4 ab IGS Kastellstraße
+
+[![Sternfahrt Zug 4 ab IGS Kastellstraße](korso/Zug4.png)](korso/Zug4.png)
+
+### Zug 5 ab Kellerskopfschule Naurod
+
+[![Sternfahrt Zug 5 ab Kellerskopfschule Naurod](korso/Zug-5.png)](korso/Zug-5.png)
 
 ## Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
