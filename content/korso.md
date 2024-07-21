@@ -63,6 +63,10 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 [![Sternfahrt Zug 5 ab Kellerskopfschule Naurod](korso/Zug-5.png)](korso/Zug-5.png)
 
+## Interaktive Karte
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AettchkqN6XyJxXN_4lRnzG4mlFtCnk&ehbc=2E312F" width="640" height="480"></iframe>
+
 ## Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
 * **Wer führt eigentlich die Aufsicht und sorgt für die Sicherheit der radelnden Schülerinnen und Schüler?**  
