@@ -57,9 +57,9 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 ## Zug 4 ab IGS Kastellstraße
 
-[![Sternfahrt Zug 4 ab IGS Kastellstraße](korso/Zug4.png)](korso/Zug4.png)
+[![Sternfahrt Zug 4 ab IGS Kastellstraße](korso/Zug-4.png)](korso/Zug-4.png)
 
-### Zug 5 ab Kellerskopfschule Naurod
+## Zug 5 ab Kellerskopfschule Naurod
 
 [![Sternfahrt Zug 5 ab Kellerskopfschule Naurod](korso/Zug-5.png)](korso/Zug-5.png)
 
