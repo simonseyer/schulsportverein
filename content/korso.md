@@ -105,4 +105,4 @@ Bei Fragen haben Sie folgende Möglichkeiten:
 
 Email: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)  
 Telefon: 0175 / 3730753 Matthias Richter (Gesamtleitung)  
-Telefon: 069 / 6664078 Werner Buthe (Leitung/Orga Korso)  
+Telefon: 0177 / 6664078 Werner Buthe (Leitung/Orga Korso)  
