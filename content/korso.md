@@ -39,13 +39,13 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 ### Zug 1
 
-#### Elisabeth-Selbert-Schule bis Leibnitzschule
+#### Elisabeth-Selbert-Schule bis Leibnizschule
 
 [![Sternfahrt Zug 1 von Elisabeth-Selbert-Schule](korso/Zug-1-Selbert.png)](korso/Zug-1-Selbert.png)
 
-#### Leibnitzschule bis Dernsches Gelände
+#### Leibnizschule bis Dernsches Gelände
 
-[![Sternfahrt Zug 1 von Leibnitzschule](korso/Zug-1-Leibnitzschule.png)](korso/Zug-1-Leibnitzschule.png)
+[![Sternfahrt Zug 1 von Leibnizschule](korso/Zug-1-Leibnizschule.png)](korso/Zug-1-Leibnizschule.png)
 
 ### Zug 2 ab Campus Klarenthal 
 
