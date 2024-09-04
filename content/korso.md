@@ -28,7 +28,7 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 * Abfahrt an den Schulen je nach Lage zwischen 8:30 und 9:30 Uhr
 * Ankunft auf dem Dernschen Gelände etwa 10:00 Uhr, danach Begrüßung und Eröffnung der Veranstaltung.
 * Abfahrt zum Stadtrundkurs gegen 10:30 Uhr, Dauer etwa 1,5 Stunde.
-* Abschluss auf dem Dernschen Gelände zwischen 12:00 bis 13:00 Uhr mit einer kleinen Ehrung und Verteilung von Getränken.
+* Abschluss auf dem Dernschen Gelände zwischen 12:00 bis 13:00 Uhr mit einer kleinen Ehrung.
 * Kurz vor 13:00 Uhr endet die Veranstaltung auf dem Dernschen Gelände. Danach werden organisierte Rückfahrten zu den Schulen angeboten.
 
 ## Geplante Tour durch die Stadt
