@@ -37,36 +37,36 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 ## Sternenfahrten
 
-### Zug 1 Elisabeth-Selbert-Schule bis Leibnizschule (**8:20 Uhr**)
+### Zug 1 Elisabeth-Selbert-Schule bis Leibnizschule (Abfahrt **8:20 Uhr**)
 
 * **9:15 Uhr** Treffpunkt mit Schülern vom Campus Klarenthal in der Leibnizschule auf Schulgelände Ausgang Eckernförderstraße
 
 [![Sternfahrt Zug 1 von Elisabeth-Selbert-Schule](korso/Zug-1-Selbert.png)](korso/Zug-1-Selbert.png)
 
-### Zug 1 Leibnizschule bis Dernsches Gelände (**9:20 Uhr**)
+### Zug 1 Leibnizschule bis Dernsches Gelände (Abfahrt **9:20 Uhr**)
 
 [![Sternfahrt Zug 1 von Leibnizschule](korso/Zug-1-Leibnizschule.png)](korso/Zug-1-Leibnizschule.png)
 
-### Zug 2 ab Campus Klarenthal (**9:00 Uhr**)
+### Zug 2 ab Campus Klarenthal (Abfahrt **9:00 Uhr**)
 * Freie-Christliche-Schule: Fahrt zum Campus Klarenthal in eigener Verantwortung  
 * **9:15 Uhr** Treffpunkt mit Schülern der Elise-Selbert-Schule in der Leibnizschule auf Schulgelände Ausgang Eckernförderstraße
 
 [![Sternfahrt Zug 2 ab Campus Klarenthal ](korso/Zug-2.png)](korso/Zug-2.png)
 
-### Zug 3 ab Gutenberg-Schule (**9:20 Uhr**)
+### Zug 3 ab Gutenberg-Schule Abfahrt (Abfahrt **9:20 Uhr**)
 * **9:40 Uhr** Treffpunkt mit Schülern der Hebbelschule (Schulrückseite in der W-v-Eschenbach-Straße)
 
 [![Sternfahrt Zug 3 ab Gutenberg-Schule](korso/Zug-3.png)](korso/Zug-3.png)
 
-### Zug 4 ab IGS Kastellstraße (**9:15 Uhr**)
+### Zug 4 ab IGS Kastellstraße (Abfahrt **9:15 Uhr**)
 
 [![Sternfahrt Zug 4 ab IGS Kastellstraße](korso/Zug-4.png)](korso/Zug-4.png)
 
-### Zug 5 ab Kellerskopfschule Naurod (**8:50 Uhr**)
+### Zug 5 ab Kellerskopfschule Naurod (Abfahrt **8:50 Uhr**)
 
 [![Sternfahrt Zug 5 ab Kellerskopfschule Naurod](korso/Zug-5.png)](korso/Zug-5.png)
 
-### Zug 6 ab Fliednerschule (**9:15 Uhr**)
+### Zug 6 ab Fliednerschule (Abfahrt **9:15 Uhr**)
 
 [![Zug 6 ab Fliednerschule](korso/Zug-6.png)](korso/Zug-6.png)
 
