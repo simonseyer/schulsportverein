@@ -39,7 +39,7 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 ### Zug 1 Elisabeth-Selbert-Schule bis Leibnizschule (Abfahrt **8:20 Uhr**)
 
-* **9:15 Uhr** Treffpunkt mit Schülern vom Campus Klarenthal in der Leibnizschule auf Schulgelände Ausgang Eckernförderstraße
+* **9:20 Uhr** Treffpunkt mit Schülern vom Campus Klarenthal in der Leibnizschule auf Schulgelände Ausgang Eckernförderstraße
 
 [![Sternfahrt Zug 1 von Elisabeth-Selbert-Schule](korso/Zug-1-Selbert.png)](korso/Zug-1-Selbert.png)
 
@@ -49,7 +49,7 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 ### Zug 2 ab Campus Klarenthal (Abfahrt **9:00 Uhr**)
 * Freie-Christliche-Schule: Fahrt zum Campus Klarenthal in eigener Verantwortung  
-* **9:15 Uhr** Treffpunkt mit Schülern der Elise-Selbert-Schule in der Leibnizschule auf Schulgelände Ausgang Eckernförderstraße
+* **9:20 Uhr** Treffpunkt mit Schülern der Elise-Selbert-Schule in der Leibnizschule auf Schulgelände Ausgang Eckernförderstraße
 
 [![Sternfahrt Zug 2 ab Campus Klarenthal ](korso/Zug-2.png)](korso/Zug-2.png)
 
