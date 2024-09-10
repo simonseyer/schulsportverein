@@ -58,7 +58,7 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 [![Sternfahrt Zug 3 ab Gutenberg-Schule](korso/Zug-3.png)](korso/Zug-3.png)
 
-### Zug 4 ab IGS Kastellstraße (Abfahrt **9:15 Uhr**)
+### Zug 4 ab IGS Kastellstraße (Abfahrt **9:15 Uhr** auf **neuem** Streckenverlauf)
 
 [![Sternfahrt Zug 4 ab IGS Kastellstraße](korso/Zug-4.png)](korso/Zug-4.png)
 
