@@ -9,7 +9,7 @@ menu:
 
 # Schülerkorso – Aktionstag Wiesbadener Schüler bewegen was
 
-Am Donnerstag 12. September 2024 ist es soweit. In unserer Landeshauptstadt wird sich der 3. Wiesbadener Schülerkorso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden, der Verkehrswende und des Stadtschulelternbeirats. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
+Am Donnerstag 12. September 2024 ist es soweit. In unserer Landeshauptstadt wird sich der 3. Wiesbadener Schülerkorso vom Rathaus aus durch die Innenstadt schlängeln, eine gemeinsame Veranstaltung von Schulsportverein, der Stadt Wiesbaden und der Verkehrswende. Von etwa 80.000 SchülerInnen in Wiesbaden wären etwa die Hälfte im richtigen Alter, um an dieser besonderen Veranstaltung teilzunehmen. 
 
 Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:innen zu mobilisieren, um aus diesem Korso ein beeindruckendes und unvergesslichen Ereignis werden zu lassen.
 
@@ -98,11 +98,8 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 * **Können auch Schulen, die nicht auf den vorgeschlagenen Routen verzeichnet sind, an diesem Fahrradtag teilnehmen?**  
   Ja! Wir haben in unserer ersten Planung die Schulen, die zu weit weg liegen und denen die Tour in die Stadt vielleicht zu lang wird, nicht eingezeichnet. Wir sind aber gerne bereit, für jede Klasse oder für jede Schule, die teilnehmen möchte, gemeinsam nach Möglichkeiten des Mitmachens zu suchen.
 
-* **Können Grundschulen aus den höhergelegenen bzw. weiter entfernten Außenbezirken (z.B. Dotzheim-Kohlheck, Nordenstadt oder Delkenheim) mit dem Bus abgeholt bzw zurückgebracht werden?**  
-  ESWE-Verkehr ist angefragt, sobald eine verbindliche Zusage vorliegt, wird es auf dieser Web-Seite kommuniziert.
-
-* **Was können Klassen machen, welche sich beteiligen wollen, aber einige Schülerinnen und Schüler nicht über ein Fahrrad verfügen?**  
-  Da der Aktionstag, wie erwähnt, ein Schulwandertag ist, gilt folgende Regelung: Wenn ein Teil der Klasse/ des Jahrgangs nicht mitradeln kann, wird eine Orgaform gefunden, dass diese auf eine andere Art am Wandertag teilnehmen, z.B. zu Fuß oder mit dem Bus zum Dern´schen Gelände.  
+* **Können bei Grundschulen aus den höhergelegenen bzw. weiter entfernten Außenbezirken (z.B. Dotzheim-Kohlheck, Nordenstadt oder Delkenheim) die Fahrräder transportiert werden?**  
+  Ja, das ist in Ausnahmenfällen möglich. Bei Interesse bitte melden.
   
 * **Können Leihfahrräder organisiert werden?**  
   Es gibt für Einzelfälle Leihfahrräder, bitte setzen Sie sich mit uns in Verbindung, wenn Sie da Hilfe benötigen.
