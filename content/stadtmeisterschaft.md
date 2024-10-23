@@ -72,7 +72,7 @@ MTB-Rennen im Wald:
 ## 02 RIESE & MÜLLER MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
 <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-    <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2024-Endergebnis.pdf">Ergebnisse 2. Lauf</a></b>
+    <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2024-2.Lauf.pdf">Ergebnisse 2. Lauf</a></b>
 </div>
 
 am 06.07.2024  
