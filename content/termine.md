@@ -13,7 +13,7 @@ Datum | Event
 --- | ---
 07.04. - 11.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/Osterferien-2025.pdf)**
 14.04. - 17.04. | Osterferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
-02.05. - 04.05. | Freizeit für Fahrrad-Anfänger nach Bad Kreuznach
+02.05. - 04.05. | Freizeit für Fahrrad-Anfänger nach Bad Kreuznach:  **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2025-Bad-Kreuznach.pdf)**
 18.05. | Fühlingsradtour 2025 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 24.05. | Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe
 15.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
@@ -22,6 +22,7 @@ Datum | Event
 26.07. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
 23.08. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
 23.08. | Grillfest im Klettergarten der IGS-Kastellstraße
+29.08. - 30.08. | <span class="tanz">Wiesbaden tanzt und wir sind dabei.</span>
 04.09. | **SCHÜLERKORSO 2025**
 21.09. | Tour de Taunus 2025 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 28.09. | Radsport-Olympiade des Radsportbezirks Nassau (Hallenradsport meets MTB - Schulhof/Sporthalle der IGS Kastellstraße)
