@@ -23,7 +23,6 @@ Datum | Event
 23.08. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
 23.08. | Grillfest im Klettergarten der IGS-Kastellstraße
 29.08. - 30.08. | <span class="tanz">Wiesbaden tanzt und wir sind dabei.</span>
-04.09. | **SCHÜLERKORSO 2025**
 21.09. | Tour de Taunus 2025 - jedes Jahr anders, Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 28.09. | Radsport-Olympiade des Radsportbezirks Nassau (Hallenradsport meets MTB - Schulhof/Sporthalle der IGS Kastellstraße)
 06.10. - 10.10. | Herbstferienprojekt: Fahrradfahren für Anfänger mit Verkehrserziehung
