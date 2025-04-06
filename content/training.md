@@ -25,9 +25,7 @@ Für Grundschüler und absolute Anfänger, 6-10 Jahre.
 ### Downhilltraining
 Für Techniker und Downhiller ab 10 Jahren, hier geht es um Sprünge, Bergabfahren und Techniktraining.
 
-**Dienstags** 16:30 Uhr  
-**Treffpunkt:** IGS-Fahrradwerkstatt  
-**Trainer:** Dennis von Hößle
+*Pausiert aktuell, ist aber mittelfristig wieder geplant.*
 
 ---
 
@@ -52,7 +50,7 @@ Das Training für die Jüngeren (ab ca. 8 Jahre).
 ---
 
 ### Tourenfahren
-Ähnlich wie Donnerstag, aber etwas weniger leistungsbezogen, dafür eher etwas längere Strecken von ca. 30-40 km. Es sollen auch etwas weniger bekannte Orte angesteuert werden. 
+Ähnlich wie Mittwoch, aber etwas weniger leistungsbezogen, dafür eher etwas längere Strecken von ca. 30-40 km. Es sollen auch etwas weniger bekannte Orte angesteuert werden. 
 
 **Samstags** alle zwei Wochen, 14:15 Uhr  
 **Treffpunkt:** Parkplatz, IGS Kastellstraße  
@@ -68,9 +66,7 @@ Eine Anmeldung ist erforderlich. Termine:
 
 ## Sport-AGs an der IGS-Kastellstraße
 
-**Tanz AG** für die Jahrgänge 5-7, dienstags, 14:15 - 15:15 Uhr, Keiko-Godawa, Bewegungsraum am Bistro  
+**Fußball AG** für die Jahrgänge 5-6, dienstags, 14:15 - 15:45 Uhr, Mojahed "Mo" Arnaout, Sporthalle  
 
-**Fußball AG** für die Jahrgänge 5-6, dienstags, 14:15 - 15:45 Uhr, Felix Wimmer, Sporthalle  
-
-**Fahrrad AG** für alle Jahrgänge, freitags, 15:15 - 18:15 Uhr, Matthias Richter, Treffpunkt Fahrradwerkstatt  
+**Fahrrad AG** für alle Jahrgänge, freitags, 15:30 - 18:15 Uhr, Matthias Richter, Treffpunkt Fahrradwerkstatt  
 
