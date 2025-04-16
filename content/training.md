@@ -67,6 +67,3 @@ Eine Anmeldung ist erforderlich. Termine:
 ## Sport-AGs an der IGS-Kastellstraße
 
 **Fußball AG** für die Jahrgänge 5-6, dienstags, 14:15 - 15:45 Uhr, Mojahed "Mo" Arnaout, Sporthalle  
-
-**Fahrrad AG** für alle Jahrgänge, freitags, 15:30 - 18:15 Uhr, Matthias Richter, Treffpunkt Fahrradwerkstatt  
-
