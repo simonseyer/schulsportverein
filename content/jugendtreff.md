@@ -23,11 +23,9 @@ Kommen können alle Kinder, Jugendliche und alle Junggebliebenen. Natürlich sin
 
 ## Essen
 
-Damit wir beim Einkauf des Essens besser planen können, müssen sich alle die Essen wollen, auf der folgenden Website eintragen (Registrierung nicht notwendig):  
+Damit wir beim Einkauf des Essens besser planen können, müssen sich alle die Essen wollen, vorher anmelden. Das geschieht per WhatsApp.
 
-http://www.doodle.com/9xfbip4kepypakyu 
-
-Einfach den Namen in die Liste eintragen und den Haken beim entsprechenden Tag setzen.
+Bitte eine WhatsApp an [0175-3730753](https://wa.me/491753730753) senden, dann werdet ihr in die Gruppe aufgenommen.
 
 ## Aufsicht während dem Jugendtreff
 
