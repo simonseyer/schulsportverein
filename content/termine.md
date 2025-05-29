@@ -17,7 +17,7 @@ Datum | Event
 18.05. | Fühlingsradtour 2025 (die traditionelle Dieztour), Treffpunkt um 9:30 Uhr auf dem Dürerplatz!
 24.05. | Beteiligung an der Nepalprojekt-Fahrradrallye der Helene-Lange-Schule mit Pannenhilfe
 15.06. | <span class="race">WSV-Stadtmeisterschaftsrennen auf dem Hofgut Adamstal</span>
-27.06. - 29.06. | MTB-Freizeit fur Geübte nach Kaub
+27.06. - 29.06. | MTB-Freizeit fur Geübte nach Kaub: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2025-Kaub.pdf)**
 07.07. - 11.07. | Sommerferienprojekt Trendsportarten
 26.07. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
 23.08. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Marienborn</span>
