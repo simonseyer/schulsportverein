@@ -17,9 +17,9 @@ menu:
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
-<!-- <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
     <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2025-1.Lauf.pdf">Ergebnisse 1. Lauf</a></b>
-</div> -->
+</div>
 
 am 15.06.2025  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](https://www.schulsportverein.de)**
