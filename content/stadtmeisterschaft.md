@@ -11,9 +11,9 @@ menu:
 
 # Stadtmeisterschaft 2025
 
-<!-- <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
     <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2025-Endergebnis.pdf">Endergebnis</a></b>
-</div> -->
+</div>
 
 ## 01 MTB-Rennen auf dem Hofgut Adamstal
 
@@ -73,9 +73,9 @@ MTB-Rennen im Wald:
 
 ## 02 RIESE & MÜLLER MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
 
-<!-- <div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-    <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2025-2.Lauf.pdf">Ergebnisse 2. Lauf</a></b>
-</div> -->
+<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
+    <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2025-Endergebnis.pdf">Ergebnisse 2. Lauf</a></b>
+</div>
 
 am 23.08.2025  
 ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
