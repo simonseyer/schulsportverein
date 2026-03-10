@@ -16,7 +16,7 @@ Datum | Event
 19.06. - 21.06. | MTB-Freizeit für Geübte in den Odenwald
 29.06. - 03.07. | Sommerferienprojekt „Kleine Fahrradtouren für Anfänger"
 25.07. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
-15.08. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Mainz-Dexheim</span>
+15.08. | <span class="race">Stadtmeisterschaftsrennen des Mainzer Radsportverein in Dexheim</span>
 22.08. | Grillfest im Klettergarten der IGS-Kastellstraße
 23.08. | Drachenbootfahren mit dem Radsportbezirk Nassau
 August 2026 | <span class="tanz">Wiesbaden tanzt und wir sind dabei</span>
