@@ -12,7 +12,7 @@ menu:
 Datum | Event
 --- | ---
 07.04. - 10.04. | Osterferien MTB-Projekt mit Jörg Pöse: **[Ausschreibung (📄 PDF)](termine/WSV-Osterferienprojekt-MTB-2026.pdf)**
-08.05. - 10.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt
+08.05. - 10.05. | Freizeit für Fahrrad-Anfänger nach Frankfurt: **[Ausschreibung (📄 PDF)](termine/WSV-Freizeit-2026-Frankfurt.pdf)**
 19.06. - 21.06. | MTB-Freizeit für Geübte in den Odenwald
 29.06. - 03.07. | Sommerferienprojekt „Kleine Fahrradtouren für Anfänger"
 25.07. | Veranstalter der Familien-Radtour nach Rüdesheim (mit dem Schiff zurück) und des Verpflegungsstandes im Rahmen der Inline-Skate-Tour nach Rüdesheim
