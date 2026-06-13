@@ -9,19 +9,48 @@ menu:
 
 [![Plakat  Stadtmeisterschaft](stadtmeisterschaft/plakat_640.png)](stadtmeisterschaft/Stadtmeisterschaft-Plakat.pdf)
 
-# Stadtmeisterschaft 2025
+# Stadtmeisterschaft 2026
 
-<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-    <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2025-Endergebnis.pdf">Endergebnis</a></b>
-</div>
+Auch 2026 findet wieder die Stadtmeisterschaft für Kinder und Jugendliche auf dem MTB statt. Die Stadtmeisterschaft soll Lust auf den Radsport machen und einen leichten Einstieg in das Renngeschehen ermöglichen.
 
-## 01 MTB-Rennen auf dem Hofgut Adamstal
+Die 22. Offene Stadtmeisterschaft Wiesbaden/Mainz besteht aus zwei Rennen. Wer am Ende der Rennserie die meisten Punkte erfahren hat, ist Stadtmeister. Voraussetzung dabei ist, dass an beiden Rennen teilgenommen wurde.
 
-<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-    <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2025-1.Lauf.pdf">Ergebnisse 1. Lauf</a></b>
-</div>
+Also, auf geht's, Mädchen und Jungs, macht alle mit!
 
-am 15.06.2025  
+## 01 RIESE & MÜLLER MTB-Rhein Main Cup Rennen Mainz
+
+am 15.08.2026  
+ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
+
+### Veranstaltungsort
+Weingut Weyell / Kultur auf dem Hof  
+55278 Dexheim  
+
+*Zufahrt ausschließlich über die Bahnhofstraße – Beschilderung innerorts „Sportplatz / P Kultur auf dem Hof“ folgen.*
+
+### Startgebühr
+
+* U07 - U11: 5€
+* U13 - U17: 7€
+
+### Anmeldung
+
+**[MTB Rhein-Main-Cup](https://my.raceresult.com/385790/registration)**
+
+### Ansprechpartner
+Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [t.hankeln@mrsv.de](mailto:t.hankeln@mrsv.de).
+
+### Strecke
+
+Mountainbike-Rennen auf einem ca. 1,5 km Rundkurs auf unbefestigten Feld- und Wiesenwegen.
+
+Ab U11 können leichte Hindernisse eingebaut werden. Die U7/U9-Rennen werden vom Veranstalter durch Helfer begleitet.
+
+Weitere Infos auf der Vereinshomepage, **[mrsv.de](https://www.mrsv.de/mtb_rhein_main_cup)**, und der Seite des **[mtb-rhein-main-cup.de](https://www.mtb-rhein-main-cup.de/pages/rennen/15.08.2026-dexheim.php)**.
+
+## 02 MTB-Rennen auf dem Hofgut Adamstal
+
+am 06.09.2026  
 ausgerichtet vom **[1. Wiesbadener Schulsportverein 1994 e.V](https://www.schulsportverein.de)**
 
 ### Veranstaltungsort
@@ -38,12 +67,12 @@ Adamstal 1
 * U15: ca. 15:00 Uhr
 * U17: ca. 15:30 Uhr (bei wenigen Teilnehmern Start mit U15)  
 
-### Startgebühr
+### Startgebühr
 5€ (am Start zu entrichten, wenn möglich passend)  
 
 ### Anmeldung
  
-Bitte **pro Teilnehmer** vorab das folgende Formular ausfüllen: **[Zum Anmeldeformular](https://forms.gle/eJLKnprAxTGNoFMr7)**.
+Bitte **pro Teilnehmer** vorab das folgende Formular ausfüllen: **[Zum Anmeldeformular](https://forms.gle/beaUXpCRVFeuyG1D7)**.
 
 Anwesenheitskontrolle am Start:   
 * U7, U9, U11 und U13: Von 13:00 Uhr bis 13:30 Uhr
@@ -70,53 +99,6 @@ MTB-Rennen im Wald:
 [![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)
 
 *Geringfügige Änderungen am Streckenverlauf sind am Renntag noch möglich.*
-
-## 02 RIESE & MÜLLER MTB-Rhein Main Cup, Rennen Mainz powered by Fahrrad XXL Franz
-
-<div style="box-shadow: 1px 1px 6px 0px rgba(173, 173, 173, 0.6); text-align: center; margin: 30px 0;">
-    <b><a style="display: block; padding: 10px;" href="stadtmeisterschaft/SM-2025-Endergebnis.pdf">Ergebnisse 2. Lauf</a></b>
-</div>
-
-am 23.08.2025  
-ausgerichtet vom **[Mainzer Radsportverein 1889 e.V.](https://www.mrsv.de)**
-
-### Veranstaltungsort
-Erich-Dombrowski-Straße 2  
-55127 Mainz-Marienborn  
-vor dem Verlagsgebäude der Rhein-Main-Presse (VRM)
-
-Parkplätze sind in ausreichender Anzahl vorhanden.
-
-### Start
-
-* U07: tba
-* U09: tba
-* U11 Hobby/Lizenz: tba
-* U13 Hobby/Lizenz: tba
-* U15 + U17 Hobby/Lizenz: tba
-* U17 Hobby/Lizenz weiblich: tba
-
-Die Siegerehrungen der Kategorien U07 - U15 finden zwischen den Rennen für die fünf Erstplatzierten der jeweiligen Klassen statt.
-
-### Startgebühr
-
-* U07 - U11: 5€
-* U13 - U17: 7€
-
-### Anmeldung
-
-**[Link zur Anmeldung](https://my.raceresult.com/331322/registration)** (vermutlich keine Anmeldung vor Ort möglich)
-
-### Ansprechpartner
-Thomas Hankeln, erreichbar unter [0171/4932103](tel:+491714932103) oder [t.hankeln@mrsv.de](mailto:t.hankeln@mrsv.de).
-
-### Strecke
-
-Mountainbike-Rennen auf einem ca. 2 km Rundkurs auf unbefestigten Feld- und Wiesenwegen.
-
-Ab U11 können leichte Hindernisse eingebaut werden. Die U7/U9-Rennen werden vom Veranstalter durch Helfer begleitet.
-
-Weitere Infos auf der Vereinshomepage, **[mrsv.de](https://www.mrsv.de/mtb_rhein_main_cup)**, und der Seite des **[mtb-rhein-main-cup.de](https://www.mtb-rhein-main-cup.de/pages/rennen/23.08.2025-mainz.php)**.
 
 ---
 
