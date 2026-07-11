@@ -22,11 +22,11 @@ Du bist nicht sicher, was du mit deiner Zeit nach der Schule anfangen sollst? Su
 *   **Unterstützung bei den Fahrradtagen an Wiesbadener Grundschulen**  
     Du vermittelst Grundschulkindern die Grundlagen des Fahrrad-Fahrens. Dabei stehen die Theorie und das sichere Fahren im Vordergrund. Du wirst dich an den schnellen Fortschritten der Kinder begeistern und lebendige Stunden mit ihnen verbringen können. [Weitere Informationen zum Fahrradtag](fahrradtag).
 
-*   **Leitung und Betreuung von AGs und anderen Sportangeboten**  
-    Bei diesem Angebot stehen deine eigenen Fähigkeiten und Interessen im Vordergrund. Du wirst an verschiedenen Schulen Sportangebote für Schüler anbieten. 
+*   **Betreuung von AGs und anderen Sportangeboten**  
+    Du wirst an verschiedenen Schulen Fahrrad AGs für Schüler unterstützen. Des Weiteren bist du bei unserem Jugendtreff dabei, wo es aber nicht ums Fahrrad fahren geht, sondern ums Kochen, Dart, Kicker und Sport in der Sporthalle. Du bist auch bei unseren Ferienprojekten dabei, hier dreht sich auch nicht alles um den Radsport, aber er spielt natürlich auch eine Rolle.
     
-*   **Einsatz im Kindergarten**  
-    Im Winter wirst du einige Zeit in einem Kindergarten eingesetzt und du lernst somit während dem FSJ-Jahr alle Altersklassen einer Kinder- und Jugendarbeit kennen.  
+*   **Einsatz im Kindergarten oder Sportunterricht**  
+    Im Winter wirst du einige Zeit in einem Kindergarten eingesetzt oder im Sportunterricht der IGS-Kastellstraße. Das entscheiden wir mit dir zusammen.
 
 *   **Projektarbeit**  
     Es gibt vielfältige Arbeiten, die in einem Verein erledigt werden müssen. Zum Beispiel untersucht der Schulsportverein die Wiesbadener Straßen auf Fahrrad-Tauglichkeit und will so Schulkindern bzw. deren Eltern die Möglichkeit an die Hand geben, sich einge geeignete Route zusammen zu stellen ([Schleichwege-Projekt](schleichwege)). Bei dieser Arbeit wird immer Unterstützung benötigt.
@@ -42,7 +42,7 @@ Du bist nicht sicher, was du mit deiner Zeit nach der Schule anfangen sollst? Su
 *   Du bist zwischen 17 und 27 Jahre alt.
 *   Das FSJ dauert 12 Monate (1\. September - 31\. August).
 *   Die Arbeitszeit ist mit <span>38,5 Stunden pro Woche angesetzt.
-*   Du bekommst 300 € im Monat.
+*   Du bekommst 350 € im Monat.
 *   Sozialversicherungsbeiträge sowie Haftpflichtversicherung und Unfallversicherung werden übernommen.
 *   Du hast 26 Tage Urlaub und 25 Tage Bildungsurlaub.</span>
 *   Das Kindergeld (und evtl. eine Waisenrente) werden weiter bezahlt.
