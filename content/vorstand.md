@@ -9,21 +9,21 @@ menu:
 
 # Kontaktdaten des erweiterten Vorstandes
 
-## 1. Vorsitzender
+## 1. Vorsitzender und Fachwart Radsport
 
-**Matthias Richter (Fachwart Radsport)**  
+**Matthias Richter**  
 Werderstraße 7  
 65195 Wiesbaden  
 Telefon: [0175 3730753](tel:+491753730753)  
 E-Mail: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)
 
-## 2. Vorsitzender
+## 2. Vorsitzender und Fachwart Freizeitsport
 
-**Kevin Menz**  
-Gustav-Adolf-Straße 16  
-65195 Wiesbaden  
-Telefon: [01573 6391089](tel:+4915736391089)  
-E-Mail: [kevinmarcelmenz@web.de](mailto:kevinmarcelmenz@web.de)
+**Oliver Gorgels**  
+Platter Straße 73  
+65193 Wiesbaden  
+Telefon: [0171 5407677](tel:+491715407677)  
+E-Mail: [phantasialand_fan@hotmail.com](mailto:phantasialand_fan@hotmail.com)
 
 ## Kassenwärtin
 
@@ -56,7 +56,13 @@ Von-Leyden-Straße 46
 65191 Wiesbaden  
 E-Mail: [aherberger@makrolog.de](mailto:aherberger@makrolog.de)
 
-## Jugendwart
+## 1. Jugendwart
+
+**Kevin Menz**  
+Rudolf-Vogt-Straße 27  
+65187 Wiesbaden
+
+## 2. Jugendwart
 
 **Dennis von Hoeßle**  
 Philippsbergstraße 1  
@@ -65,7 +71,7 @@ Telefon: [01578 6117899](tel:+4915786117899)
 E-Mail: [dennisedlervonhoessle@gmx.de](mailto:dennisedlervonhoessle@gmx.de)
 
 ## 1. Jugendsprecher
-**Max Klessing**
+**Karl Eirund**
 
 ## 2. Jugendsprecher
 **Tayler Biefang**
@@ -73,15 +79,13 @@ E-Mail: [dennisedlervonhoessle@gmx.de](mailto:dennisedlervonhoessle@gmx.de)
 ## Jugendsprecher Radsport (Downhill)
 **Benedict Schäfer**
 
-## Fachwart Breitensport
-
-**Oliver Gorgels**  
-Platter Straße 73  
-65193 Wiesbaden  
-Telefon: [0171 5407677](tel:+491715407677)  
-E-Mail: [phantasialand_fan@hotmail.com](mailto:phantasialand_fan@hotmail.com)
-
 ## Beisitzer
+
+**Tobias Hergenroether**  
+Greifstraße 43  
+65199 Wiesbaden  
+Telefon: [0178/ 5553737](tel:+491785553737)  
+E-Mail: [Tobias.Hergenroether@gmail.com](mailto:Tobias.Hergenroether@gmail.com)
 
 **Cedric Wilson**  
 Am Mühlberg 5  
