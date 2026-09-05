@@ -60,12 +60,11 @@ Adamstal 1
 
 ### Start
 
-* U7: 14:00
+* U7: 14:00 Uhr
 * U9: ca. 14:15 Uhr
 * U11: ca. 14:30 Uhr
 * U13: ca. 14:45 Uhr
-* U15: ca. 15:00 Uhr
-* U17: ca. 15:30 Uhr (bei wenigen Teilnehmern Start mit U15)  
+* U15 + U17: ca. 15:00 Uhr
 
 ### Startgebühr
 5€ (am Start zu entrichten, wenn möglich passend)  
@@ -89,14 +88,13 @@ Matthias Richter, erreichbar unter [0175/3730753](tel:+491753730753) oder [schul
 
 MTB-Rennen im Wald:
 
-* U7: 2 kleine Runden
-* U9: 2 kleine Runden
-* U11: 2 Runden
-* U13: 3 Runden
-* U15: 6 Runden
-* U17: 7 Runden
+* U7: 2 kleine Runden (dicke schwarze Linie)
+* U9: 3 kleine Runden (dicke schwarze Linie)
+* U11: 2 Runden (1,2 km pro Runde)
+* U13: 3 Runden (1,2 km pro Runde)
+* U15 + U17: 5 Runden (1,2 km pro Runde)
 
-[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2023.jpg)
+[![Rennstrecke Hofgut Adamstal](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2026.jpg)](stadtmeisterschaft/WSV-Radrennen-Hofgut-Adamstal-Strecke-2026.jpg)
 
 *Geringfügige Änderungen am Streckenverlauf sind am Renntag noch möglich.*
 
