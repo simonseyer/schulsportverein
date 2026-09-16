@@ -72,7 +72,7 @@ Jetzt gilt es gemeinsam alle Schüler:innen, Lehrer:innen, Eltern und Helfer:inn
 
 ## Interaktive Karte
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AettchkqN6XyJxXN_4lRnzG4mlFtCnk&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1ZSnkjE6jDPrC01HV-nLWqVT7oK9wOBc&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Häufig gestellte Fragen und Antworten zum Aktionstag „Wiesbadener Schüler bewegen sich“
 
